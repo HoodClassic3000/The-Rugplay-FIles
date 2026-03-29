@@ -1,0 +1,32 @@
+name: Log Submission
+description: Submit your collected logs to be merged into the main database.
+title: "[LOGS]: "
+labels: ["data-submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for submitting your logs! Please remember that all submissions are subject to acceptance by HoodClassics.
+  - type: dropdown
+    id: format
+    attributes:
+      label: Which format are you submitting?
+      description: Did you process these logs into a snapshot, or is it a raw collector log?
+      options:
+        - Raw Log File
+        - Processed Snapshot
+    validations:
+      required: true
+  - type: textarea
+    id: comments
+    attributes:
+      label: Additional Notes
+      description: Any context about how long you ran the collector?
+      placeholder: e.g. Left it running for 1 day...
+  - type: textarea
+    id: file_attachment
+    attributes:
+      label: File Attachment
+      description: Drag and drop your `.json` log file into this box.
+    validations:
+      required: true
