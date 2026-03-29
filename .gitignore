@@ -1,0 +1,14 @@
+node_modules/
+.env
+.env.local
+.DS_Store
+
+logs/
+store.json
+.store.json
+.enrichment-cache.json
+
+cli/dist/
+frontend/dist/
+snapshot/
+mock/
