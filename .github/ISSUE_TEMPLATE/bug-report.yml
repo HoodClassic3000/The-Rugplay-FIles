@@ -1,0 +1,27 @@
+name: Bug Report
+description: Did the CLI crash? Userscript not loading? Frontend glitching? Let me know.
+title: "[BUG]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        If something is broken in the codebase, drop the details below so I can fix it.
+  - type: textarea
+    id: description
+    attributes:
+      label: What's broken?
+      description: Explain the bug in plain English. Try to include the error logs if the CLI crashed.
+      placeholder: I ran `node dist/index.js` and it gave an error...
+    validations:
+      required: true
+  - type: dropdown
+    id: component
+    attributes:
+      label: Which part of the project is this related to?
+      options:
+        - Collection Userscript
+        - CLI (Data enrichment / scoring)
+        - Frontend Website
+    validations:
+      required: true

@@ -1,0 +1,13 @@
+name: Feature / Metric Pitch
+description: Pitch a new idea, alt-detection scoring method, or website feature.
+title: "[IDEA]: "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: pitch
+    attributes:
+      label: Your suggestion
+      description: What are you suggesting?
+      placeholder: I think we should add...
+    validations:
+      required: true

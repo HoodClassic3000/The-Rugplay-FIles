@@ -1,0 +1,32 @@
+name: Removal Request
+description: Request to be removed from The Rugplay Files database.
+title: "[REMOVAL]: "
+labels: ["removal-request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        If you believe you have been falsely flagged or clustered with other accounts, you can submit a removal request here. Please note that all removals are completely subject to review and acceptance by @HoodClassics.
+  - type: input
+    id: username_or_userID
+    attributes:
+      label: Username / User ID
+      description: The exact username or User ID that appears in the database.
+      placeholder: e.g. @hoodclassics or 55219
+    validations:
+      required: true
+  - type: textarea
+    id: reasoning
+    attributes:
+      label: Reasoning / Evidence
+      description: Explain why you believe this account was falsely flagged. Provide any relevant context about your trades or transfers that triggered the system.
+      placeholder: I only sent funds to my friend, we are not the same person...
+    validations:
+      required: true
+  - type: checkboxes
+    id: acknowledgment
+    attributes:
+      label: Acknowledgment
+      options:
+        - label: I understand that submitting this request does not guarantee removal from the database.
+          required: true
