@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        If you believe you have been falsely flagged or clustered with other accounts, you can submit a removal request here. Please note that all removals are completely subject to review and acceptance by @HoodClassics.
+        If you believe you have been falsely flagged or clustered with other accounts, you can submit a removal request here. Please note that all removals are completely subject to review and acceptance by @HoodClassic3000.
   - type: input
     id: username_or_userID
     attributes:
