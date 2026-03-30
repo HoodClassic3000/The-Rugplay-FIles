@@ -1,0 +1,46 @@
+{
+  "userId": 17566,
+  "username": "superskibidi69",
+  "name": "superfood/superskibidi69",
+  "avatarUrl": "avatars/17566.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T14:37:57.522Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-09-26T17:31:09.232Z",
+  "stats": {
+    "baseCurrencyBalance": 100044.10435472,
+    "totalBuyVolume": 5639797.18279203,
+    "totalSellVolume": 4189402.46007945,
+    "totalPortfolioValue": 379832853.75560534,
+    "holdingsValue": 379732809.6512506,
+    "holdingsCount": 12,
+    "coinsCreated": 5,
+    "totalTransactions": 843,
+    "transactions24h": 1,
+    "buyVolume24h": 7900,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 714082.306,
+    "arcadeLosses": 890650.72346649,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "IDKCOIN",
+    "HILTON",
+    "STPCOIN",
+    "BHT",
+    "VSCC"
+  ],
+  "indicators": [],
+  "relationships": [],
+  "suspectedOwners": []
+}

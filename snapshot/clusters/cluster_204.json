@@ -1,0 +1,52 @@
+{
+  "clusterId": "cluster_204",
+  "ownerCandidates": [
+    {
+      "userId": 204,
+      "username": "guidf",
+      "confidence": 100
+    }
+  ],
+  "memberUserIds": [
+    22201,
+    22203
+  ],
+  "metrics": {
+    "totalAlts": 2,
+    "totalTransferred": 0,
+    "totalRugProfit": 60806.546068350006,
+    "totalArcadeLaundered": 0,
+    "oldestFirstSeen": "2026-03-28T13:02:12.517Z",
+    "newestFirstSeen": "2026-03-28T13:19:05.410Z"
+  },
+  "createdAt": "2026-03-30T13:06:34.573Z",
+  "updatedAt": "2026-03-30T13:06:34.573Z",
+  "members": [
+    {
+      "userId": 22201,
+      "username": "clever_whale5688",
+      "name": "luminosity",
+      "avatarUrl": "avatars/108894668809588592838.webp",
+      "overallScore": 100,
+      "overallLabel": "Very Likely",
+      "clusterId": "cluster_204",
+      "isBanned": false,
+      "firstSeen": "2026-03-28T13:02:12.517Z",
+      "isMastermind": false,
+      "mastermindScore": 0
+    },
+    {
+      "userId": 22203,
+      "username": "brave_seal9138",
+      "name": "cs2orcsgo",
+      "avatarUrl": "avatars/100089924839908881789.webp",
+      "overallScore": 100,
+      "overallLabel": "Very Likely",
+      "clusterId": "cluster_204",
+      "isBanned": false,
+      "firstSeen": "2026-03-28T13:19:05.410Z",
+      "isMastermind": false,
+      "mastermindScore": 0
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "userId": 16879,
+  "username": "brave_tiger6273",
+  "name": "Cool Stuff",
+  "avatarUrl": "avatars/111445646932395731423.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T19:34:43.203Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-08-21T17:20:14.487Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 1508400.50818857,
+    "totalSellVolume": 707658.8225796,
+    "totalPortfolioValue": 1198974.1105361348,
+    "holdingsValue": 1198974.1105361348,
+    "holdingsCount": 3,
+    "coinsCreated": 0,
+    "totalTransactions": 246,
+    "transactions24h": 1,
+    "buyVolume24h": 23400,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 0,
+    "arcadeLosses": 0,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 15624,
+      "toUsername": "phily",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 123000
+    }
+  ],
+  "suspectedOwners": []
+}

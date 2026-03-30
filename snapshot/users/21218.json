@@ -1,0 +1,46 @@
+{
+  "userId": 21218,
+  "username": "clever_seal2582",
+  "name": "Totoro Cat",
+  "avatarUrl": "avatars/101560637159091476469.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T22:37:46.804Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-02-22T18:01:54.290Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 224748.88374332,
+    "totalSellVolume": 106421.31301857,
+    "totalPortfolioValue": 3517953.876313581,
+    "holdingsValue": 3517953.876313581,
+    "holdingsCount": 28,
+    "coinsCreated": 5,
+    "totalTransactions": 161,
+    "transactions24h": 4,
+    "buyVolume24h": 35669.38415297,
+    "sellVolume24h": 228.42415297
+  },
+  "arcade": {
+    "arcadeWins": 10,
+    "arcadeLosses": 12008,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "BARBAQUE",
+    "IUSEARCH",
+    "WOKE",
+    "TDFPV",
+    "RTWC"
+  ],
+  "indicators": [],
+  "relationships": [],
+  "suspectedOwners": []
+}

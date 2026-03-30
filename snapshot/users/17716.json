@@ -1,0 +1,1369 @@
+{
+  "userId": 17716,
+  "username": "xprism",
+  "name": "Xprism250 Index Fund",
+  "avatarUrl": "avatars/17716.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T12:21:13.302Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-10-07T12:04:53.061Z",
+  "stats": {
+    "baseCurrencyBalance": 171320.74767434,
+    "totalBuyVolume": 18660172.8363368,
+    "totalSellVolume": 17118626.47801089,
+    "totalPortfolioValue": 1273340030.8916807,
+    "holdingsValue": 1273168710.1440065,
+    "holdingsCount": 250,
+    "coinsCreated": 4,
+    "totalTransactions": 42473,
+    "transactions24h": 3122,
+    "buyVolume24h": 398866.36563891,
+    "sellVolume24h": 353107.02416293
+  },
+  "arcade": {
+    "arcadeWins": 2774.66,
+    "arcadeLosses": 2900.54,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "XPRISM250",
+    "XPRISM",
+    "XPRISMPLAY",
+    "RUGPLAY250"
+  ],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 1068,
+      "toUsername": "1068",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 65.92233497676557
+    },
+    {
+      "toUserId": 15770,
+      "toUsername": "15770",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 65.65616434987896
+    },
+    {
+      "toUserId": 5003,
+      "toUsername": "5003",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 65.50803453519029
+    },
+    {
+      "toUserId": 16183,
+      "toUsername": "16183",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 170.1366392395621
+    },
+    {
+      "toUserId": 12982,
+      "toUsername": "12982",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 65.51379524641584
+    },
+    {
+      "toUserId": 15463,
+      "toUsername": "15463",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 66.88957248891029
+    },
+    {
+      "toUserId": 4208,
+      "toUsername": "4208",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 114.83122264090059
+    },
+    {
+      "toUserId": 12244,
+      "toUsername": "12244",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 65.30992873175819
+    },
+    {
+      "toUserId": 12366,
+      "toUsername": "innovator",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 155.25834267099344
+    },
+    {
+      "toUserId": 10992,
+      "toUsername": "10992",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 64.67401228741642
+    },
+    {
+      "toUserId": 18679,
+      "toUsername": "18679",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 64.65775539403649
+    },
+    {
+      "toUserId": 7492,
+      "toUsername": "top",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 65.8602630988646
+    },
+    {
+      "toUserId": 21170,
+      "toUsername": "21170",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 153.46687171395433
+    },
+    {
+      "toUserId": 5,
+      "toUsername": "endlessvoid_303",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 119.33858343337351
+    },
+    {
+      "toUserId": 12260,
+      "toUsername": "12260",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 32.3047694871284
+    },
+    {
+      "toUserId": 4123,
+      "toUsername": "4123",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 32.22479336163428
+    },
+    {
+      "toUserId": 20610,
+      "toUsername": "dougdougtheman",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 32.187259152760134
+    },
+    {
+      "toUserId": 15624,
+      "toUsername": "phily",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 32.10928276450272
+    },
+    {
+      "toUserId": 12873,
+      "toUsername": "stonks",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 82.7041052157831
+    },
+    {
+      "toUserId": 19399,
+      "toUsername": "19399",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 63.96342558228412
+    },
+    {
+      "toUserId": 1176,
+      "toUsername": "1176",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 31.95375150385189
+    },
+    {
+      "toUserId": 9270,
+      "toUsername": "rudsho",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 31.764732625774286
+    },
+    {
+      "toUserId": 14394,
+      "toUsername": "14394",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 50.816496729959454
+    },
+    {
+      "toUserId": 571,
+      "toUsername": "571",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 2919.1457139214176
+    },
+    {
+      "toUserId": 17426,
+      "toUsername": "17426",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 50.7460434992895
+    },
+    {
+      "toUserId": 17255,
+      "toUsername": "jono",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 63.36608166969381
+    },
+    {
+      "toUserId": 16875,
+      "toUsername": "kind_seal9654",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 31.53078326892478
+    },
+    {
+      "toUserId": 916,
+      "toUsername": "916",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 31.47686799100734
+    },
+    {
+      "toUserId": 11826,
+      "toUsername": "11826",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 31.304176291552494
+    },
+    {
+      "toUserId": 13978,
+      "toUsername": "13978",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 31.30214471294471
+    },
+    {
+      "toUserId": 533,
+      "toUsername": "533",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 111.77802127569385
+    },
+    {
+      "toUserId": 20520,
+      "toUsername": "bestgambler",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 56.45837928257879
+    },
+    {
+      "toUserId": 10655,
+      "toUsername": "eulmdev",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 3406.160228321988
+    },
+    {
+      "toUserId": 37,
+      "toUsername": "37",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 31.3103475991079
+    },
+    {
+      "toUserId": 7518,
+      "toUsername": "7518",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 31.364646890580843
+    },
+    {
+      "toUserId": 4028,
+      "toUsername": "4028",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 31.216282132307924
+    },
+    {
+      "toUserId": 20135,
+      "toUsername": "konsenarbol",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 114.91719686096485
+    },
+    {
+      "toUserId": 16868,
+      "toUsername": "16868",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 31.250747925324504
+    },
+    {
+      "toUserId": 11899,
+      "toUsername": "11899",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 31.23965873977727
+    },
+    {
+      "toUserId": 17566,
+      "toUsername": "superskibidi69",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 8690.46779003672
+    },
+    {
+      "toUserId": 810,
+      "toUsername": "810",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 31.181090054325523
+    },
+    {
+      "toUserId": 8990,
+      "toUsername": "8990",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 16.710207555092325
+    },
+    {
+      "toUserId": 16931,
+      "toUsername": "16931",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 17.759160253889377
+    },
+    {
+      "toUserId": 576,
+      "toUsername": "576",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 17.74622769584107
+    },
+    {
+      "toUserId": 4424,
+      "toUsername": "4424",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 17.740100169207835
+    },
+    {
+      "toUserId": 5312,
+      "toUsername": "5312",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 17.719059344672814
+    },
+    {
+      "toUserId": 18755,
+      "toUsername": "18755",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 17.708367407907303
+    },
+    {
+      "toUserId": 14229,
+      "toUsername": "le1tny",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 17.675848349630996
+    },
+    {
+      "toUserId": 755,
+      "toUsername": "755",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 35.363215957167995
+    },
+    {
+      "toUserId": 5845,
+      "toUsername": "5845",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 17.6931658940498
+    },
+    {
+      "toUserId": 20530,
+      "toUsername": "ooo_woodenbuckle",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 32.84927333326743
+    },
+    {
+      "toUserId": 10051,
+      "toUsername": "10051",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 17.641502255001
+    },
+    {
+      "toUserId": 3810,
+      "toUsername": "3810",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 17.624352123611175
+    },
+    {
+      "toUserId": 11671,
+      "toUsername": "11671",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 17.62059090814796
+    },
+    {
+      "toUserId": 7549,
+      "toUsername": "7549",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 17.591304461765844
+    },
+    {
+      "toUserId": 4497,
+      "toUsername": "4497",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 17.54877179867742
+    },
+    {
+      "toUserId": 6998,
+      "toUsername": "6998",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 17.515536252178094
+    },
+    {
+      "toUserId": 5140,
+      "toUsername": "5140",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 17.44743763531517
+    },
+    {
+      "toUserId": 775,
+      "toUsername": "775",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 34.54737816837917
+    },
+    {
+      "toUserId": 433,
+      "toUsername": "433",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 17.250856943766053
+    },
+    {
+      "toUserId": 19255,
+      "toUsername": "19255",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 34.30899021788696
+    },
+    {
+      "toUserId": 11554,
+      "toUsername": "onepiece",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 17.151426598646253
+    },
+    {
+      "toUserId": 4816,
+      "toUsername": "4816",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 17.08588702525094
+    },
+    {
+      "toUserId": 17845,
+      "toUsername": "17845",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 17.007483814219768
+    },
+    {
+      "toUserId": 20690,
+      "toUsername": "20690",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 16.96837437034526
+    },
+    {
+      "toUserId": 6845,
+      "toUsername": "6845",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 16.936871730360508
+    },
+    {
+      "toUserId": 4195,
+      "toUsername": "4195",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 33.64729471327655
+    },
+    {
+      "toUserId": 12157,
+      "toUsername": "johelo",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 16.82202182655965
+    },
+    {
+      "toUserId": 2937,
+      "toUsername": "2937",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 16.725005728902715
+    },
+    {
+      "toUserId": 18615,
+      "toUsername": "18615",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 16.699892163373875
+    },
+    {
+      "toUserId": 8830,
+      "toUsername": "8830",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 16.694302612520232
+    },
+    {
+      "toUserId": 17339,
+      "toUsername": "17339",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 16.691023544370637
+    },
+    {
+      "toUserId": 18591,
+      "toUsername": "18591",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 33.261809942403374
+    },
+    {
+      "toUserId": 9320,
+      "toUsername": "9320",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 16.64634163798769
+    },
+    {
+      "toUserId": 11819,
+      "toUsername": "11819",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 16.641577154398306
+    },
+    {
+      "toUserId": 6,
+      "toUsername": "6",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 16.58657894147086
+    },
+    {
+      "toUserId": 5642,
+      "toUsername": "5642",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 16.494130712226706
+    },
+    {
+      "toUserId": 157,
+      "toUsername": "157",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 16.404498192302754
+    },
+    {
+      "toUserId": 8807,
+      "toUsername": "8807",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 32.64689028607347
+    },
+    {
+      "toUserId": 9903,
+      "toUsername": "inyourface3445",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 16.30987555645993
+    },
+    {
+      "toUserId": 261,
+      "toUsername": "261",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 16.306994586598307
+    },
+    {
+      "toUserId": 16100,
+      "toUsername": "16100",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 16.29888793848363
+    },
+    {
+      "toUserId": 11555,
+      "toUsername": "11555",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 16.273540658959632
+    },
+    {
+      "toUserId": 7812,
+      "toUsername": "7812",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 16.269382304661804
+    },
+    {
+      "toUserId": 8553,
+      "toUsername": "8553",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 48.486720805981236
+    },
+    {
+      "toUserId": 1257,
+      "toUsername": "1257",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 16.21439258165219
+    },
+    {
+      "toUserId": 5293,
+      "toUsername": "5293",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 16.18152166467121
+    },
+    {
+      "toUserId": 8793,
+      "toUsername": "8793",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 31.99770311556631
+    },
+    {
+      "toUserId": 4559,
+      "toUsername": "4559",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 16.16681334384384
+    },
+    {
+      "toUserId": 6219,
+      "toUsername": "6219",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 16.128718286350818
+    },
+    {
+      "toUserId": 13529,
+      "toUsername": "13529",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 32.25451139944039
+    },
+    {
+      "toUserId": 1148,
+      "toUsername": "1148",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 16.107016144684053
+    },
+    {
+      "toUserId": 19217,
+      "toUsername": "19217",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 16.10682507472393
+    },
+    {
+      "toUserId": 12179,
+      "toUsername": "12179",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 16.092317952433746
+    },
+    {
+      "toUserId": 14142,
+      "toUsername": "14142",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 16.058260567209004
+    },
+    {
+      "toUserId": 3097,
+      "toUsername": "3097",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 16.04109495798093
+    },
+    {
+      "toUserId": 4188,
+      "toUsername": "4188",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 16.005844929970408
+    },
+    {
+      "toUserId": 853,
+      "toUsername": "853",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 15.99324985785131
+    },
+    {
+      "toUserId": 3255,
+      "toUsername": "3255",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 15.988595574082183
+    },
+    {
+      "toUserId": 14829,
+      "toUsername": "daimy",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 15.981003535402692
+    },
+    {
+      "toUserId": 5268,
+      "toUsername": "5268",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 15.971661096716844
+    },
+    {
+      "toUserId": 8757,
+      "toUsername": "8757",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 31.28632543363051
+    },
+    {
+      "toUserId": 5462,
+      "toUsername": "5462",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 15.907122637045404
+    },
+    {
+      "toUserId": 9937,
+      "toUsername": "9937",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 15.906902295626537
+    },
+    {
+      "toUserId": 11702,
+      "toUsername": "11702",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 15.875923957451732
+    },
+    {
+      "toUserId": 6636,
+      "toUsername": "6636",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 15.870582396730356
+    },
+    {
+      "toUserId": 558,
+      "toUsername": "558",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 15.864906678635293
+    },
+    {
+      "toUserId": 5613,
+      "toUsername": "5613",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 15.850666577444258
+    },
+    {
+      "toUserId": 5365,
+      "toUsername": "5365",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 15.81282290464776
+    },
+    {
+      "toUserId": 1010,
+      "toUsername": "1010",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 15.798546774501006
+    },
+    {
+      "toUserId": 3102,
+      "toUsername": "3102",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 15.776723181604098
+    },
+    {
+      "toUserId": 167,
+      "toUsername": "nullmega",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 15.776617323120604
+    },
+    {
+      "toUserId": 7607,
+      "toUsername": "7607",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 15.764737659997536
+    },
+    {
+      "toUserId": 8734,
+      "toUsername": "8734",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 15.745359853616606
+    },
+    {
+      "toUserId": 12481,
+      "toUsername": "12481",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 15.738578059842325
+    },
+    {
+      "toUserId": 16237,
+      "toUsername": "teal",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 15.71139574295205
+    },
+    {
+      "toUserId": 11047,
+      "toUsername": "11047",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 15.697933026090709
+    },
+    {
+      "toUserId": 18330,
+      "toUsername": "18330",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 15.658914599609716
+    },
+    {
+      "toUserId": 21785,
+      "toUsername": "21785",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 31.166785168842125
+    },
+    {
+      "toUserId": 5329,
+      "toUsername": "5329",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 15.548423839029965
+    },
+    {
+      "toUserId": 12497,
+      "toUsername": "12497",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 15.52382665026937
+    },
+    {
+      "toUserId": 12502,
+      "toUsername": "12502",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 15.45968130197457
+    },
+    {
+      "toUserId": 7019,
+      "toUsername": "7019",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 15.455842795952094
+    },
+    {
+      "toUserId": 369,
+      "toUsername": "369",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 15.440450120925107
+    },
+    {
+      "toUserId": 19386,
+      "toUsername": "19386",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 30.84439858745793
+    },
+    {
+      "toUserId": 18582,
+      "toUsername": "18582",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 15.405333669217157
+    },
+    {
+      "toUserId": 15082,
+      "toUsername": "15082",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 30.713052720354085
+    },
+    {
+      "toUserId": 16707,
+      "toUsername": "16707",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 15.334108111701312
+    },
+    {
+      "toUserId": 13752,
+      "toUsername": "13752",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 15.334202323162344
+    },
+    {
+      "toUserId": 12983,
+      "toUsername": "12983",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 15.29453605214269
+    },
+    {
+      "toUserId": 16744,
+      "toUsername": "levleinonen",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 15.285150981478978
+    },
+    {
+      "toUserId": 8857,
+      "toUsername": "8857",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 30.466034316475884
+    },
+    {
+      "toUserId": 5124,
+      "toUsername": "5124",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 15.211747732302115
+    },
+    {
+      "toUserId": 13092,
+      "toUsername": "13092",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 15.210507098589574
+    },
+    {
+      "toUserId": 17957,
+      "toUsername": "burning0871",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 15.167519651777639
+    },
+    {
+      "toUserId": 4212,
+      "toUsername": "4212",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 15.166949931332738
+    },
+    {
+      "toUserId": 13554,
+      "toUsername": "13554",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 15.153840187931337
+    },
+    {
+      "toUserId": 6938,
+      "toUsername": "6938",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 15.136963998672286
+    },
+    {
+      "toUserId": 19819,
+      "toUsername": "19819",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 15.122066681820343
+    },
+    {
+      "toUserId": 13487,
+      "toUsername": "delphine",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 15.109850369930655
+    },
+    {
+      "toUserId": 1615,
+      "toUsername": "1615",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 15.10027540032263
+    },
+    {
+      "toUserId": 6200,
+      "toUsername": "6200",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 15.097396702649917
+    },
+    {
+      "toUserId": 782,
+      "toUsername": "782",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 15.085670156507604
+    },
+    {
+      "toUserId": 6674,
+      "toUsername": "6674",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 15.089336753703265
+    },
+    {
+      "toUserId": 11988,
+      "toUsername": "11988",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 51.23589244414188
+    },
+    {
+      "toUserId": 17120,
+      "toUsername": "kingofgoldcitizens",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 108.98043073924418
+    },
+    {
+      "toUserId": 8764,
+      "toUsername": "8764",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 49.87574996107924
+    },
+    {
+      "toUserId": 19,
+      "toUsername": "maze",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 59.24862669900085
+    },
+    {
+      "toUserId": 19114,
+      "toUsername": "19114",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 37.02286552194073
+    },
+    {
+      "toUserId": 5587,
+      "toUsername": "aew",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 36.97214059139287
+    },
+    {
+      "toUserId": 11152,
+      "toUsername": "puller_of_rugs",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 36.95082866984649
+    },
+    {
+      "toUserId": 13455,
+      "toUsername": "13455",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 59.09944191830664
+    },
+    {
+      "toUserId": 20566,
+      "toUsername": "20566",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 36.59283429571792
+    },
+    {
+      "toUserId": 19817,
+      "toUsername": "19817",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 36.53365791345573
+    },
+    {
+      "toUserId": 19808,
+      "toUsername": "19808",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 36.49336967701879
+    },
+    {
+      "toUserId": 13774,
+      "toUsername": "13774",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 116.32430128487522
+    },
+    {
+      "toUserId": 491,
+      "toUsername": "491",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 58.04636067954425
+    },
+    {
+      "toUserId": 388,
+      "toUsername": "388",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 36.2368898880045
+    },
+    {
+      "toUserId": 9807,
+      "toUsername": "9807",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 36.01857895387002
+    },
+    {
+      "toUserId": 138,
+      "toUsername": "138",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 71.97019459236822
+    },
+    {
+      "toUserId": 12004,
+      "toUsername": "12004",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 35.98056983262336
+    },
+    {
+      "toUserId": 19112,
+      "toUsername": "idk323",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 35.96105288594072
+    },
+    {
+      "toUserId": 21624,
+      "toUsername": "bananadog",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 35.840205793383575
+    },
+    {
+      "toUserId": 17924,
+      "toUsername": "smokymcbongface",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 71.49761580622362
+    },
+    {
+      "toUserId": 1184,
+      "toUsername": "1184",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 35.6902926844939
+    },
+    {
+      "toUserId": 11600,
+      "toUsername": "11600",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 57.103821689527194
+    },
+    {
+      "toUserId": 14786,
+      "toUsername": "14786",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 71.14270286429974
+    },
+    {
+      "toUserId": 21024,
+      "toUsername": "21024",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 35.50348082785399
+    },
+    {
+      "toUserId": 12960,
+      "toUsername": "12960",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 35.386025481242996
+    },
+    {
+      "toUserId": 6789,
+      "toUsername": "6789",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 56.512247145652964
+    },
+    {
+      "toUserId": 7600,
+      "toUsername": "7600",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 35.1650180829929
+    },
+    {
+      "toUserId": 13436,
+      "toUsername": "primecoins",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 34.91405606408125
+    },
+    {
+      "toUserId": 1104,
+      "toUsername": "1104",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 34.913008824715234
+    },
+    {
+      "toUserId": 9158,
+      "toUsername": "9158",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 34.646682940169285
+    },
+    {
+      "toUserId": 1101,
+      "toUsername": "1101",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 109.89426154048351
+    },
+    {
+      "toUserId": 1911,
+      "toUsername": "1911",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 34.33021870838206
+    },
+    {
+      "toUserId": 17021,
+      "toUsername": "17021",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 54.754256913412064
+    },
+    {
+      "toUserId": 4958,
+      "toUsername": "4958",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 34.18529554593806
+    },
+    {
+      "toUserId": 4209,
+      "toUsername": "4209",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 34.0750361398093
+    },
+    {
+      "toUserId": 17112,
+      "toUsername": "happy_fox1009",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 33.93596032633491
+    },
+    {
+      "toUserId": 7462,
+      "toUsername": "7462",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 33.86604249453626
+    },
+    {
+      "toUserId": 4251,
+      "toUsername": "4251",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 33.83720117286089
+    },
+    {
+      "toUserId": 18105,
+      "toUsername": "now",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 33.606671807905286
+    },
+    {
+      "toUserId": 4935,
+      "toUsername": "4935",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 67.05592097307317
+    },
+    {
+      "toUserId": 14038,
+      "toUsername": "14038",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 66.4710615259321
+    },
+    {
+      "toUserId": 18183,
+      "toUsername": "18183",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 33.414082201627934
+    },
+    {
+      "toUserId": 17324,
+      "toUsername": "17324",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 33.28730272834832
+    },
+    {
+      "toUserId": 1351,
+      "toUsername": "1351",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 31.801153165582264
+    },
+    {
+      "toUserId": 4175,
+      "toUsername": "4175",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 31.69057779210698
+    }
+  ],
+  "suspectedOwners": []
+}

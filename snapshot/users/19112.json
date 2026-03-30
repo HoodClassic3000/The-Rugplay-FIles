@@ -1,0 +1,43 @@
+{
+  "userId": 19112,
+  "username": "idk323",
+  "name": "Idk",
+  "avatarUrl": "avatars/107361994564989938716.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T21:29:14.127Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-11-19T15:55:58.985Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 1256305.97789383,
+    "totalSellVolume": 327678.66077253,
+    "totalPortfolioValue": 701501025.6944768,
+    "holdingsValue": 701501025.6944768,
+    "holdingsCount": 2,
+    "coinsCreated": 2,
+    "totalTransactions": 221,
+    "transactions24h": 1,
+    "buyVolume24h": 5600,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 681691.735,
+    "arcadeLosses": 443302.46,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "DYM",
+    "CPR"
+  ],
+  "indicators": [],
+  "relationships": [],
+  "suspectedOwners": []
+}

@@ -1,0 +1,66 @@
+{
+  "userId": 10501,
+  "username": "relay",
+  "name": "Relay",
+  "avatarUrl": "avatars/10501.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T12:35:28.062Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-06-26T14:50:14.364Z",
+  "stats": {
+    "baseCurrencyBalance": 101065.70199189,
+    "totalBuyVolume": 742969.88177154,
+    "totalSellVolume": 540512.06070111,
+    "totalPortfolioValue": 35468020.82117909,
+    "holdingsValue": 35366955.1191872,
+    "holdingsCount": 16,
+    "coinsCreated": 10,
+    "totalTransactions": 375,
+    "transactions24h": 18,
+    "buyVolume24h": 0,
+    "sellVolume24h": 63749.46247381
+  },
+  "arcade": {
+    "arcadeWins": 164.45,
+    "arcadeLosses": 320,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "GJFJ",
+    "HJJG",
+    "JDJF",
+    "BMWPNY",
+    "CVGG",
+    "CBG",
+    "FILECOIN",
+    "ETCLASSIC",
+    "BMWCOIN",
+    "SHIBA"
+  ],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 533,
+      "toUsername": "533",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 173931.86499652002
+    },
+    {
+      "toUserId": 20520,
+      "toUsername": "bestgambler",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 10000
+    }
+  ],
+  "suspectedOwners": []
+}

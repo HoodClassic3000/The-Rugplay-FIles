@@ -1,0 +1,42 @@
+{
+  "userId": 14229,
+  "username": "le1tny",
+  "name": "Le1tny FRM",
+  "avatarUrl": "avatars/118202911382188263838.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T08:40:11.270Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-07-10T21:04:33.698Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 442703.61211221,
+    "totalSellVolume": 314362.19894964,
+    "totalPortfolioValue": 197095334.73385188,
+    "holdingsValue": 197095334.73385188,
+    "holdingsCount": 1,
+    "coinsCreated": 1,
+    "totalTransactions": 173,
+    "transactions24h": 4,
+    "buyVolume24h": 280324.18457619,
+    "sellVolume24h": 244124.18457619
+  },
+  "arcade": {
+    "arcadeWins": 500,
+    "arcadeLosses": 500,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "FRM6B"
+  ],
+  "indicators": [],
+  "relationships": [],
+  "suspectedOwners": []
+}

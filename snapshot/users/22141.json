@@ -1,0 +1,247 @@
+{
+  "userId": 22141,
+  "username": "lucky_tiger3611",
+  "name": "Dj",
+  "avatarUrl": "avatars/112641553831569598364.webp",
+  "overallScore": 75,
+  "overallLabel": "Likely",
+  "clusterId": "cluster_22115",
+  "isBanned": false,
+  "firstSeen": "2026-03-29T05:49:04.546Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-03-25T13:18:25.181Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 10800.33,
+    "totalSellVolume": 10799.98999292,
+    "totalPortfolioValue": 0.3312631234856682,
+    "holdingsValue": 0.3312631234856682,
+    "holdingsCount": 25,
+    "coinsCreated": 1,
+    "totalTransactions": 44,
+    "transactions24h": 0,
+    "buyVolume24h": 0,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 0,
+    "arcadeLosses": 0,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "PLANTTT"
+  ],
+  "indicators": [
+    {
+      "type": "cash_funnel",
+      "score": 75,
+      "candidateMainUserId": 22115,
+      "details": {
+        "recipientUsername": "cii",
+        "totalTransferred": 33799.66,
+        "transferShare": 1,
+        "balanceShare": 1,
+        "estimatedPreTransferBalance": 33800,
+        "eventCount": 2,
+        "accountAgeDays": 4.7,
+        "isNewAccount": true,
+        "isCreatedThisMonth": true
+      },
+      "evidenceTransactionIds": [
+        1975723,
+        1976408
+      ],
+      "detectedAt": "2026-03-30T13:06:34.510Z",
+      "summary": "Transferred 100% of total wealth ($33,799.66) to one account across 2 transfer(s). Account age: 4.7 days."
+    }
+  ],
+  "relationships": [
+    {
+      "toUserId": 16183,
+      "toUsername": "16183",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 0.01
+    },
+    {
+      "toUserId": 12366,
+      "toUsername": "innovator",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 0.01
+    },
+    {
+      "toUserId": 21170,
+      "toUsername": "21170",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 0.01
+    },
+    {
+      "toUserId": 9270,
+      "toUsername": "rudsho",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 0.01
+    },
+    {
+      "toUserId": 14394,
+      "toUsername": "14394",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 0.01
+    },
+    {
+      "toUserId": 17426,
+      "toUsername": "17426",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 0.01
+    },
+    {
+      "toUserId": 12873,
+      "toUsername": "stonks",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 0.01
+    },
+    {
+      "toUserId": 533,
+      "toUsername": "533",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 0.01
+    },
+    {
+      "toUserId": 20520,
+      "toUsername": "bestgambler",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 0.01
+    },
+    {
+      "toUserId": 11988,
+      "toUsername": "11988",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 0.01
+    },
+    {
+      "toUserId": 17120,
+      "toUsername": "kingofgoldcitizens",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 0.01
+    },
+    {
+      "toUserId": 8764,
+      "toUsername": "8764",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 0.01
+    },
+    {
+      "toUserId": 19,
+      "toUsername": "maze",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 0.01
+    },
+    {
+      "toUserId": 13455,
+      "toUsername": "13455",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 0.01
+    },
+    {
+      "toUserId": 13774,
+      "toUsername": "13774",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 0.01
+    },
+    {
+      "toUserId": 491,
+      "toUsername": "491",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 0.01
+    },
+    {
+      "toUserId": 11600,
+      "toUsername": "11600",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 0.01
+    },
+    {
+      "toUserId": 6789,
+      "toUsername": "6789",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 0.01
+    },
+    {
+      "toUserId": 1101,
+      "toUsername": "1101",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 0.01
+    },
+    {
+      "toUserId": 17021,
+      "toUsername": "17021",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 0.01
+    },
+    {
+      "toUserId": 5,
+      "toUsername": "endlessvoid_303",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 0.01
+    },
+    {
+      "toUserId": 9531,
+      "toUsername": "exceptionee",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 0.01
+    },
+    {
+      "toUserId": 19726,
+      "toUsername": "xbank",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 0.01
+    },
+    {
+      "toUserId": 20163,
+      "toUsername": "20163",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 0.1
+    },
+    {
+      "toUserId": 6652,
+      "toUsername": "6652",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 0.01
+    }
+  ],
+  "suspectedOwners": [
+    {
+      "userId": 22115,
+      "username": "22115",
+      "confidence": 75
+    }
+  ]
+}

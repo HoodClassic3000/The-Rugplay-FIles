@@ -1,0 +1,102 @@
+{
+  "userId": 5732,
+  "username": "dingdong",
+  "name": "DingDong",
+  "avatarUrl": "avatars/5732.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T13:39:40.239Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-06-23T18:57:10.676Z",
+  "stats": {
+    "baseCurrencyBalance": 530805.27634651,
+    "totalBuyVolume": 1625276770.278577,
+    "totalSellVolume": 1665692614.8175988,
+    "totalPortfolioValue": 10231107.17864666,
+    "holdingsValue": 9700301.90230015,
+    "holdingsCount": 13553,
+    "coinsCreated": 10,
+    "totalTransactions": 97380,
+    "transactions24h": 5462,
+    "buyVolume24h": 1973854.53581349,
+    "sellVolume24h": 34153.31414016
+  },
+  "arcade": {
+    "arcadeWins": 15969341.04613163,
+    "arcadeLosses": 20376194.37923451,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "BICCH",
+    "BRAINFUCK",
+    "ONIONSITE",
+    "YMY",
+    "DBY",
+    "BJKUGYG",
+    "BFKUJF",
+    "WSTHSYRXSW",
+    "86985",
+    "674674U",
+    "BOSH"
+  ],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 22201,
+      "toUsername": "clever_whale5688",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 500
+    },
+    {
+      "toUserId": 22202,
+      "toUsername": "phone",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 1147.63363073
+    },
+    {
+      "toUserId": 22205,
+      "toUsername": "clever_wolf7247",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 300
+    },
+    {
+      "toUserId": 17614,
+      "toUsername": "17614",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 300
+    },
+    {
+      "toUserId": 1387,
+      "toUsername": "leethana",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 300
+    },
+    {
+      "toUserId": 22203,
+      "toUsername": "brave_seal9138",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 300
+    },
+    {
+      "toUserId": 22206,
+      "toUsername": "brave_seal4684",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 300
+    }
+  ],
+  "suspectedOwners": []
+}

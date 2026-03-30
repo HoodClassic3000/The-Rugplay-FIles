@@ -1,0 +1,50 @@
+{
+  "userId": 22205,
+  "username": "clever_wolf7247",
+  "name": "Vicente Antunes",
+  "avatarUrl": "avatars/108685344942952495553.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T13:26:05.285Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-03-28T13:25:59.731Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 16600,
+    "totalSellVolume": 100,
+    "totalPortfolioValue": 243.19890413002364,
+    "holdingsValue": 243.19890413002364,
+    "holdingsCount": 1,
+    "coinsCreated": 1,
+    "totalTransactions": 3,
+    "transactions24h": 0,
+    "buyVolume24h": 0,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 0,
+    "arcadeLosses": 0,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "HHHH77474"
+  ],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 22201,
+      "toUsername": "clever_whale5688",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 33100
+    }
+  ],
+  "suspectedOwners": []
+}

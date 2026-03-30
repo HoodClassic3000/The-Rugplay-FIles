@@ -1,0 +1,68 @@
+{
+  "userId": 20374,
+  "username": "vix",
+  "name": "vixie",
+  "avatarUrl": "avatars/100765240708551703323.webp",
+  "overallScore": 10,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T07:30:40.847Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-01-26T10:19:28.301Z",
+  "stats": {
+    "baseCurrencyBalance": 2750,
+    "totalBuyVolume": 773284.44592219,
+    "totalSellVolume": 5690.77627508,
+    "totalPortfolioValue": 8764800.27866571,
+    "holdingsValue": 8762050.27866571,
+    "holdingsCount": 2,
+    "coinsCreated": 0,
+    "totalTransactions": 598,
+    "transactions24h": 1,
+    "buyVolume24h": 10000,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 4721.46,
+    "arcadeLosses": 6807,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [],
+  "indicators": [
+    {
+      "type": "coin_funnel",
+      "score": 10,
+      "candidateMainUserId": 20299,
+      "candidateMainUsername": "cool_tiger4022",
+      "detectedAt": "2026-03-30T13:06:34.513Z",
+      "details": {
+        "totalMarketValueTransferred": 9988695.652383711,
+        "maxDrainShare": 0,
+        "eventCount": 3
+      },
+      "summary": "Funneled market value $9,988,695.652 (unknown fraction) to one account across 3 transfer(s)."
+    }
+  ],
+  "relationships": [
+    {
+      "toUserId": 20299,
+      "toUsername": "cool_tiger4022",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 25700
+    }
+  ],
+  "suspectedOwners": [
+    {
+      "userId": 20299,
+      "username": "cool_tiger4022",
+      "confidence": 10
+    }
+  ]
+}

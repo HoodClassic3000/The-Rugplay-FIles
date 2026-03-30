@@ -1,0 +1,225 @@
+{
+  "userId": 22220,
+  "username": "happy_bear4482",
+  "name": "Eytan Barakas",
+  "avatarUrl": "avatars/113113629471041707747.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T16:13:11.564Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-03-29T16:09:15.599Z",
+  "stats": {
+    "baseCurrencyBalance": 22698.67670112,
+    "totalBuyVolume": 127441.23945287,
+    "totalSellVolume": 102619.34715399,
+    "totalPortfolioValue": 84183.0862454198,
+    "holdingsValue": 61484.4095442998,
+    "holdingsCount": 27,
+    "coinsCreated": 1,
+    "totalTransactions": 72,
+    "transactions24h": 72,
+    "buyVolume24h": 127441.23945287,
+    "sellVolume24h": 102619.34715399
+  },
+  "arcade": {
+    "arcadeWins": 522.569,
+    "arcadeLosses": 702,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "BRN"
+  ],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 9270,
+      "toUsername": "rudsho",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 1
+    },
+    {
+      "toUserId": 533,
+      "toUsername": "533",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 954
+    },
+    {
+      "toUserId": 17614,
+      "toUsername": "17614",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 41998
+    },
+    {
+      "toUserId": 21785,
+      "toUsername": "21785",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 1
+    },
+    {
+      "toUserId": 11687,
+      "toUsername": "11687",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 0.01
+    },
+    {
+      "toUserId": 22110,
+      "toUsername": "22110",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 0.001
+    },
+    {
+      "toUserId": 18435,
+      "toUsername": "18435",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 31969.8873241
+    },
+    {
+      "toUserId": 8851,
+      "toUsername": "8851",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 0.001
+    },
+    {
+      "toUserId": 5961,
+      "toUsername": "iswear",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 0.0001
+    },
+    {
+      "toUserId": 11600,
+      "toUsername": "11600",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 1
+    },
+    {
+      "toUserId": 21972,
+      "toUsername": "21972",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 1
+    },
+    {
+      "toUserId": 15480,
+      "toUsername": "15480",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 0.001
+    },
+    {
+      "toUserId": 19649,
+      "toUsername": "19649",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 0.01
+    },
+    {
+      "toUserId": 18317,
+      "toUsername": "18317",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 0.01
+    },
+    {
+      "toUserId": 8764,
+      "toUsername": "8764",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 1
+    },
+    {
+      "toUserId": 12873,
+      "toUsername": "stonks",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 2
+    },
+    {
+      "toUserId": 17358,
+      "toUsername": "strawberry",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 1
+    },
+    {
+      "toUserId": 20520,
+      "toUsername": "bestgambler",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 1
+    },
+    {
+      "toUserId": 13455,
+      "toUsername": "13455",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 1
+    },
+    {
+      "toUserId": 491,
+      "toUsername": "491",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 2
+    },
+    {
+      "toUserId": 11988,
+      "toUsername": "11988",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 1
+    },
+    {
+      "toUserId": 9531,
+      "toUsername": "exceptionee",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 1
+    },
+    {
+      "toUserId": 17426,
+      "toUsername": "17426",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 1
+    },
+    {
+      "toUserId": 17021,
+      "toUsername": "17021",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 1
+    },
+    {
+      "toUserId": 8105,
+      "toUsername": "michaeldell",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 1
+    },
+    {
+      "toUserId": 810,
+      "toUsername": "810",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 1
+    }
+  ],
+  "suspectedOwners": []
+}

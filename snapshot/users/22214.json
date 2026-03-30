@@ -1,0 +1,50 @@
+{
+  "userId": 22214,
+  "username": "cool_fox9505",
+  "name": "Absolutely Not",
+  "avatarUrl": "avatars/107881052040597499091.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T20:54:44.743Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-03-28T20:52:30.757Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 17505.2,
+    "totalSellVolume": 0,
+    "totalPortfolioValue": 41348.04846643049,
+    "holdingsValue": 41348.04846643049,
+    "holdingsCount": 1,
+    "coinsCreated": 1,
+    "totalTransactions": 1,
+    "transactions24h": 0,
+    "buyVolume24h": 0,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 30523.2,
+    "arcadeLosses": 44718,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "CCC2"
+  ],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 4071,
+      "toUsername": "2late",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 35010.4
+    }
+  ],
+  "suspectedOwners": []
+}

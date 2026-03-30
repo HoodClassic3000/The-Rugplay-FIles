@@ -1,0 +1,50 @@
+{
+  "userId": 17843,
+  "username": "cool_panda1477",
+  "name": "Mr gamble",
+  "avatarUrl": "avatars/109286236773473195064.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T14:22:07.016Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-10-16T14:11:55.895Z",
+  "stats": {
+    "baseCurrencyBalance": 17000.07964235,
+    "totalBuyVolume": 858818.42397633,
+    "totalSellVolume": 750889.45821409,
+    "totalPortfolioValue": 119135.91191284185,
+    "holdingsValue": 102135.83227049185,
+    "holdingsCount": 3,
+    "coinsCreated": 1,
+    "totalTransactions": 157,
+    "transactions24h": 1,
+    "buyVolume24h": 2000,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 770773.44574235,
+    "arcadeLosses": 869439.99552941,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "BTCJR"
+  ],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 8105,
+      "toUsername": "michaeldell",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 4000
+    }
+  ],
+  "suspectedOwners": []
+}

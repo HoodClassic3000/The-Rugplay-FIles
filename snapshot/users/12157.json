@@ -1,0 +1,42 @@
+{
+  "userId": 12157,
+  "username": "johelo",
+  "name": "Johelo",
+  "avatarUrl": "avatars/114132211728761162849.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T13:12:10.106Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-06-29T19:23:36.605Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 1017441.45754574,
+    "totalSellVolume": 64821.0501012,
+    "totalPortfolioValue": 83534896.18487921,
+    "holdingsValue": 83534896.18487921,
+    "holdingsCount": 1,
+    "coinsCreated": 1,
+    "totalTransactions": 242,
+    "transactions24h": 1,
+    "buyVolume24h": 2489.2047823,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 14147.594,
+    "arcadeLosses": 11380,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "SCHWANZ"
+  ],
+  "indicators": [],
+  "relationships": [],
+  "suspectedOwners": []
+}

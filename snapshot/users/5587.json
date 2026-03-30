@@ -1,0 +1,61 @@
+{
+  "userId": 5587,
+  "username": "aew",
+  "name": "AEW",
+  "avatarUrl": "avatars/5587.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T07:43:48.861Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-06-23T17:59:00.045Z",
+  "stats": {
+    "baseCurrencyBalance": 26738.46364778,
+    "totalBuyVolume": 9982513.53311951,
+    "totalSellVolume": 6670905.5574016,
+    "totalPortfolioValue": 28108042828.60516,
+    "holdingsValue": 28108016090.141514,
+    "holdingsCount": 69,
+    "coinsCreated": 5,
+    "totalTransactions": 3576,
+    "transactions24h": 2,
+    "buyVolume24h": 700,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 316926.04,
+    "arcadeLosses": 278690,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "FACTORIO",
+    "HUNG",
+    "GORO",
+    "WWE",
+    "AEW"
+  ],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 22224,
+      "toUsername": "hyperzteam",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 500
+    },
+    {
+      "toUserId": 21591,
+      "toUsername": "kentroix",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 200
+    }
+  ],
+  "suspectedOwners": []
+}

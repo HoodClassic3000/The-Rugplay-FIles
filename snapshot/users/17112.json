@@ -1,0 +1,59 @@
+{
+  "userId": 17112,
+  "username": "happy_fox1009",
+  "name": "Person",
+  "avatarUrl": null,
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T17:07:14.832Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-09-04T13:42:17.686Z",
+  "stats": {
+    "baseCurrencyBalance": 58251.39338551,
+    "totalBuyVolume": 11702713.94155387,
+    "totalSellVolume": 10331528.19162515,
+    "totalPortfolioValue": 663670076.602374,
+    "holdingsValue": 663611825.2089884,
+    "holdingsCount": 146,
+    "coinsCreated": 10,
+    "totalTransactions": 1505,
+    "transactions24h": 2,
+    "buyVolume24h": 10999,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 7126898.76852553,
+    "arcadeLosses": 7169273.40151828,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "DDPIIMC",
+    "SPRINGDPED",
+    "TESTHI",
+    "DDWI",
+    "300TILCHRI",
+    "25CENT",
+    "PRICETEST",
+    "NEWCOIN4",
+    "NEWCOIN3",
+    "NEWCOIN2"
+  ],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 21909,
+      "toUsername": "edthebest18main",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 999
+    }
+  ],
+  "suspectedOwners": []
+}

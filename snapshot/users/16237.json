@@ -1,0 +1,150 @@
+{
+  "userId": 16237,
+  "username": "teal",
+  "name": "griffin",
+  "avatarUrl": "avatars/16237.webp",
+  "overallScore": 40,
+  "overallLabel": "Possible",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T23:34:21.897Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-07-31T04:07:28.629Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 1319419.32122114,
+    "totalSellVolume": 860073.61084736,
+    "totalPortfolioValue": 51247943.73289174,
+    "holdingsValue": 51247943.73289174,
+    "holdingsCount": 7,
+    "coinsCreated": 9,
+    "totalTransactions": 4852,
+    "transactions24h": 7,
+    "buyVolume24h": 4931.81898156,
+    "sellVolume24h": 1711.83898156
+  },
+  "arcade": {
+    "arcadeWins": 313853.98943573,
+    "arcadeLosses": 397485.74410145,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "COMMENTS",
+    "MAHMUNZ",
+    "RPMT",
+    "HAX",
+    "TESTCOIN12",
+    "ARUGPULL",
+    "FORG",
+    "PISSER",
+    "HORSEHORSE"
+  ],
+  "indicators": [
+    {
+      "type": "single_holder_buyer",
+      "score": 40,
+      "candidateMainUserId": 16260,
+      "details": {
+        "rugSequenceCount": 8,
+        "totalLost": 19639.94,
+        "totalBought": 19980,
+        "uniqueCoinsInvolved": [
+          "PISSER"
+        ],
+        "sequences": [
+          {
+            "coinSymbol": "PISSER",
+            "buyAmount": 3000,
+            "sellReturn": 100,
+            "buyTimestamp": "2026-03-27T01:56:30.828Z",
+            "sellTimestamp": "2026-03-28T03:37:13.620Z"
+          },
+          {
+            "coinSymbol": "PISSER",
+            "buyAmount": 3500,
+            "sellReturn": 100,
+            "buyTimestamp": "2026-03-28T03:10:01.621Z",
+            "sellTimestamp": "2026-03-28T03:37:13.620Z"
+          },
+          {
+            "coinSymbol": "PISSER",
+            "buyAmount": 5000,
+            "sellReturn": 100,
+            "buyTimestamp": "2026-03-28T03:10:58.489Z",
+            "sellTimestamp": "2026-03-28T03:37:13.620Z"
+          },
+          {
+            "coinSymbol": "PISSER",
+            "buyAmount": 100,
+            "sellReturn": 0.02,
+            "buyTimestamp": "2026-03-28T05:00:53.994Z",
+            "sellTimestamp": "2026-03-30T02:32:09.569Z"
+          },
+          {
+            "coinSymbol": "PISSER",
+            "buyAmount": 4000,
+            "sellReturn": 20,
+            "buyTimestamp": "2026-03-28T23:34:21.783Z",
+            "sellTimestamp": "2026-03-29T02:41:07.483Z"
+          },
+          {
+            "coinSymbol": "PISSER",
+            "buyAmount": 40,
+            "sellReturn": 0.02,
+            "buyTimestamp": "2026-03-29T02:41:22.643Z",
+            "sellTimestamp": "2026-03-30T02:32:09.569Z"
+          },
+          {
+            "coinSymbol": "PISSER",
+            "buyAmount": 4300,
+            "sellReturn": 20,
+            "buyTimestamp": "2026-03-30T00:15:57.350Z",
+            "sellTimestamp": "2026-03-30T00:58:00.492Z"
+          },
+          {
+            "coinSymbol": "PISSER",
+            "buyAmount": 40,
+            "sellReturn": 0.02,
+            "buyTimestamp": "2026-03-30T00:58:19.701Z",
+            "sellTimestamp": "2026-03-30T02:32:09.569Z"
+          }
+        ]
+      },
+      "evidenceTransactionIds": [
+        1970230,
+        1961657,
+        1961618,
+        1960505,
+        1960495,
+        1960493,
+        1954072,
+        1948333,
+        1948302,
+        1973668,
+        1973656,
+        1973653,
+        1984709,
+        1984708,
+        1984657,
+        1984965,
+        1984964,
+        1984963
+      ],
+      "detectedAt": "2026-03-30T13:06:34.499Z",
+      "summary": "Rugged 8 time(s) continuously buying coins pumped by a top holder, losing a total of $19,639.94."
+    }
+  ],
+  "relationships": [],
+  "suspectedOwners": [
+    {
+      "userId": 16260,
+      "username": "16260",
+      "confidence": 40
+    }
+  ]
+}

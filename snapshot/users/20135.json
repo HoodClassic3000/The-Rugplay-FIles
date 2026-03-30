@@ -1,0 +1,46 @@
+{
+  "userId": 20135,
+  "username": "konsenarbol",
+  "name": "Happu",
+  "avatarUrl": "avatars/20135.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T13:25:32.950Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-01-23T17:04:26.295Z",
+  "stats": {
+    "baseCurrencyBalance": 2569.38430868,
+    "totalBuyVolume": 1104423.35217,
+    "totalSellVolume": 312747.89644659,
+    "totalPortfolioValue": 1385075931.0943298,
+    "holdingsValue": 1385073361.7100213,
+    "holdingsCount": 18,
+    "coinsCreated": 5,
+    "totalTransactions": 230,
+    "transactions24h": 0,
+    "buyVolume24h": 0,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 1000079.58094775,
+    "arcadeLosses": 1053172.6984443,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "TSM1",
+    "KSA",
+    "HCG",
+    "TDS",
+    "IAF"
+  ],
+  "indicators": [],
+  "relationships": [],
+  "suspectedOwners": []
+}

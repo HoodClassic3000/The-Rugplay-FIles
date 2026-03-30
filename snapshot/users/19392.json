@@ -1,0 +1,66 @@
+{
+  "userId": 19392,
+  "username": "boongie",
+  "name": "boongie",
+  "avatarUrl": "avatars/19392.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T13:40:11.829Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-12-05T08:50:38.401Z",
+  "stats": {
+    "baseCurrencyBalance": 17000,
+    "totalBuyVolume": 481533121.64942515,
+    "totalSellVolume": 501174810.68161917,
+    "totalPortfolioValue": 1796001.244106617,
+    "holdingsValue": 1779001.244106617,
+    "holdingsCount": 9,
+    "coinsCreated": 10,
+    "totalTransactions": 1349,
+    "transactions24h": 7,
+    "buyVolume24h": 1482142.98176502,
+    "sellVolume24h": 782694.26233052
+  },
+  "arcade": {
+    "arcadeWins": 151495.76,
+    "arcadeLosses": 50041,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "REALGAY",
+    "NIKLAS",
+    "BRP24",
+    "BRP23",
+    "BRP22",
+    "BRP21",
+    "BRP20",
+    "BRP19",
+    "BRP18",
+    "BRP17"
+  ],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 21182,
+      "toUsername": "21182",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 1364897.43886898
+    },
+    {
+      "toUserId": 8105,
+      "toUsername": "michaeldell",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 2964285.96353004
+    }
+  ],
+  "suspectedOwners": []
+}

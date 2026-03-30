@@ -1,0 +1,46 @@
+{
+  "userId": 13487,
+  "username": "delphine",
+  "name": "Belle",
+  "avatarUrl": "avatars/13487.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T15:46:25.339Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-07-05T12:38:30.284Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 8769307.76335934,
+    "totalSellVolume": 6341275.866818,
+    "totalPortfolioValue": 133924481.55996205,
+    "holdingsValue": 133924481.55996205,
+    "holdingsCount": 1,
+    "coinsCreated": 5,
+    "totalTransactions": 214,
+    "transactions24h": 2,
+    "buyVolume24h": 3900,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 16500,
+    "arcadeLosses": 13097,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "RESTORE",
+    "EEC",
+    "FTBCPWCN",
+    "OSRS",
+    "BELLE"
+  ],
+  "indicators": [],
+  "relationships": [],
+  "suspectedOwners": []
+}

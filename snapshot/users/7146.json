@@ -1,0 +1,74 @@
+{
+  "userId": 7146,
+  "username": "zshadowultra",
+  "name": "Z-SHADOW ULTRA",
+  "avatarUrl": "avatars/107197373469924455608.webp",
+  "overallScore": 55,
+  "overallLabel": "Possible",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-30T00:21:14.881Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-06-24T10:05:48.835Z",
+  "stats": {
+    "baseCurrencyBalance": 0.90765023,
+    "totalBuyVolume": 1781823.47250317,
+    "totalSellVolume": 1759448.71781019,
+    "totalPortfolioValue": 2210.3580385034643,
+    "holdingsValue": 2209.4503882734643,
+    "holdingsCount": 9,
+    "coinsCreated": 5,
+    "totalTransactions": 531,
+    "transactions24h": 4,
+    "buyVolume24h": 0,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 344445.1,
+    "arcadeLosses": 660790,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "JEEONCP",
+    "LDMT",
+    "DORAEMON",
+    "BRFK",
+    "BFK"
+  ],
+  "indicators": [
+    {
+      "type": "cash_funnel",
+      "score": 55,
+      "candidateMainUserId": 5188,
+      "details": {
+        "recipientUsername": "warehouse",
+        "totalTransferred": 20000,
+        "transferShare": 1,
+        "balanceShare": 1,
+        "estimatedPreTransferBalance": 20001,
+        "eventCount": 1,
+        "accountAgeDays": 278.9,
+        "isNewAccount": false,
+        "isCreatedThisMonth": false
+      },
+      "evidenceTransactionIds": [
+        1841856
+      ],
+      "detectedAt": "2026-03-30T13:06:34.567Z",
+      "summary": "Transferred 100% of total wealth ($20,000) to one account across 1 transfer(s). Account age: 278.9 days."
+    }
+  ],
+  "relationships": [],
+  "suspectedOwners": [
+    {
+      "userId": 5188,
+      "username": "5188",
+      "confidence": 55
+    }
+  ]
+}

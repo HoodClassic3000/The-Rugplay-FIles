@@ -1,0 +1,51 @@
+{
+  "userId": 13355,
+  "username": "paulwalker",
+  "name": "Paul Walker",
+  "avatarUrl": "avatars/13355.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T11:21:21.542Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-07-04T11:17:52.468Z",
+  "stats": {
+    "baseCurrencyBalance": 1303538.45780607,
+    "totalBuyVolume": 17191972.32583643,
+    "totalSellVolume": 17042849.33397091,
+    "totalPortfolioValue": 758061327.08577,
+    "holdingsValue": 756757788.6279639,
+    "holdingsCount": 288,
+    "coinsCreated": 10,
+    "totalTransactions": 1658,
+    "transactions24h": 1,
+    "buyVolume24h": 25000,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 8534318.8301,
+    "arcadeLosses": 11033519.57933625,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "FAMILY",
+    "CNUT",
+    "EDLAD",
+    "COSANOSTRA",
+    "OMERTA",
+    "BRRT",
+    "SAVECOIN",
+    "ICCK",
+    "EACOIN",
+    "PAGANICOIN"
+  ],
+  "indicators": [],
+  "relationships": [],
+  "suspectedOwners": []
+}

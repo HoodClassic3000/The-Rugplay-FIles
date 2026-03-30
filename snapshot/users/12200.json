@@ -1,0 +1,267 @@
+{
+  "userId": 12200,
+  "username": "kraz",
+  "name": "KraZ",
+  "avatarUrl": "avatars/12200.webp",
+  "overallScore": 40,
+  "overallLabel": "Possible",
+  "clusterId": "cluster_167",
+  "isBanned": false,
+  "firstSeen": "2026-03-28T19:11:04.286Z",
+  "isMastermind": true,
+  "mastermindScore": 100,
+  "createdAt": "2025-06-29T22:10:53.906Z",
+  "stats": {
+    "baseCurrencyBalance": 63760,
+    "totalBuyVolume": 154181567.841639,
+    "totalSellVolume": 174463883.52651247,
+    "totalPortfolioValue": 63760,
+    "holdingsValue": 0,
+    "holdingsCount": 0,
+    "coinsCreated": 10,
+    "totalTransactions": 4238,
+    "transactions24h": 0,
+    "buyVolume24h": 0,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 167659045.40926194,
+    "arcadeLosses": 162132916.53563565,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "BETTERBANK",
+    "BANKOFKRAZ",
+    "NOOB3",
+    "NOOB2",
+    "FREEHOURLY",
+    "800HOURLY",
+    "WALES",
+    "FIVE",
+    "P2W",
+    "UPDAILY",
+    "DONATE1"
+  ],
+  "indicators": [
+    {
+      "type": "single_holder_buyer",
+      "score": 40,
+      "candidateMainUserId": 167,
+      "details": {
+        "rugSequenceCount": 19,
+        "totalLost": 1324937.6038409697,
+        "totalBought": 1325000,
+        "uniqueCoinsInvolved": [
+          "XPRISM250"
+        ],
+        "sequences": [
+          {
+            "coinSymbol": "XPRISM250",
+            "buyAmount": 50000,
+            "sellReturn": 3.28400837,
+            "buyTimestamp": "2026-03-27T16:17:42.712Z",
+            "sellTimestamp": "2026-03-28T19:26:47.652Z"
+          },
+          {
+            "coinSymbol": "XPRISM250",
+            "buyAmount": 25000,
+            "sellReturn": 3.28400837,
+            "buyTimestamp": "2026-03-28T19:11:04.179Z",
+            "sellTimestamp": "2026-03-28T19:26:47.652Z"
+          },
+          {
+            "coinSymbol": "XPRISM250",
+            "buyAmount": 25000,
+            "sellReturn": 3.28400837,
+            "buyTimestamp": "2026-03-28T19:11:14.084Z",
+            "sellTimestamp": "2026-03-28T19:26:47.652Z"
+          },
+          {
+            "coinSymbol": "XPRISM250",
+            "buyAmount": 25000,
+            "sellReturn": 3.28400837,
+            "buyTimestamp": "2026-03-28T19:11:33.426Z",
+            "sellTimestamp": "2026-03-28T19:26:47.652Z"
+          },
+          {
+            "coinSymbol": "XPRISM250",
+            "buyAmount": 25000,
+            "sellReturn": 3.28400837,
+            "buyTimestamp": "2026-03-28T19:12:20.948Z",
+            "sellTimestamp": "2026-03-28T19:26:47.652Z"
+          },
+          {
+            "coinSymbol": "XPRISM250",
+            "buyAmount": 25000,
+            "sellReturn": 3.28400837,
+            "buyTimestamp": "2026-03-28T19:12:37.485Z",
+            "sellTimestamp": "2026-03-28T19:26:47.652Z"
+          },
+          {
+            "coinSymbol": "XPRISM250",
+            "buyAmount": 25000,
+            "sellReturn": 3.28400837,
+            "buyTimestamp": "2026-03-28T19:13:19.532Z",
+            "sellTimestamp": "2026-03-28T19:26:47.652Z"
+          },
+          {
+            "coinSymbol": "XPRISM250",
+            "buyAmount": 25000,
+            "sellReturn": 3.28400837,
+            "buyTimestamp": "2026-03-28T19:13:31.444Z",
+            "sellTimestamp": "2026-03-28T19:26:47.652Z"
+          },
+          {
+            "coinSymbol": "XPRISM250",
+            "buyAmount": 25000,
+            "sellReturn": 3.28400837,
+            "buyTimestamp": "2026-03-28T19:14:21.971Z",
+            "sellTimestamp": "2026-03-28T19:26:47.652Z"
+          },
+          {
+            "coinSymbol": "XPRISM250",
+            "buyAmount": 25000,
+            "sellReturn": 3.28400837,
+            "buyTimestamp": "2026-03-28T19:14:38.626Z",
+            "sellTimestamp": "2026-03-28T19:26:47.652Z"
+          },
+          {
+            "coinSymbol": "XPRISM250",
+            "buyAmount": 25000,
+            "sellReturn": 3.28400837,
+            "buyTimestamp": "2026-03-28T19:16:28.008Z",
+            "sellTimestamp": "2026-03-28T19:26:47.652Z"
+          },
+          {
+            "coinSymbol": "XPRISM250",
+            "buyAmount": 25000,
+            "sellReturn": 3.28400837,
+            "buyTimestamp": "2026-03-28T19:16:41.164Z",
+            "sellTimestamp": "2026-03-28T19:26:47.652Z"
+          },
+          {
+            "coinSymbol": "XPRISM250",
+            "buyAmount": 25000,
+            "sellReturn": 3.28400837,
+            "buyTimestamp": "2026-03-28T19:17:03.941Z",
+            "sellTimestamp": "2026-03-28T19:26:47.652Z"
+          },
+          {
+            "coinSymbol": "XPRISM250",
+            "buyAmount": 25000,
+            "sellReturn": 3.28400837,
+            "buyTimestamp": "2026-03-28T19:17:32.115Z",
+            "sellTimestamp": "2026-03-28T19:26:47.652Z"
+          },
+          {
+            "coinSymbol": "XPRISM250",
+            "buyAmount": 25000,
+            "sellReturn": 3.28400837,
+            "buyTimestamp": "2026-03-28T19:17:43.016Z",
+            "sellTimestamp": "2026-03-28T19:26:47.652Z"
+          },
+          {
+            "coinSymbol": "XPRISM250",
+            "buyAmount": 25000,
+            "sellReturn": 3.28400837,
+            "buyTimestamp": "2026-03-28T19:18:08.694Z",
+            "sellTimestamp": "2026-03-28T19:26:47.652Z"
+          },
+          {
+            "coinSymbol": "XPRISM250",
+            "buyAmount": 300000,
+            "sellReturn": 3.28400837,
+            "buyTimestamp": "2026-03-28T19:22:54.872Z",
+            "sellTimestamp": "2026-03-28T19:26:47.652Z"
+          },
+          {
+            "coinSymbol": "XPRISM250",
+            "buyAmount": 300000,
+            "sellReturn": 3.28400837,
+            "buyTimestamp": "2026-03-28T19:23:47.650Z",
+            "sellTimestamp": "2026-03-28T19:26:47.652Z"
+          },
+          {
+            "coinSymbol": "XPRISM250",
+            "buyAmount": 300000,
+            "sellReturn": 3.28400837,
+            "buyTimestamp": "2026-03-28T19:24:15.798Z",
+            "sellTimestamp": "2026-03-28T19:26:47.652Z"
+          }
+        ]
+      },
+      "evidenceTransactionIds": [
+        1966847,
+        1966842,
+        1966831,
+        1966825,
+        1966822,
+        1956817,
+        1956815,
+        1966935,
+        1966928,
+        1966923,
+        1966916,
+        1966909,
+        1966905,
+        1966879,
+        1966875,
+        1966862,
+        1966859,
+        1967012,
+        1967007,
+        1967002,
+        1966952,
+        1967036,
+        1967019
+      ],
+      "detectedAt": "2026-03-30T13:06:34.485Z",
+      "summary": "Rugged 19 time(s) continuously buying coins pumped by a top holder, losing a total of $1,324,937.604."
+    },
+    {
+      "type": "mastermind_activity",
+      "score": 100,
+      "candidateMainUserId": 12200,
+      "details": {
+        "totalAlts": 3,
+        "totalTransferred": 130166.87797868,
+        "totalRugProfit": 0,
+        "totalArcadeLaundered": 0
+      },
+      "detectedAt": "2026-03-30T13:06:34.573Z",
+      "summary": "Beneficiary of syndicate network laundering. Cluster contains 3 suspected alts transferring $130,166.878 directly and profiting $0 from coordinated coin buys."
+    }
+  ],
+  "relationships": [
+    {
+      "toUserId": 5732,
+      "toUsername": "dingdong",
+      "type": "transfer_funnel",
+      "weight": 0,
+      "totalValueMoved": 6498199.99751983
+    },
+    {
+      "toUserId": 17716,
+      "toUsername": "xprism",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 3500000
+    }
+  ],
+  "suspectedOwners": [
+    {
+      "userId": 12200,
+      "username": "kraz",
+      "confidence": 100
+    },
+    {
+      "userId": 167,
+      "username": "nullmega",
+      "confidence": 40
+    }
+  ]
+}

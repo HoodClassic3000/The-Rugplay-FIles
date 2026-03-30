@@ -1,0 +1,332 @@
+{
+  "userId": 167,
+  "username": "nullmega",
+  "name": "Nullmega",
+  "avatarUrl": "avatars/167.webp",
+  "overallScore": 55,
+  "overallLabel": "Possible",
+  "clusterId": "cluster_167",
+  "isBanned": false,
+  "firstSeen": "2026-03-28T16:52:57.576Z",
+  "isMastermind": true,
+  "mastermindScore": 75,
+  "createdAt": "2025-05-30T14:06:34.635Z",
+  "stats": {
+    "baseCurrencyBalance": 59500.00395635,
+    "totalBuyVolume": 2141481.87318247,
+    "totalSellVolume": 1339936.98688989,
+    "totalPortfolioValue": 262223395.13685918,
+    "holdingsValue": 262163895.13290283,
+    "holdingsCount": 272,
+    "coinsCreated": 10,
+    "totalTransactions": 1257,
+    "transactions24h": 36,
+    "buyVolume24h": 28888.02,
+    "sellVolume24h": 15288.97278689
+  },
+  "arcade": {
+    "arcadeWins": 87282.863,
+    "arcadeLosses": 90786,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "DDS",
+    "TEL",
+    "BNKCN",
+    "BCH",
+    "TRX",
+    "SUI",
+    "POL",
+    "SOL",
+    "GK",
+    "DDUU"
+  ],
+  "indicators": [
+    {
+      "type": "single_holder_buyer",
+      "score": 30,
+      "candidateMainUserId": 17832,
+      "details": {
+        "rugSequenceCount": 4,
+        "totalLost": 2999.99434056,
+        "totalBought": 3000,
+        "uniqueCoinsInvolved": [
+          "XPRISM250"
+        ],
+        "sequences": [
+          {
+            "coinSymbol": "XPRISM250",
+            "buyAmount": 500,
+            "sellReturn": 0.00141486,
+            "buyTimestamp": "2026-03-28T02:09:30.339Z",
+            "sellTimestamp": "2026-03-28T20:54:33.158Z"
+          },
+          {
+            "coinSymbol": "XPRISM250",
+            "buyAmount": 500,
+            "sellReturn": 0.00141486,
+            "buyTimestamp": "2026-03-28T02:09:38.533Z",
+            "sellTimestamp": "2026-03-28T20:54:33.158Z"
+          },
+          {
+            "coinSymbol": "XPRISM250",
+            "buyAmount": 1000,
+            "sellReturn": 0.00141486,
+            "buyTimestamp": "2026-03-28T16:53:04.653Z",
+            "sellTimestamp": "2026-03-28T20:54:33.158Z"
+          },
+          {
+            "coinSymbol": "XPRISM250",
+            "buyAmount": 1000,
+            "sellReturn": 0.00141486,
+            "buyTimestamp": "2026-03-28T16:53:27.721Z",
+            "sellTimestamp": "2026-03-28T20:54:33.158Z"
+          }
+        ]
+      },
+      "evidenceTransactionIds": [
+        1964752,
+        1964750,
+        1960047,
+        1960044,
+        1964760,
+        1964756,
+        1968257,
+        1968252
+      ],
+      "detectedAt": "2026-03-30T13:06:34.480Z",
+      "summary": "Rugged 4 time(s) continuously buying coins pumped by a top holder, losing a total of $2,999.994."
+    },
+    {
+      "type": "single_holder_buyer",
+      "score": 25,
+      "candidateMainUserId": 22225,
+      "details": {
+        "rugSequenceCount": 3,
+        "totalLost": 1499.81964411,
+        "totalBought": 1500,
+        "uniqueCoinsInvolved": [
+          "THEALXLABS"
+        ],
+        "sequences": [
+          {
+            "coinSymbol": "THEALXLABS",
+            "buyAmount": 500,
+            "sellReturn": 0.06011863,
+            "buyTimestamp": "2026-03-29T19:39:49.184Z",
+            "sellTimestamp": "2026-03-29T19:40:42.659Z"
+          },
+          {
+            "coinSymbol": "THEALXLABS",
+            "buyAmount": 500,
+            "sellReturn": 0.06011863,
+            "buyTimestamp": "2026-03-29T19:39:54.841Z",
+            "sellTimestamp": "2026-03-29T19:40:42.659Z"
+          },
+          {
+            "coinSymbol": "THEALXLABS",
+            "buyAmount": 500,
+            "sellReturn": 0.06011863,
+            "buyTimestamp": "2026-03-29T19:40:21.416Z",
+            "sellTimestamp": "2026-03-29T19:40:42.659Z"
+          }
+        ]
+      },
+      "evidenceTransactionIds": [
+        1981379,
+        1981371,
+        1981369,
+        1981367,
+        1981363,
+        1981360,
+        1981355,
+        1981353
+      ],
+      "detectedAt": "2026-03-30T13:06:34.480Z",
+      "summary": "Rugged 3 time(s) continuously buying coins pumped by a top holder, losing a total of $1,499.82."
+    },
+    {
+      "type": "mastermind_activity",
+      "score": 75,
+      "candidateMainUserId": 167,
+      "details": {
+        "totalAlts": 2,
+        "totalTransferred": 0,
+        "totalRugProfit": 0,
+        "totalArcadeLaundered": 0
+      },
+      "detectedAt": "2026-03-30T13:06:34.573Z",
+      "summary": "Beneficiary of syndicate network laundering. Cluster contains 2 suspected alts transferring $0 directly and profiting $0 from coordinated coin buys."
+    }
+  ],
+  "relationships": [
+    {
+      "toUserId": 16183,
+      "toUsername": "16183",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 500
+    },
+    {
+      "toUserId": 4208,
+      "toUsername": "4208",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 500
+    },
+    {
+      "toUserId": 15082,
+      "toUsername": "15082",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 500
+    },
+    {
+      "toUserId": 17716,
+      "toUsername": "xprism",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 6500
+    },
+    {
+      "toUserId": 4071,
+      "toUsername": "2late",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 500
+    },
+    {
+      "toUserId": 12200,
+      "toUsername": "kraz",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 500
+    },
+    {
+      "toUserId": 17832,
+      "toUsername": "nowon",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 500
+    },
+    {
+      "toUserId": 18435,
+      "toUsername": "18435",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 500
+    },
+    {
+      "toUserId": 22225,
+      "toUsername": "thealxlabs",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 4100
+    },
+    {
+      "toUserId": 18671,
+      "toUsername": "ohrii",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 3500
+    },
+    {
+      "toUserId": 13487,
+      "toUsername": "delphine",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 500
+    },
+    {
+      "toUserId": 12982,
+      "toUsername": "12982",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 500
+    },
+    {
+      "toUserId": 5067,
+      "toUsername": "5067",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 500
+    },
+    {
+      "toUserId": 14630,
+      "toUsername": "14630",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 500
+    },
+    {
+      "toUserId": 15346,
+      "toUsername": "15346",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 500
+    },
+    {
+      "toUserId": 18122,
+      "toUsername": "goat",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 500
+    },
+    {
+      "toUserId": 14123,
+      "toUsername": "14123",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 500
+    },
+    {
+      "toUserId": 12435,
+      "toUsername": "qwlit",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 500
+    },
+    {
+      "toUserId": 22167,
+      "toUsername": "bright_whale8077",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 1000
+    },
+    {
+      "toUserId": 18164,
+      "toUsername": "scout",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 1000
+    },
+    {
+      "toUserId": 22165,
+      "toUsername": "lucky_boiii",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 500
+    }
+  ],
+  "suspectedOwners": [
+    {
+      "userId": 167,
+      "username": "nullmega",
+      "confidence": 75
+    },
+    {
+      "userId": 17832,
+      "username": "nowon",
+      "confidence": 30
+    },
+    {
+      "userId": 22225,
+      "username": "thealxlabs",
+      "confidence": 25
+    }
+  ]
+}

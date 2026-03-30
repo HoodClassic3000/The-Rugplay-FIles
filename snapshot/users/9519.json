@@ -1,0 +1,176 @@
+{
+  "userId": 9519,
+  "username": "unitedkingdom",
+  "name": "UK Gov",
+  "avatarUrl": "avatars/9519.webp",
+  "overallScore": 40,
+  "overallLabel": "Possible",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T15:47:08.759Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-06-25T17:20:47.741Z",
+  "stats": {
+    "baseCurrencyBalance": 0.12331881,
+    "totalBuyVolume": 1589594.83103842,
+    "totalSellVolume": 1048615.0438714,
+    "totalPortfolioValue": 0.12331881,
+    "holdingsValue": 0,
+    "holdingsCount": 0,
+    "coinsCreated": 5,
+    "totalTransactions": 1018,
+    "transactions24h": 350,
+    "buyVolume24h": 335427.127485,
+    "sellVolume24h": 351782.25080381
+  },
+  "arcade": {
+    "arcadeWins": 117773,
+    "arcadeLosses": 171440,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "ZGM",
+    "BTB",
+    "GB",
+    "REFORM",
+    "COOM"
+  ],
+  "indicators": [
+    {
+      "type": "single_holder_buyer",
+      "score": 40,
+      "candidateMainUserId": 13487,
+      "details": {
+        "rugSequenceCount": 6,
+        "totalLost": 262906.0182685,
+        "totalBought": 265936.0182685,
+        "uniqueCoinsInvolved": [
+          "RESTORE"
+        ],
+        "sequences": [
+          {
+            "coinSymbol": "RESTORE",
+            "buyAmount": 1310,
+            "sellReturn": 10,
+            "buyTimestamp": "2026-03-29T15:47:08.640Z",
+            "sellTimestamp": "2026-03-30T00:27:43.477Z"
+          },
+          {
+            "coinSymbol": "RESTORE",
+            "buyAmount": 57896.25228006,
+            "sellReturn": 1000,
+            "buyTimestamp": "2026-03-29T23:59:50.815Z",
+            "sellTimestamp": "2026-03-30T00:13:22.551Z"
+          },
+          {
+            "coinSymbol": "RESTORE",
+            "buyAmount": 125530.40637731,
+            "sellReturn": 1000,
+            "buyTimestamp": "2026-03-30T00:03:10.916Z",
+            "sellTimestamp": "2026-03-30T00:13:22.551Z"
+          },
+          {
+            "coinSymbol": "RESTORE",
+            "buyAmount": 80000.85098676,
+            "sellReturn": 1000,
+            "buyTimestamp": "2026-03-30T00:05:42.769Z",
+            "sellTimestamp": "2026-03-30T00:13:22.551Z"
+          },
+          {
+            "coinSymbol": "RESTORE",
+            "buyAmount": 1000,
+            "sellReturn": 10,
+            "buyTimestamp": "2026-03-30T00:13:42.873Z",
+            "sellTimestamp": "2026-03-30T00:27:43.477Z"
+          },
+          {
+            "coinSymbol": "RESTORE",
+            "buyAmount": 198.50862437,
+            "sellReturn": 10,
+            "buyTimestamp": "2026-03-30T00:14:21.020Z",
+            "sellTimestamp": "2026-03-30T00:27:43.477Z"
+          }
+        ]
+      },
+      "evidenceTransactionIds": [
+        1980190,
+        1952111,
+        1952109,
+        1984722,
+        1984721,
+        1984720,
+        1984719,
+        1984717,
+        1984715,
+        1984714,
+        1984713,
+        1984712,
+        1984711,
+        1984436,
+        1984427,
+        1984540,
+        1984520,
+        1984496,
+        1984481,
+        1984626,
+        1984692,
+        1984674,
+        1984673,
+        1984638,
+        1984634,
+        1984630,
+        1984710,
+        1984707,
+        1984706,
+        1984705,
+        1984704,
+        1984703,
+        1984698
+      ],
+      "detectedAt": "2026-03-30T13:06:34.535Z",
+      "summary": "Rugged 6 time(s) continuously buying coins pumped by a top holder, losing a total of $262,906.018."
+    }
+  ],
+  "relationships": [
+    {
+      "toUserId": 13487,
+      "toUsername": "delphine",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 776421.9518694299
+    },
+    {
+      "toUserId": 10302,
+      "toUsername": "zxd",
+      "type": "transfer_funnel",
+      "weight": 0,
+      "totalValueMoved": 958.14584511
+    },
+    {
+      "toUserId": 7146,
+      "toUsername": "zshadowultra",
+      "type": "transfer_funnel",
+      "weight": 0,
+      "totalValueMoved": 927.47872183
+    },
+    {
+      "toUserId": 18105,
+      "toUsername": "now",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 76460.664352
+    }
+  ],
+  "suspectedOwners": [
+    {
+      "userId": 13487,
+      "username": "delphine",
+      "confidence": 40
+    }
+  ]
+}

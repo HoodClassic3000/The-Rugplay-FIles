@@ -1,0 +1,48 @@
+{
+  "userId": 19980,
+  "username": "ryzehosting",
+  "name": "Finn H.",
+  "avatarUrl": "avatars/109658180182861526416.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T18:07:18.295Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-01-15T16:09:44.654Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 618131.95953129,
+    "totalSellVolume": 3895.95953129,
+    "totalPortfolioValue": 13210408.765631797,
+    "holdingsValue": 13210408.765631797,
+    "holdingsCount": 1,
+    "coinsCreated": 0,
+    "totalTransactions": 84,
+    "transactions24h": 0,
+    "buyVolume24h": 0,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 10,
+    "arcadeLosses": 0,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 20012,
+      "toUsername": "xdpsoul",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 4200
+    }
+  ],
+  "suspectedOwners": []
+}

@@ -1,0 +1,73 @@
+{
+  "userId": 796,
+  "username": "cart",
+  "name": "Cart1416",
+  "avatarUrl": "avatars/796.png",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T02:50:06.126Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-05-31T13:57:18.066Z",
+  "stats": {
+    "baseCurrencyBalance": 295055.50819543,
+    "totalBuyVolume": 2901701.38188482,
+    "totalSellVolume": 2910169.67253521,
+    "totalPortfolioValue": 6708411.540079592,
+    "holdingsValue": 6413356.031884162,
+    "holdingsCount": 16,
+    "coinsCreated": 10,
+    "totalTransactions": 221,
+    "transactions24h": 5,
+    "buyVolume24h": 1.13028,
+    "sellVolume24h": 1.13028
+  },
+  "arcade": {
+    "arcadeWins": 8142746.57930205,
+    "arcadeLosses": 12066168.4,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "TESTLOAN",
+    "PLZBUY2",
+    "PLZBUY",
+    "RUGSOON2",
+    "RUGSOON",
+    "HHCIPT",
+    "PLSNOSELL",
+    "PS1",
+    "PS2",
+    "PS3"
+  ],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 1387,
+      "toUsername": "leethana",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 999
+    },
+    {
+      "toUserId": 6938,
+      "toUsername": "6938",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 2000
+    },
+    {
+      "toUserId": 15915,
+      "toUsername": "crackhead",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 1.13028
+    }
+  ],
+  "suspectedOwners": []
+}

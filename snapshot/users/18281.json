@@ -1,0 +1,48 @@
+{
+  "userId": 18281,
+  "username": "krvzlover",
+  "name": "Krvz Hater",
+  "avatarUrl": "avatars/18281.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T23:22:43.609Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-10-28T00:58:40.306Z",
+  "stats": {
+    "baseCurrencyBalance": 20074.18,
+    "totalBuyVolume": 8073438.91770515,
+    "totalSellVolume": 6130533.44177032,
+    "totalPortfolioValue": 447123.95696302684,
+    "holdingsValue": 427049.77696302684,
+    "holdingsCount": 37,
+    "coinsCreated": 0,
+    "totalTransactions": 5953,
+    "transactions24h": 0,
+    "buyVolume24h": 0,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 1000497.0838,
+    "arcadeLosses": 1046405.19,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 17716,
+      "toUsername": "xprism",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 549183.5276
+    }
+  ],
+  "suspectedOwners": []
+}

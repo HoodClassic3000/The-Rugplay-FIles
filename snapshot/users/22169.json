@@ -1,0 +1,48 @@
+{
+  "userId": 22169,
+  "username": "hoodiddy",
+  "name": "rugplayer",
+  "avatarUrl": "avatars/22169.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-30T03:20:01.623Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-03-27T00:12:12.442Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 3900.9312,
+    "totalSellVolume": 1300,
+    "totalPortfolioValue": 42113.96854910297,
+    "holdingsValue": 42113.96854910297,
+    "holdingsCount": 1,
+    "coinsCreated": 0,
+    "totalTransactions": 5,
+    "transactions24h": 1,
+    "buyVolume24h": 2600.9312,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 254236.9312,
+    "arcadeLosses": 386536,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 4429,
+      "toUsername": "4429",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 7802.7936
+    }
+  ],
+  "suspectedOwners": []
+}

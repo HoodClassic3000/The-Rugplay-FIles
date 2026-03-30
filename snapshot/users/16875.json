@@ -1,0 +1,51 @@
+{
+  "userId": 16875,
+  "username": "kind_seal9654",
+  "name": "Ethan Lim",
+  "avatarUrl": "avatars/16875.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T02:41:15.519Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-08-21T07:20:32.840Z",
+  "stats": {
+    "baseCurrencyBalance": 28600,
+    "totalBuyVolume": 40887135.07108766,
+    "totalSellVolume": 38799177.317536,
+    "totalPortfolioValue": 3258531519.880297,
+    "holdingsValue": 3258502919.880297,
+    "holdingsCount": 28,
+    "coinsCreated": 10,
+    "totalTransactions": 1824,
+    "transactions24h": 1,
+    "buyVolume24h": 300,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 571169.31,
+    "arcadeLosses": 591498,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "WRTHNDR",
+    "SCSG",
+    "MFBA",
+    "NBLC",
+    "HCZ",
+    "RFZ",
+    "TSTR",
+    "BLOXED",
+    "TLSGP",
+    "TECZ"
+  ],
+  "indicators": [],
+  "relationships": [],
+  "suspectedOwners": []
+}

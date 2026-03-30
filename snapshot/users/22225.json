@@ -1,0 +1,107 @@
+{
+  "userId": 22225,
+  "username": "thealxlabs",
+  "name": "TheAlxLabs",
+  "avatarUrl": "avatars/22225.webp",
+  "overallScore": 25,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T19:34:54.224Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-03-29T19:29:54.802Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 170087.5321529,
+    "totalSellVolume": 147632.5321529,
+    "totalPortfolioValue": 133701.82920830217,
+    "holdingsValue": 133701.82920830217,
+    "holdingsCount": 1,
+    "coinsCreated": 1,
+    "totalTransactions": 40,
+    "transactions24h": 40,
+    "buyVolume24h": 170087.5321529,
+    "sellVolume24h": 147632.5321529
+  },
+  "arcade": {
+    "arcadeWins": 10,
+    "arcadeLosses": 10255,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "THEALXLABS"
+  ],
+  "indicators": [
+    {
+      "type": "single_holder_buyer",
+      "score": 25,
+      "candidateMainUserId": 167,
+      "details": {
+        "rugSequenceCount": 3,
+        "totalLost": 49986.463121240005,
+        "totalBought": 54108.72122603,
+        "uniqueCoinsInvolved": [
+          "THEALXLABS"
+        ],
+        "sequences": [
+          {
+            "coinSymbol": "THEALXLABS",
+            "buyAmount": 22223.68446494,
+            "sellReturn": 1374.08603493,
+            "buyTimestamp": "2026-03-29T19:39:33.967Z",
+            "sellTimestamp": "2026-03-29T19:40:49.986Z"
+          },
+          {
+            "coinSymbol": "THEALXLABS",
+            "buyAmount": 15880.01876155,
+            "sellReturn": 1374.08603493,
+            "buyTimestamp": "2026-03-29T19:40:07.319Z",
+            "sellTimestamp": "2026-03-29T19:40:49.986Z"
+          },
+          {
+            "coinSymbol": "THEALXLABS",
+            "buyAmount": 16005.01799954,
+            "sellReturn": 1374.08603493,
+            "buyTimestamp": "2026-03-29T19:40:23.055Z",
+            "sellTimestamp": "2026-03-29T19:40:49.986Z"
+          }
+        ]
+      },
+      "evidenceTransactionIds": [
+        1981321,
+        1981358,
+        1981357,
+        1981356,
+        1981354,
+        1981352,
+        1981350,
+        1981348,
+        1981347,
+        1981345,
+        1981344,
+        1981368,
+        1981366,
+        1981365,
+        1981364,
+        1981362,
+        1981361,
+        1981359
+      ],
+      "detectedAt": "2026-03-30T13:06:34.555Z",
+      "summary": "Rugged 3 time(s) continuously buying coins pumped by a top holder, losing a total of $49,986.463."
+    }
+  ],
+  "relationships": [],
+  "suspectedOwners": [
+    {
+      "userId": 167,
+      "username": "nullmega",
+      "confidence": 25
+    }
+  ]
+}

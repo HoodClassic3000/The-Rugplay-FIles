@@ -1,0 +1,48 @@
+{
+  "userId": 19711,
+  "username": "wild_wolf9939",
+  "name": "cubic",
+  "avatarUrl": "avatars/116742118113612904022.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T15:28:52.884Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-12-28T02:14:20.850Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 0,
+    "totalSellVolume": 0,
+    "totalPortfolioValue": 696.2416832,
+    "holdingsValue": 696.2416832,
+    "holdingsCount": 1,
+    "coinsCreated": 0,
+    "totalTransactions": 2,
+    "transactions24h": 1,
+    "buyVolume24h": 0,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 0,
+    "arcadeLosses": 1300,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 4237,
+      "toUsername": "lncvrt",
+      "type": "transfer_funnel",
+      "weight": 0,
+      "totalValueMoved": 7200
+    }
+  ],
+  "suspectedOwners": []
+}

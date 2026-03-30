@@ -1,0 +1,76 @@
+{
+  "userId": 22058,
+  "username": "chooped",
+  "name": "chooped",
+  "avatarUrl": "avatars/22058.webp",
+  "overallScore": 75,
+  "overallLabel": "Likely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T16:24:55.079Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-03-23T02:30:48.941Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 11843505.08164297,
+    "totalSellVolume": 10947605.91899852,
+    "totalPortfolioValue": 47952.095267156554,
+    "holdingsValue": 47952.095267156554,
+    "holdingsCount": 1,
+    "coinsCreated": 0,
+    "totalTransactions": 53,
+    "transactions24h": 0,
+    "buyVolume24h": 0,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 1657400.4506,
+    "arcadeLosses": 976078.95,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [],
+  "indicators": [
+    {
+      "type": "cash_funnel",
+      "score": 75,
+      "candidateMainUserId": 22200,
+      "details": {
+        "recipientUsername": "shanem72",
+        "totalTransferred": 3500000,
+        "transferShare": 1,
+        "balanceShare": 1,
+        "estimatedPreTransferBalance": 3500000,
+        "eventCount": 1,
+        "accountAgeDays": 7.2,
+        "isNewAccount": true,
+        "isCreatedThisMonth": true
+      },
+      "evidenceTransactionIds": [
+        1964713
+      ],
+      "detectedAt": "2026-03-30T13:06:34.471Z",
+      "summary": "Transferred 100% of total wealth ($3,500,000) to one account across 1 transfer(s). Account age: 7.2 days."
+    }
+  ],
+  "relationships": [
+    {
+      "toUserId": 491,
+      "toUsername": "491",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 94799.99238878
+    }
+  ],
+  "suspectedOwners": [
+    {
+      "userId": 22200,
+      "username": "22200",
+      "confidence": 75
+    }
+  ]
+}

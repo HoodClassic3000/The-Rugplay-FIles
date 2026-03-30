@@ -1,0 +1,50 @@
+{
+  "userId": 20461,
+  "username": "calm_deer4560",
+  "name": "Richard Nyabayo",
+  "avatarUrl": "avatars/100754063006242312677.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T14:17:33.602Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-01-27T06:13:11.572Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 55333.17766609,
+    "totalSellVolume": 21480.82766609,
+    "totalPortfolioValue": 139658.4307890301,
+    "holdingsValue": 139658.4307890301,
+    "holdingsCount": 3,
+    "coinsCreated": 1,
+    "totalTransactions": 26,
+    "transactions24h": 2,
+    "buyVolume24h": 3900,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 100,
+    "arcadeLosses": 36400,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "HCP"
+  ],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 8105,
+      "toUsername": "michaeldell",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 6600
+    }
+  ],
+  "suspectedOwners": []
+}

@@ -1,0 +1,95 @@
+{
+  "userId": 17103,
+  "username": "niklas",
+  "name": "Neverrugpulling",
+  "avatarUrl": "avatars/17103.webp",
+  "overallScore": 55,
+  "overallLabel": "Possible",
+  "clusterId": "cluster_12200",
+  "isBanned": false,
+  "firstSeen": "2026-03-29T13:17:17.503Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-09-04T07:14:24.231Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 156190053.42176422,
+    "totalSellVolume": 160488919.85552123,
+    "totalPortfolioValue": 3980.2137122521594,
+    "holdingsValue": 3980.2137122521594,
+    "holdingsCount": 9,
+    "coinsCreated": 10,
+    "totalTransactions": 7800,
+    "transactions24h": 7,
+    "buyVolume24h": 3801.88608939,
+    "sellVolume24h": 24.88608939
+  },
+  "arcade": {
+    "arcadeWins": 84488907.15961903,
+    "arcadeLosses": 87315518.37530525,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "QWD2",
+    "THUMPS",
+    "PLSBUY",
+    "24H5S",
+    "1DOLLLAR",
+    "HUGOK",
+    "B00NGIE",
+    "BO0NGIE",
+    "GOATC",
+    "MASTER"
+  ],
+  "indicators": [
+    {
+      "type": "cash_funnel",
+      "score": 55,
+      "candidateMainUserId": 12200,
+      "details": {
+        "recipientUsername": "kraz",
+        "totalTransferred": 100165.92778574,
+        "transferShare": 0.97,
+        "balanceShare": 0.97,
+        "estimatedPreTransferBalance": 103259,
+        "eventCount": 2,
+        "accountAgeDays": 207,
+        "isNewAccount": false,
+        "isCreatedThisMonth": false
+      },
+      "evidenceTransactionIds": [
+        1963435,
+        1948874
+      ],
+      "detectedAt": "2026-03-30T13:06:34.524Z",
+      "summary": "Transferred 97% of total wealth ($100,165.928) to one account across 2 transfer(s). Account age: 207 days."
+    }
+  ],
+  "relationships": [
+    {
+      "toUserId": 10655,
+      "toUsername": "eulmdev",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 7601.37911878
+    },
+    {
+      "toUserId": 15915,
+      "toUsername": "crackhead",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 1.19653
+    }
+  ],
+  "suspectedOwners": [
+    {
+      "userId": 12200,
+      "username": "kraz",
+      "confidence": 55
+    }
+  ]
+}

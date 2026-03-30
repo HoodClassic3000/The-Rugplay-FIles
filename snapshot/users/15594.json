@@ -1,0 +1,178 @@
+{
+  "userId": 15594,
+  "username": "schlinus8728",
+  "name": "Schlinus",
+  "avatarUrl": "avatars/101362058695467359925.webp",
+  "overallScore": 45,
+  "overallLabel": "Possible",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T09:08:00.581Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-07-21T14:27:52.947Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 542429.07315169,
+    "totalSellVolume": 388294.00107471,
+    "totalPortfolioValue": 6885905.347375213,
+    "holdingsValue": 6885905.347375213,
+    "holdingsCount": 3,
+    "coinsCreated": 2,
+    "totalTransactions": 232,
+    "transactions24h": 0,
+    "buyVolume24h": 0,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 4511.28,
+    "arcadeLosses": 7898,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "O7",
+    "SODL"
+  ],
+  "indicators": [
+    {
+      "type": "single_holder_buyer",
+      "score": 25,
+      "candidateMainUserId": 10404,
+      "details": {
+        "rugSequenceCount": 3,
+        "totalLost": 33869.03414558,
+        "totalBought": 34868.04453274,
+        "uniqueCoinsInvolved": [
+          "PENGU"
+        ],
+        "sequences": [
+          {
+            "coinSymbol": "PENGU",
+            "buyAmount": 32168.04453274,
+            "sellReturn": 999,
+            "buyTimestamp": "2026-03-18T16:53:21.342Z",
+            "sellTimestamp": "2026-03-19T17:41:10.185Z"
+          },
+          {
+            "coinSymbol": "PENGU",
+            "buyAmount": 1200,
+            "sellReturn": 0.00519358,
+            "buyTimestamp": "2026-03-28T06:53:04.781Z",
+            "sellTimestamp": "2026-03-29T09:10:38.588Z"
+          },
+          {
+            "coinSymbol": "PENGU",
+            "buyAmount": 1500,
+            "sellReturn": 0.00519358,
+            "buyTimestamp": "2026-03-29T09:08:00.469Z",
+            "sellTimestamp": "2026-03-29T09:10:38.588Z"
+          }
+        ]
+      },
+      "evidenceTransactionIds": [
+        1977077,
+        1963148,
+        1912340,
+        1910593,
+        1908418,
+        1908416,
+        1905480,
+        1977098,
+        1977096,
+        1977185
+      ],
+      "detectedAt": "2026-03-30T13:06:34.517Z",
+      "summary": "Rugged 3 time(s) continuously buying coins pumped by a top holder, losing a total of $33,869.034."
+    },
+    {
+      "type": "single_holder_buyer",
+      "score": 20,
+      "candidateMainUserId": 5732,
+      "details": {
+        "rugSequenceCount": 2,
+        "totalLost": 158914.25250064,
+        "totalBought": 166051.25426852,
+        "uniqueCoinsInvolved": [
+          "INVEST0",
+          "SODL"
+        ],
+        "sequences": [
+          {
+            "coinSymbol": "INVEST0",
+            "buyAmount": 84075.12713426,
+            "sellReturn": 7136.00176788,
+            "buyTimestamp": "2026-03-29T09:13:16.488Z",
+            "sellTimestamp": "2026-03-29T09:14:56.090Z"
+          },
+          {
+            "coinSymbol": "SODL",
+            "buyAmount": 81976.12713426,
+            "sellReturn": 1,
+            "buyTimestamp": "2026-03-29T09:19:42.118Z",
+            "sellTimestamp": "2026-03-29T09:22:42.270Z"
+          }
+        ]
+      },
+      "evidenceTransactionIds": [
+        1977133,
+        1977132,
+        1977131,
+        1977130,
+        1977129,
+        1977127,
+        1977125,
+        1977115,
+        1977179,
+        1977162
+      ],
+      "detectedAt": "2026-03-30T13:06:34.517Z",
+      "summary": "Rugged 2 time(s) continuously buying coins pumped by a top holder, losing a total of $158,914.253."
+    }
+  ],
+  "relationships": [
+    {
+      "toUserId": 13897,
+      "toUsername": "13897",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 3001
+    },
+    {
+      "toUserId": 17614,
+      "toUsername": "17614",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 168150.25426852
+    },
+    {
+      "toUserId": 5750,
+      "toUsername": "5750",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 999
+    },
+    {
+      "toUserId": 7508,
+      "toUsername": "7508",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 999
+    }
+  ],
+  "suspectedOwners": [
+    {
+      "userId": 10404,
+      "username": "10404",
+      "confidence": 25
+    },
+    {
+      "userId": 5732,
+      "username": "dingdong",
+      "confidence": 20
+    }
+  ]
+}

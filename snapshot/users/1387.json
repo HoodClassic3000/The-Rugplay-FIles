@@ -1,0 +1,51 @@
+{
+  "userId": 1387,
+  "username": "leethana",
+  "name": "Ethan Lee",
+  "avatarUrl": "avatars/1387.png",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T02:43:47.750Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-06-01T02:11:51.955Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 13527059.38390379,
+    "totalSellVolume": 12380760.81750817,
+    "totalPortfolioValue": 1677303052.7746367,
+    "holdingsValue": 1677303052.7746367,
+    "holdingsCount": 3,
+    "coinsCreated": 10,
+    "totalTransactions": 945,
+    "transactions24h": 1,
+    "buyVolume24h": 1279965.95893643,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 30552.56,
+    "arcadeLosses": 101735,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "FEDORA",
+    "KIMJONGOON",
+    "UWU3",
+    "ZENZZ",
+    "RSHYT",
+    "IRANAWAY",
+    "CHNA",
+    "YIX",
+    "RUGADS",
+    "TAPI"
+  ],
+  "indicators": [],
+  "relationships": [],
+  "suspectedOwners": []
+}

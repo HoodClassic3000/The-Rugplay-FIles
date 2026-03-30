@@ -1,0 +1,42 @@
+{
+  "userId": 10302,
+  "username": "zxd",
+  "name": "ZxverOwner",
+  "avatarUrl": "avatars/10302.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-30T00:21:14.213Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-06-26T09:40:18.344Z",
+  "stats": {
+    "baseCurrencyBalance": 99.0000121,
+    "totalBuyVolume": 110,
+    "totalSellVolume": 0.0000121,
+    "totalPortfolioValue": 2961.3195174356692,
+    "holdingsValue": 2862.3195053356694,
+    "holdingsCount": 5,
+    "coinsCreated": 1,
+    "totalTransactions": 13,
+    "transactions24h": 4,
+    "buyVolume24h": 0,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 0,
+    "arcadeLosses": 0,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "ZXD"
+  ],
+  "indicators": [],
+  "relationships": [],
+  "suspectedOwners": []
+}

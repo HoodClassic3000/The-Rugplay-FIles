@@ -1,0 +1,50 @@
+{
+  "userId": 16880,
+  "username": "sixseven",
+  "name": "67",
+  "avatarUrl": "avatars/112368007464868913682.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T19:35:09.126Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-08-21T17:21:17.498Z",
+  "stats": {
+    "baseCurrencyBalance": 87626,
+    "totalBuyVolume": 2996763.34100096,
+    "totalSellVolume": 3000975.26747639,
+    "totalPortfolioValue": 16235210.860356059,
+    "holdingsValue": 16147584.860356059,
+    "holdingsCount": 45,
+    "coinsCreated": 1,
+    "totalTransactions": 335,
+    "transactions24h": 1,
+    "buyVolume24h": 27000,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 0,
+    "arcadeLosses": 0,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "AD"
+  ],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 15624,
+      "toUsername": "phily",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 154000
+    }
+  ],
+  "suspectedOwners": []
+}

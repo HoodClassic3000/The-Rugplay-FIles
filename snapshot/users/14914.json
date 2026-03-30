@@ -1,0 +1,84 @@
+{
+  "userId": 14914,
+  "username": "niksnaks3",
+  "name": "Willem",
+  "avatarUrl": "avatars/14914.webp",
+  "overallScore": 30,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T05:54:21.023Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-07-16T03:42:00.691Z",
+  "stats": {
+    "baseCurrencyBalance": 300,
+    "totalBuyVolume": 1177169.51628127,
+    "totalSellVolume": 868318.15208505,
+    "totalPortfolioValue": 318124.1041690768,
+    "holdingsValue": 317824.1041690768,
+    "holdingsCount": 1,
+    "coinsCreated": 0,
+    "totalTransactions": 72,
+    "transactions24h": 0,
+    "buyVolume24h": 0,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 367873.03,
+    "arcadeLosses": 237767,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [],
+  "indicators": [
+    {
+      "type": "rug_laundering",
+      "score": 30,
+      "candidateMainUserId": 12366,
+      "details": {
+        "sequenceCount": 1,
+        "totalLost": 180962.4452475,
+        "totalBought": 184962.4452475,
+        "totalRecovered": 4000,
+        "maxDominantHolderPercentage": 0.995,
+        "accountAgeDays": 257.1,
+        "sequences": [
+          {
+            "coinSymbol": "THORIUM",
+            "buyAmount": 184962.4452475,
+            "sellReturn": 4000,
+            "buyTimestamp": "2026-03-19T11:24:03.668Z",
+            "sellTimestamp": "2026-03-19T11:24:24.186Z"
+          }
+        ]
+      },
+      "evidenceTransactionIds": [
+        1932245,
+        1907198,
+        1907196
+      ],
+      "detectedAt": "2026-03-30T13:06:34.511Z",
+      "summary": "Bought into a coin dominated by a single holder and was rugged across 1 sequence(s), losing a total of 180962 in-game currency."
+    }
+  ],
+  "relationships": [
+    {
+      "toUserId": 533,
+      "toUsername": "533",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 634632.01873346
+    }
+  ],
+  "suspectedOwners": [
+    {
+      "userId": 12366,
+      "username": "innovator",
+      "confidence": 30
+    }
+  ]
+}

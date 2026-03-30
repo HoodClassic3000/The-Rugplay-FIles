@@ -1,0 +1,51 @@
+{
+  "userId": 20610,
+  "username": "dougdougtheman",
+  "name": "RubberDucky",
+  "avatarUrl": "avatars/20610.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T12:43:14.422Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-01-29T07:03:48.756Z",
+  "stats": {
+    "baseCurrencyBalance": 70000.66907529,
+    "totalBuyVolume": 1300740.74,
+    "totalSellVolume": 926241.52043845,
+    "totalPortfolioValue": 440518918.0492865,
+    "holdingsValue": 440448917.3802112,
+    "holdingsCount": 2,
+    "coinsCreated": 10,
+    "totalTransactions": 489,
+    "transactions24h": 1,
+    "buyVolume24h": 8500,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 83617.7963,
+    "arcadeLosses": 87408,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "AAUSD",
+    "DKCN",
+    "HCC9",
+    "NHC2",
+    "NHC",
+    "FASC",
+    "UABLC",
+    "ASTROC",
+    "HITC",
+    "RBDCY2"
+  ],
+  "indicators": [],
+  "relationships": [],
+  "suspectedOwners": []
+}

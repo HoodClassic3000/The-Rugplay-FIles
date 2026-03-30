@@ -1,0 +1,64 @@
+{
+  "userId": 22213,
+  "username": "happy_deer7985",
+  "name": "Westline",
+  "avatarUrl": "avatars/22213.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T20:46:38.697Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-03-28T20:46:02.530Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 18585.00016509,
+    "totalSellVolume": 885.00016509,
+    "totalPortfolioValue": 67348.12661613873,
+    "holdingsValue": 67348.12661613873,
+    "holdingsCount": 1,
+    "coinsCreated": 1,
+    "totalTransactions": 7,
+    "transactions24h": 0,
+    "buyVolume24h": 0,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 0,
+    "arcadeLosses": 0,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "SOMECOIN"
+  ],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 533,
+      "toUsername": "533",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 342
+    },
+    {
+      "toUserId": 20520,
+      "toUsername": "bestgambler",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 543
+    },
+    {
+      "toUserId": 4071,
+      "toUsername": "2late",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 34515.00016509
+    }
+  ],
+  "suspectedOwners": []
+}

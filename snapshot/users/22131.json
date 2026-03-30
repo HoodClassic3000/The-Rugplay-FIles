@@ -1,0 +1,83 @@
+{
+  "userId": 22131,
+  "username": "happy_deer9102",
+  "name": "Kasper Yeung",
+  "avatarUrl": "avatars/113539730886038026538.webp",
+  "overallScore": 20,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T01:27:35.416Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-03-24T23:58:33.912Z",
+  "stats": {
+    "baseCurrencyBalance": 13370.37978293,
+    "totalBuyVolume": 31855.97549919,
+    "totalSellVolume": 38071.95928212,
+    "totalPortfolioValue": 13470.825774013438,
+    "holdingsValue": 100.44599108343685,
+    "holdingsCount": 1,
+    "coinsCreated": 0,
+    "totalTransactions": 80,
+    "transactions24h": 8,
+    "buyVolume24h": 0,
+    "sellVolume24h": 713.91033359
+  },
+  "arcade": {
+    "arcadeWins": 502984.286,
+    "arcadeLosses": 620299,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [],
+  "indicators": [
+    {
+      "type": "single_holder_buyer",
+      "score": 20,
+      "candidateMainUserId": 5732,
+      "details": {
+        "rugSequenceCount": 2,
+        "totalLost": 69.99999195999999,
+        "totalBought": 70,
+        "uniqueCoinsInvolved": [
+          "NAS"
+        ],
+        "sequences": [
+          {
+            "coinSymbol": "NAS",
+            "buyAmount": 50,
+            "sellReturn": 0.00000402,
+            "buyTimestamp": "2026-03-28T07:56:16.014Z",
+            "sellTimestamp": "2026-03-29T12:31:54.558Z"
+          },
+          {
+            "coinSymbol": "NAS",
+            "buyAmount": 20,
+            "sellReturn": 0.00000402,
+            "buyTimestamp": "2026-03-28T22:53:32.650Z",
+            "sellTimestamp": "2026-03-29T12:31:54.558Z"
+          }
+        ]
+      },
+      "evidenceTransactionIds": [
+        1969622,
+        1963421,
+        1978708
+      ],
+      "detectedAt": "2026-03-30T13:06:34.503Z",
+      "summary": "Rugged 2 time(s) continuously buying coins pumped by a top holder, losing a total of $70."
+    }
+  ],
+  "relationships": [],
+  "suspectedOwners": [
+    {
+      "userId": 5732,
+      "username": "dingdong",
+      "confidence": 20
+    }
+  ]
+}

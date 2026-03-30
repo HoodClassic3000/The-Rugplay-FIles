@@ -1,0 +1,48 @@
+{
+  "userId": 19991,
+  "username": "mynameisjohnstine",
+  "name": "John Stine",
+  "avatarUrl": "avatars/19991.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T16:51:35.298Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-01-16T14:21:30.062Z",
+  "stats": {
+    "baseCurrencyBalance": 30210.67,
+    "totalBuyVolume": 3364070.30697784,
+    "totalSellVolume": 1893200.43007784,
+    "totalPortfolioValue": 208010.32163890754,
+    "holdingsValue": 177799.65163890753,
+    "holdingsCount": 45,
+    "coinsCreated": 0,
+    "totalTransactions": 5163,
+    "transactions24h": 0,
+    "buyVolume24h": 0,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 1002900.2061,
+    "arcadeLosses": 1015967.65,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 17716,
+      "toUsername": "xprism",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 634864.5676
+    }
+  ],
+  "suspectedOwners": []
+}

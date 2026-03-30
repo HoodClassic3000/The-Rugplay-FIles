@@ -1,0 +1,51 @@
+{
+  "userId": 21624,
+  "username": "bananadog",
+  "name": "Banana Cat",
+  "avatarUrl": "avatars/21624.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T16:37:17.601Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-03-09T17:11:13.893Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 23049446.33795753,
+    "totalSellVolume": 20775826.43819569,
+    "totalPortfolioValue": 6419130580.919237,
+    "holdingsValue": 6419130580.919237,
+    "holdingsCount": 11,
+    "coinsCreated": 10,
+    "totalTransactions": 284,
+    "transactions24h": 0,
+    "buyVolume24h": 0,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 29.66,
+    "arcadeLosses": 38,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "TAHITI",
+    "EBBEFILLE",
+    "VEGANMAN",
+    "FILLE",
+    "IAMSTEVE2",
+    "STASH",
+    "BRITIAN",
+    "EUR0PE",
+    "TITANIIUM",
+    "SP0TIFY"
+  ],
+  "indicators": [],
+  "relationships": [],
+  "suspectedOwners": []
+}

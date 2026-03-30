@@ -1,0 +1,52 @@
+{
+  "clusterId": "cluster_15915",
+  "ownerCandidates": [
+    {
+      "userId": 15915,
+      "username": "crackhead",
+      "confidence": 100
+    }
+  ],
+  "memberUserIds": [
+    12873,
+    22162
+  ],
+  "metrics": {
+    "totalAlts": 2,
+    "totalTransferred": 212917.7422,
+    "totalRugProfit": 0,
+    "totalArcadeLaundered": 0,
+    "oldestFirstSeen": "2026-03-28T12:37:23.400Z",
+    "newestFirstSeen": "2026-03-28T14:48:51.405Z"
+  },
+  "createdAt": "2026-03-30T13:06:34.573Z",
+  "updatedAt": "2026-03-30T13:06:34.573Z",
+  "members": [
+    {
+      "userId": 12873,
+      "username": "stonks",
+      "name": "Stonks",
+      "avatarUrl": "avatars/12873.webp",
+      "overallScore": 90,
+      "overallLabel": "Very Likely",
+      "clusterId": "cluster_15915",
+      "isBanned": false,
+      "firstSeen": "2026-03-28T12:37:23.400Z",
+      "isMastermind": false,
+      "mastermindScore": 0
+    },
+    {
+      "userId": 22162,
+      "username": "kind_fox1283",
+      "name": "rugplayer",
+      "avatarUrl": "avatars/22162.webp",
+      "overallScore": 80,
+      "overallLabel": "Very Likely",
+      "clusterId": "cluster_15915",
+      "isBanned": false,
+      "firstSeen": "2026-03-28T14:48:51.405Z",
+      "isMastermind": false,
+      "mastermindScore": 0
+    }
+  ]
+}

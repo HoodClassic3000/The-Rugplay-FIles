@@ -1,0 +1,52 @@
+{
+  "clusterId": "cluster_167",
+  "ownerCandidates": [
+    {
+      "userId": 167,
+      "username": "nullmega",
+      "confidence": 75
+    }
+  ],
+  "memberUserIds": [
+    12873,
+    12200
+  ],
+  "metrics": {
+    "totalAlts": 2,
+    "totalTransferred": 0,
+    "totalRugProfit": 0,
+    "totalArcadeLaundered": 0,
+    "oldestFirstSeen": "2026-03-28T12:37:23.400Z",
+    "newestFirstSeen": "2026-03-28T19:11:04.286Z"
+  },
+  "createdAt": "2026-03-30T13:06:34.573Z",
+  "updatedAt": "2026-03-30T13:06:34.573Z",
+  "members": [
+    {
+      "userId": 12873,
+      "username": "stonks",
+      "name": "Stonks",
+      "avatarUrl": "avatars/12873.webp",
+      "overallScore": 90,
+      "overallLabel": "Very Likely",
+      "clusterId": "cluster_15915",
+      "isBanned": false,
+      "firstSeen": "2026-03-28T12:37:23.400Z",
+      "isMastermind": false,
+      "mastermindScore": 0
+    },
+    {
+      "userId": 12200,
+      "username": "kraz",
+      "name": "KraZ",
+      "avatarUrl": "avatars/12200.webp",
+      "overallScore": 40,
+      "overallLabel": "Possible",
+      "clusterId": "cluster_167",
+      "isBanned": false,
+      "firstSeen": "2026-03-28T19:11:04.286Z",
+      "isMastermind": true,
+      "mastermindScore": 100
+    }
+  ]
+}

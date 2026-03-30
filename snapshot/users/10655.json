@@ -1,0 +1,66 @@
+{
+  "userId": 10655,
+  "username": "eulmdev",
+  "name": "Eulm",
+  "avatarUrl": "avatars/116305113052187613081.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T13:01:56.952Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-06-26T19:37:30.016Z",
+  "stats": {
+    "baseCurrencyBalance": 4331695.80242913,
+    "totalBuyVolume": 38730521.50570095,
+    "totalSellVolume": 42030722.3120307,
+    "totalPortfolioValue": 465447891.63061714,
+    "holdingsValue": 461116195.828188,
+    "holdingsCount": 3,
+    "coinsCreated": 10,
+    "totalTransactions": 883,
+    "transactions24h": 6,
+    "buyVolume24h": 52500,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 10707117.57701553,
+    "arcadeLosses": 9985457.84018768,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "STEADY",
+    "FINALEULM",
+    "REALEULM4",
+    "RP2",
+    "JIGGLE",
+    "HELPME",
+    "IMBROKENOW",
+    "WEALTH",
+    "EULM3",
+    "GRQ"
+  ],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 22202,
+      "toUsername": "phone",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 10000
+    },
+    {
+      "toUserId": 21182,
+      "toUsername": "21182",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 100000
+    }
+  ],
+  "suspectedOwners": []
+}

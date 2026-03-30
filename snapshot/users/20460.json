@@ -1,0 +1,48 @@
+{
+  "userId": 20460,
+  "username": "lucky_wolf3997",
+  "name": "Richard Nah",
+  "avatarUrl": "avatars/100370412791750644758.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T14:16:29.258Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-01-27T06:12:02.606Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 33769.29332647,
+    "totalSellVolume": 73094.39332647,
+    "totalPortfolioValue": 29929.043813637698,
+    "holdingsValue": 29929.043813637698,
+    "holdingsCount": 3,
+    "coinsCreated": 0,
+    "totalTransactions": 17,
+    "transactions24h": 1,
+    "buyVolume24h": 1800,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 8699.5,
+    "arcadeLosses": 145804,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 8105,
+      "toUsername": "michaeldell",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 6600
+    }
+  ],
+  "suspectedOwners": []
+}

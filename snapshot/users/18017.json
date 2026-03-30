@@ -1,0 +1,64 @@
+{
+  "userId": 18017,
+  "username": "gregoria",
+  "name": "gregoria",
+  "avatarUrl": "avatars/18017.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T10:38:30.054Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-10-23T13:33:02.012Z",
+  "stats": {
+    "baseCurrencyBalance": 132048.56000054,
+    "totalBuyVolume": 116111.56725127,
+    "totalSellVolume": 62457.05389147,
+    "totalPortfolioValue": 1973981.642182745,
+    "holdingsValue": 1841933.082182205,
+    "holdingsCount": 28,
+    "coinsCreated": 1,
+    "totalTransactions": 269,
+    "transactions24h": 15,
+    "buyVolume24h": 51013.91219481,
+    "sellVolume24h": 50001.00000108
+  },
+  "arcade": {
+    "arcadeWins": 16038.23,
+    "arcadeLosses": 24,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "GREGORIA"
+  ],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 533,
+      "toUsername": "533",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 12.91219427
+    },
+    {
+      "toUserId": 12200,
+      "toUsername": "kraz",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 150003
+    },
+    {
+      "toUserId": 17358,
+      "toUsername": "strawberry",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 5.4e-7
+    }
+  ],
+  "suspectedOwners": []
+}

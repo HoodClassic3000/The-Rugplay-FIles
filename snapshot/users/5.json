@@ -1,0 +1,82 @@
+{
+  "userId": 5,
+  "username": "endlessvoid_303",
+  "name": "endlessvoid_303",
+  "avatarUrl": "avatars/5.png",
+  "overallScore": 30,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T21:58:30.151Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-05-30T13:06:09.201Z",
+  "stats": {
+    "baseCurrencyBalance": 54496.18222089,
+    "totalBuyVolume": 20601977.05787535,
+    "totalSellVolume": 19162344.58719512,
+    "totalPortfolioValue": 103895093877.7976,
+    "holdingsValue": 103895039381.61539,
+    "holdingsCount": 8,
+    "coinsCreated": 5,
+    "totalTransactions": 15630,
+    "transactions24h": 1,
+    "buyVolume24h": 2000,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 37543273.3910929,
+    "arcadeLosses": 35846051.65309277,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "MARCH2026",
+    "MILLIONACH",
+    "FEB2026",
+    "MINECRAFT",
+    "VOID"
+  ],
+  "indicators": [
+    {
+      "type": "cash_funnel",
+      "score": 30,
+      "candidateMainUserId": 12200,
+      "details": {
+        "recipientUsername": "kraz",
+        "totalTransferred": 500000,
+        "transferShare": 1,
+        "balanceShare": 0.9017,
+        "estimatedPreTransferBalance": 554496,
+        "eventCount": 1,
+        "accountAgeDays": 303.7,
+        "isNewAccount": false,
+        "isCreatedThisMonth": false
+      },
+      "evidenceTransactionIds": [
+        1947962
+      ],
+      "detectedAt": "2026-03-30T13:06:34.560Z",
+      "summary": "Transferred 90% of total wealth ($500,000) to one account across 1 transfer(s). Account age: 303.7 days."
+    }
+  ],
+  "relationships": [
+    {
+      "toUserId": 12200,
+      "toUsername": "kraz",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 4000
+    }
+  ],
+  "suspectedOwners": [
+    {
+      "userId": 12200,
+      "username": "kraz",
+      "confidence": 30
+    }
+  ]
+}
