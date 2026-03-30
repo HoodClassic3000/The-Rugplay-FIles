@@ -272,6 +272,7 @@
             if (task.userId && stats && stats.baseCurrencyBalance !== undefined) {
                 state.userBalanceCache[String(task.userId)] = {
                     balance: Number(stats.baseCurrencyBalance),
+                    holdingsValue: stats.holdingsValue !== undefined ? Number(stats.holdingsValue) : null,
                     capturedAt: Date.now(),
                 };
             }
@@ -521,6 +522,7 @@
 
         const cachedBalance = state.userBalanceCache[String(trade.userId)];
         const senderBalanceBefore = cachedBalance ? cachedBalance.balance : null;
+        const senderHoldingsBefore = cachedBalance ? cachedBalance.holdingsValue : null;
 
         state.pendingTransferOuts.push({
             fromUserId: String(trade.userId),
@@ -530,6 +532,7 @@
             timestamp: trade.timestamp,
             receivedAt: Date.now(),
             senderBalanceBefore,
+            senderHoldingsBefore,
         });
 
         trackSeenUser(trade.userId, trade.username);
@@ -564,6 +567,7 @@
                 amount: trade.totalValue,
                 timestamp: trade.timestamp,
                 senderBalanceBefore: matched.senderBalanceBefore ?? null,
+                senderHoldingsBefore: matched.senderHoldingsBefore ?? null,
             });
 
             enqueueRequest({

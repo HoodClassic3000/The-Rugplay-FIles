@@ -64,7 +64,9 @@ export function UserPage() {
         );
     }
 
-    const isClean = user.overallLabel === 'Unlikely' || user.overallScore === 0;
+    const isMastermind = user.isMastermind || !!ownedCluster;
+    const isAlt = !isMastermind && user.overallScore > 0;
+    const isClean = !isMastermind && !isAlt;
 
     return (
         <div>
@@ -74,7 +76,7 @@ export function UserPage() {
 
             <header className="dossier-card" style={{ position: 'relative' }}>
                 <div style={{ position: 'absolute', top: '20px', right: '20px' }}>
-                    <ScoreBadge score={user.overallScore} label={user.overallLabel} />
+                    <ScoreBadge score={user.overallScore} label={user.overallLabel} isMastermind={isMastermind} />
                 </div>
 
                 {user.isBanned && (
@@ -84,7 +86,7 @@ export function UserPage() {
                 )}
 
                 <h1 className="official-header" style={{ fontSize: '2.5rem', marginBottom: '0.5rem', borderBottom: '2px solid black', paddingBottom: '0.5rem', display: 'inline-block' }}>
-                    {isClean ? 'USER PROFILE' : 'SUBJECT DOSSIER'}
+                    {isMastermind ? 'MASTERMIND DOSSIER' : isClean ? 'USER PROFILE' : 'SUBJECT DOSSIER'}
                 </h1>
 
                 <div style={{ display: 'flex', alignItems: 'flex-start', gap: '2rem', marginTop: '1.5rem' }}>
@@ -100,7 +102,7 @@ export function UserPage() {
                     <div style={{ flex: 1, display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '1rem' }}>
                         <div>
                             <span className="data-label">{isClean ? 'Primary Alias / Username' : 'Primary Alias'}</span>
-                            <span className="data-value" style={{ fontSize: '1.5rem', fontWeight: 'bold' }}>
+                            <span className="data-value" style={{ fontSize: '1.5rem', fontWeight: 'bold', wordBreak: 'break-all', overflowWrap: 'anywhere' }}>
                                 {user.name || user.username || `UNKNOWN_SUBJECT_${user.userId}`}
                             </span>
                         </div>

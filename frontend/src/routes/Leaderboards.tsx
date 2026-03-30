@@ -55,7 +55,11 @@ export function Leaderboards() {
         return 0;
     };
 
-    const sortedUsers = [...data.users].sort((a, b) => {
+    const filteredUsers = sortBy === 'alts' 
+        ? data.users.filter(u => u.isMastermind)
+        : data.users;
+
+    const sortedUsers = [...filteredUsers].sort((a, b) => {
         let result: number;
         switch (sortBy) {
             case 'transfers':
@@ -162,7 +166,7 @@ export function Leaderboards() {
                                         #{index + 1}
                                     </div>
                                     <div>
-                                        <div className="data-value" style={{ fontSize: '1.2rem', fontWeight: 'bold' }}>
+                                        <div className="data-value" style={{ fontSize: '1.2rem', fontWeight: 'bold', wordBreak: 'break-all', overflowWrap: 'anywhere' }}>
                                             {user.name || user.username || `UNKNOWN_ID_${user.userId}`}
                                         </div>
                                         <div className="font-mono text-muted" style={{ fontSize: '0.8rem', marginTop: '0.25rem' }}>

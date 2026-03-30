@@ -20,15 +20,17 @@ export type EventType =
 
 export type IndicatorType =
     | 'cash_funnel'
+    | 'coin_funnel'
     | 'repeated_draining_transfers'
     | 'draining_transfers'
     | 'rug_laundering'
-    | 'single_creator_buyer'
+    | 'single_holder_buyer'
     | 'arcade_laundering'
-    | 'achievement_farmer';
+    | 'achievement_farmer'
+    | 'mastermind_activity';
 
 export type RelationshipType =
-    | 'single_creator_buyer'
+    | 'single_holder_buyer'
     | 'transfer_funnel'
     | 'rug_victim_to_owner'
     | 'arcade_launderer';
@@ -122,6 +124,7 @@ export interface TransactionRecord {
     senderUserId: number | null;
     recipientUsername: string | null;
     senderUsername: string | null;
+    senderHoldingsBefore?: number | null;
 }
 
 export interface UserStats {
@@ -235,6 +238,7 @@ export interface RelationshipEvidence {
     kind: string;
     amount: number;
     coinSymbol: string | null;
+    senderHoldingsBefore?: number | null;
 }
 
 export interface CoinRecord {
@@ -300,6 +304,8 @@ export interface PublicUserSummary {
     overallLabel: AltLabel;
     clusterId: string | null;
     isBanned: boolean;
+    isMastermind?: boolean;
+    mastermindScore?: number;
 }
 
 export interface SuspectedOwnerEntry {

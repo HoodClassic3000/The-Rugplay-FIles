@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for submitting your logs! Please remember that all submissions are subject to acceptance by HoodClassics.
+        Thanks for submitting your logs! Please remember that all submissions are subject to acceptance by @HoodClassic3000.
   - type: dropdown
     id: format
     attributes:

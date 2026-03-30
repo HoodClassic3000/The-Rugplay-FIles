@@ -21,11 +21,11 @@ Using a user script we collect data from rugplay and enrich it.
 Please note that data scoring and collection has been and is being refined over time, therefore some data may be very inaccurate or inconsistent to other user data depending on when and how they were collected and processed.
 
 ## How to Setup the Repo for Self Use
-1. Clone the repo and run `npm install` in your `cli` and `frontend` folders
-2. Build the CLI via `npm run build` inside the `cli` folder
-3. Put your API token in `cli/.env` under `RUGPLAY_COOKIE`
-4. Run `node dist/index.js` in the cli folder to ingest any new data
-5. Run `npm run dev` in the frontend folder to view the site locally
+1. Clone the repo and ensure you have [Bun](https://bun.sh/) installed.
+2. Run `bun install` in both the `cli` and `frontend` folders.
+3. Put your API token in `cli/.env` under `RUGPLAY_COOKIE`.
+4. Run `bun run start` in the `cli` folder to natively execute the pipeline and ingest data.
+5. Run `bun run dev` in the `frontend` folder to view the site locally.
 
 ## How to Setup the User Script
 1. Install Tampermonkey on your browser

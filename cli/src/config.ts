@@ -20,7 +20,7 @@ export const ACCOUNT_AGE = {
 };
 
 export const CASH_FUNNEL = {
-    minTotalTransferred: 5_000,
+    minTotalTransferred: 10_000,
     minTransferShareToFlag: 0.90,
     highTransferShare: 0.95,
     minSeparateTransferEvents: 3,
@@ -28,8 +28,24 @@ export const CASH_FUNNEL = {
         createdThisMonth: 20,
         createdWithin30Days: 10,
         transferShareHigh: 15,
-        transferShareVeryHigh: 20,
+        transferShareVeryHigh: 30,
         repeatedTransferEvents: 5,
+        fullDrainBonus: 25,
+    },
+};
+
+export const COIN_FUNNEL = {
+    minTransferValueUSD: 50_000,
+    minBalanceDrainShare: 0.90,
+    highBalanceDrainShare: 0.95,
+    minSeparateTransferEvents: 3,
+    scores: {
+        createdThisMonth: 20,
+        createdWithin30Days: 10,
+        drainShareHigh: 15,
+        drainShareVeryHigh: 30,
+        repeatedTransferEvents: 10,
+        fullDrainBonus: 25,
     },
 };
 

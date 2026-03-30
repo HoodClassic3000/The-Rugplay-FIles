@@ -43,6 +43,16 @@ export function Home() {
                 <div style={{ maxWidth: '600px', margin: '0 auto', textAlign: 'left' }}>
                     <SearchBox placeholder="ENTER SUBJECT ALIAS OR IDENTIFICATION NUMBER..." />
                 </div>
+                
+                <div style={{ marginTop: '2.5rem', fontFamily: 'var(--font-sans)', lineHeight: '1.6', textAlign: 'left', padding: '1.5rem', borderTop: '2px dashed var(--border-light)' }}>
+                    <div className="dossier-status" style={{ display: 'inline-block', marginBottom: '1rem', transform: 'rotate(-2deg)' }}>
+                        DATA INTEGRITY NOTICE
+                    </div>
+                    
+                    <p style={{ margin: 0, fontWeight: 'bold', color: 'var(--fbi-red)', fontSize: '1.05rem', borderLeft: '4px solid var(--fbi-red)', paddingLeft: '1rem' }}>
+                        Disclosure: Data scoring and collection algorithms are constantly being refined. Therefore, some profiles may contain inaccurate or inconsistent metrics depending on exactly when and how their logs were processed.
+                    </p>
+                </div>
             </header>
 
             {error || flaggedUsers.length === 0 ? (
@@ -75,11 +85,11 @@ export function Home() {
                                     <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', marginBottom: '1rem' }}>
                                         <div>
                                             <span className="data-label">Subject Alias</span>
-                                            <span className="data-value" style={{ fontSize: '1.2rem', fontWeight: 'bold' }}>
+                                            <span className="data-value" style={{ fontSize: '1.2rem', fontWeight: 'bold', wordBreak: 'break-all', overflowWrap: 'anywhere' }}>
                                                 {user.name || user.username || `UNKNOWN_SUBJECT_${user.userId}`}
                                             </span>
                                         </div>
-                                        <ScoreBadge score={user.overallScore} label={user.overallLabel} />
+                                        <ScoreBadge score={user.overallScore} label={user.overallLabel} isMastermind={user.isMastermind} />
                                     </div>
                                     <div style={{ display: 'flex', gap: '2rem' }}>
                                         <div>

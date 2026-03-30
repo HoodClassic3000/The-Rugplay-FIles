@@ -4,15 +4,19 @@ import { getScoreColor } from '../lib/fetch-data';
 interface ScoreBadgeProps {
     score: number;
     label: AltLabel;
+    isMastermind?: boolean;
 }
 
-export function ScoreBadge({ score, label }: ScoreBadgeProps) {
-    let rawColor = getScoreColor(label);
-    
+export function ScoreBadge({ score, label, isMastermind }: ScoreBadgeProps) {
     let fbiColor = 'var(--text-dark)'; 
     let bgColor = 'var(--bg-paper)';
-    
-    if (label === 'Unlikely') {
+    let displayLabel: string = label;
+
+    if (isMastermind) {
+        fbiColor = '#1a1a1a';
+        bgColor = '#fecdd3';
+        displayLabel = 'MASTERMIND';
+    } else if (label === 'Unlikely') {
         fbiColor = '#16a34a'; 
         bgColor = '#dcfce7';  
     } else if (label === 'Very Likely' || label === 'Likely') {
@@ -52,7 +56,7 @@ export function ScoreBadge({ score, label }: ScoreBadgeProps) {
                 textAlign: 'center',
                 flexGrow: 1
             }}>
-                {label}
+                {displayLabel}
             </div>
         </div>
     );

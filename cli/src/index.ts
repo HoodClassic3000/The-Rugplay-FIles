@@ -5,11 +5,15 @@ import { mergeLogs } from './merge-logs';
 import { enrichStore } from './enrich';
 import { buildSnapshot } from './build-snapshot';
 import { loadStore, saveStore } from './store-persistence';
+import { getBlacklistedIds } from './blacklist';
+import type { InternalStore } from './types';
 
 const args = process.argv.slice(2);
 const useMock = args.includes('--mock');
 const skipEnrich = args.includes('--skip-enrich');
 const fullRebuild = args.includes('--full-rebuild');
+const limitArgIndex = args.indexOf('--limit-enrichment');
+const limitEnrichment = limitArgIndex !== -1 && args[limitArgIndex + 1] ? parseInt(args[limitArgIndex + 1], 10) : undefined;
 const COOKIE = process.env.RUGPLAY_COOKIE ?? '';
 
 function copySnapshotToFrontend() {
@@ -48,6 +52,19 @@ async function run() {
 
     const store = mergeLogs(useMock, existingStore);
 
+    const blacklist = getBlacklistedIds();
+    if (blacklist.size > 0) {
+        console.log(`Applying blacklist: purging ${blacklist.size} user ID(s)...`);
+        for (const id of blacklist) {
+            store.users.delete(id);
+        }
+        for (const [key, rel] of store.relationships.entries()) {
+            if (blacklist.has(rel.fromUserId) || blacklist.has(rel.toUserId)) {
+                store.relationships.delete(key);
+            }
+        }
+    }
+
     if (store.users.size === 0) {
         console.log('No data found. Drop exported log files into logs/ and try again.');
         return;
@@ -58,7 +75,7 @@ async function run() {
             console.log('No RUGPLAY_COOKIE found in .env — skipping enrichment.');
             console.log('Add RUGPLAY_COOKIE=your-cookie to cli/.env and try again.');
         } else {
-            await enrichStore(store, COOKIE);
+            await enrichStore(store, COOKIE, limitEnrichment);
         }
     }
 

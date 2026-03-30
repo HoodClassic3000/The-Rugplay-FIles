@@ -52,6 +52,8 @@ export interface PublicUserSummary {
     overallLabel: AltLabel;
     clusterId: string | null;
     isBanned: boolean;
+    isMastermind?: boolean;
+    mastermindScore?: number;
 }
 
 export interface SuspectedOwnerEntry {

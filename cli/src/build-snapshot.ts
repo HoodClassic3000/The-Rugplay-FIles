@@ -19,10 +19,12 @@ import {
     capScore,
 } from './config';
 import { scoreCashFunnel } from './scoring/cash-funnel';
+import { scoreCoinFunnel } from './scoring/coin-funnel';
 import { scoreRugLaundering } from './scoring/rug-laundering';
-import { scoreSingleCreatorBuyer } from './scoring/single-creator-buyer';
+import { scoreSingleHolderBuyer } from './scoring/single-holder-buyer';
 import { scoreDrainingTransfers } from './scoring/draining-transfers';
 import { scoreArcadeLaundering } from './scoring/arcade-laundering';
+import { getBlacklistedIds } from './blacklist';
 
 function ensureDir(dirPath: string) {
     if (!fs.existsSync(dirPath)) {
@@ -38,8 +40,9 @@ function scoreUser(user: UserRecord, store: InternalStore, allUsers: UserRecord[
     const candidateMainUserIds = new Set<number>();
     return [
         ...scoreCashFunnel(user, candidateMainUserIds, allUsers),
+        ...scoreCoinFunnel(user, candidateMainUserIds, allUsers),
         ...scoreRugLaundering(user, store.coins, candidateMainUserIds, allUsers),
-        ...scoreSingleCreatorBuyer(user, store.coins, candidateMainUserIds),
+        ...scoreSingleHolderBuyer(user, store.coins, candidateMainUserIds),
         ...scoreDrainingTransfers(user, candidateMainUserIds),
         ...scoreArcadeLaundering(user, store.coins, candidateMainUserIds, allUsers),
     ];
@@ -182,13 +185,22 @@ function buildIndicatorSummary(indicator: AltIndicator): string {
         return `Transferred ${balancePct} ($${Number(d.totalTransferred).toLocaleString()}) to one account across ${d.eventCount} transfer(s). Account age: ${d.accountAgeDays} days.`;
     }
 
+    if (indicator.type === 'coin_funnel') {
+        const drainPct = d.maxDrainShare ? `${Math.round(Number(d.maxDrainShare) * 100)}% of coin holdings` : `unknown fraction`;
+        return `Funneled market value $${Number(d.totalMarketValueTransferred).toLocaleString()} (${drainPct}) to one account across ${d.eventCount} transfer(s).`;
+    }
+
     if (indicator.type === 'rug_laundering') {
         return `Bought into a coin dominated by a single holder and was rugged across ${d.sequenceCount} sequence(s), losing a total of ${Number(d.totalLost).toFixed(0)} in-game currency.`;
     }
 
-    if (indicator.type === 'single_creator_buyer') {
+    if (indicator.type === 'single_holder_buyer') {
         const seqCount = d.rugSequenceCount ?? d.tradeCount ?? 0;
-        return `Rugged ${seqCount} time(s) buying coins from the same creator, losing a total of $${Number(d.totalLost ?? 0).toLocaleString()}.`;
+        return `Rugged ${seqCount} time(s) continuously buying coins pumped by a top holder, losing a total of $${Number(d.totalLost ?? 0).toLocaleString()}.`;
+    }
+
+    if (indicator.type === 'mastermind_activity') {
+        return `Beneficiary of syndicate network laundering. Cluster contains ${d.totalAlts} suspected alts transferring $${Number(d.totalTransferred).toLocaleString()} directly and profiting $${Number(d.totalRugProfit).toLocaleString()} from coordinated coin buys.`;
     }
 
     if (indicator.type === 'draining_transfers') {
@@ -213,6 +225,8 @@ function toPublicSummary(user: UserRecord): PublicUserSummary {
         clusterId: user.alt.clusters[0] ?? null,
         isBanned: user.flags.isBanned,
         firstSeen: user.firstSeen,
+        isMastermind: (user as any)._isMastermind ?? false,
+        mastermindScore: (user as any)._mastermindScore ?? 0,
     };
 }
 
@@ -319,7 +333,7 @@ function cleanDir(dirPath: string) {
 }
 
 export function buildSnapshot(store: InternalStore) {
-    const outDir = path.resolve(__dirname, SNAPSHOT.outputDir);
+    const outDir = path.resolve(__dirname, '../../snapshot');
     ensureDir(outDir);
 
     const usersDir = path.join(outDir, SNAPSHOT.usersSubDir);
@@ -332,12 +346,20 @@ export function buildSnapshot(store: InternalStore) {
 
     console.log(`Scoring ${store.users.size} users...`);
 
-    const allUsers = Array.from(store.users.values());
+    const usersIndexArr = Array.from(store.users.values());
+    const blacklist = getBlacklistedIds();
 
-    for (const [, user] of store.users) {
-        const indicators = scoreUser(user, store, allUsers);
+    for (const [userId, user] of store.users) {
+        user.alt.clusters = [];
+        delete (user as any)._isMastermind;
+        delete (user as any)._mastermindScore;
+
+        let indicators = scoreUser(user, store, usersIndexArr);
+
+        indicators = indicators.filter(ind => !blacklist.has(ind.candidateMainUserId));
+
         user.alt.indicators = indicators;
-        user.alt.overallScore = computeOverallScore(indicators);
+        user.alt.overallScore = computeOverallScore(user.alt.indicators);
         user.alt.overallLabel = resolveScoreLabel(user.alt.overallScore);
     }
 
@@ -376,6 +398,42 @@ export function buildSnapshot(store: InternalStore) {
     const clusters = buildClusters(store);
     store.clusters = clusters;
 
+    for (const [, cluster] of clusters) {
+        const ownerId = cluster.ownerCandidates[0]?.userId;
+        if (!ownerId) continue;
+        const owner = store.users.get(ownerId);
+        if (!owner) continue;
+
+        if (!owner.alt.clusters.includes(cluster.clusterId)) {
+            owner.alt.clusters.push(cluster.clusterId);
+        }
+
+        const mastermindScore = capScore(cluster.ownerCandidates[0].confidence);
+        (owner as any)._isMastermind = true;
+        (owner as any)._mastermindScore = mastermindScore;
+
+        if (owner.alt.overallScore === 0) {
+            owner.alt.overallScore = mastermindScore;
+            owner.alt.overallLabel = resolveScoreLabel(mastermindScore);
+        }
+
+        const existingMastermindInd = owner.alt.indicators.find(i => i.type === 'mastermind_activity');
+        if (!existingMastermindInd) {
+            owner.alt.indicators.push({
+                type: 'mastermind_activity',
+                score: mastermindScore,
+                candidateMainUserId: ownerId,
+                details: {
+                    totalAlts: cluster.metrics.totalAlts,
+                    totalTransferred: cluster.metrics.totalTransferred,
+                    totalRugProfit: cluster.metrics.totalRugProfit,
+                    totalArcadeLaundered: cluster.metrics.totalArcadeLaundered,
+                },
+                detectedAt: new Date().toISOString(),
+            });
+        }
+    }
+
     const users = Array.from(store.users.values());
 
     console.log('Writing snapshot files...');
@@ -384,5 +442,6 @@ export function buildSnapshot(store: InternalStore) {
     writeClusterFiles(clusters, store, outDir);
 
     const flaggedCount = users.filter(u => u.alt.overallScore > 0).length;
-    console.log(`Done. ${users.length} total users (${flaggedCount} flagged) across ${clusters.size} clusters.`);
+    const mastermindCount = users.filter(u => (u as any)._isMastermind).length;
+    console.log(`Done. ${users.length} total users (${flaggedCount} flagged, ${mastermindCount} masterminds) across ${clusters.size} clusters.`);
 }

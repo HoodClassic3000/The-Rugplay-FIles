@@ -226,6 +226,7 @@ function processEnrichedSnapshot(store: InternalStore, event: RawEnrichedSnapsho
                     senderUserId: typeof tx.senderUserId === 'number' ? tx.senderUserId : null,
                     recipientUsername: typeof tx.recipientUsername === 'string' ? tx.recipientUsername : null,
                     senderUsername: typeof tx.senderUsername === 'string' ? tx.senderUsername : null,
+                    senderHoldingsBefore: typeof tx.senderHoldingsBefore === 'number' ? tx.senderHoldingsBefore : null,
                 };
                 const dedupKey = parsed.id !== null ? String(parsed.id) : `${parsed.type}:${parsed.timestamp}:${parsed.totalBaseCurrencyAmount}`;
                 if (!existingKeys.has(dedupKey)) {
@@ -304,7 +305,8 @@ function processTransferPair(store: InternalStore, event: RawEvent) {
         timestamp: new Date(event.ts).toISOString(),
         kind: 'TRANSFER',
         amount: Number(e.amount || 0),
-        coinSymbol: null
+        coinSymbol: null,
+        senderHoldingsBefore: e.senderHoldingsBefore !== undefined ? Number(e.senderHoldingsBefore) : null,
     });
 }
 
@@ -337,13 +339,13 @@ function detectTradePairRelationships(store: InternalStore, events: RawEvent[]) 
 
         for (const [buyerId, buys] of buysByUser) {
             const totalSpent = buys.reduce((sum, t) => sum + t.payload.totalValue, 0);
-            const relKey = `${buyerId}:${creatorId}:single_creator_buyer`;
+            const relKey = `${buyerId}:${creatorId}:single_holder_buyer`;
 
             if (!store.relationships.has(relKey)) {
                 store.relationships.set(relKey, {
                     fromUserId: buyerId,
                     toUserId: creatorId,
-                    type: 'single_creator_buyer',
+                    type: 'single_holder_buyer',
                     weight: 0,
                     totalValueMoved: 0,
                     eventCount: 0,

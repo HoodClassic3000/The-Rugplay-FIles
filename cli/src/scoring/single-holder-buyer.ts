@@ -1,9 +1,8 @@
 import type { UserRecord, CoinRecord, AltIndicator } from '../types';
 import { SINGLE_CREATOR_BUYER, capScore } from '../config';
 
-
 interface RugSequence {
-    creatorUserId: number;
+    holderUserId: number;
     coinSymbol: string;
     buyAmount: number;
     sellReturn: number;
@@ -11,16 +10,15 @@ interface RugSequence {
     sellTimestamp: string;
 }
 
-const MAX_SELL_RETURN_RATIO = 0.10; 
-const MAX_HOURS_BETWEEN_BUY_AND_SELL = 72; 
+const MAX_SELL_RETURN_RATIO = 0.10;
+const MAX_HOURS_BETWEEN_BUY_AND_SELL = 72;
 
-function findRugSequencesByCreator(
+function findRugSequencesByTopHolder(
     user: UserRecord,
     coins: Map<string, CoinRecord>
 ): Map<number, RugSequence[]> {
-    const creatorSequences = new Map<number, RugSequence[]>();
+    const holderSequences = new Map<number, RugSequence[]>();
 
-    
     const txByCoin = new Map<string, typeof user.recentTransactions>();
     for (const tx of user.recentTransactions) {
         if (!tx.coinSymbol) continue;
@@ -31,8 +29,14 @@ function findRugSequencesByCreator(
 
     for (const [symbol, txs] of txByCoin) {
         const coin = coins.get(symbol);
-        if (!coin || coin.creatorId === null) continue;
-        if (coin.creatorId === user.userId) continue; 
+        if (!coin || !coin.holders || coin.holders.length === 0) continue;
+
+        // Find the absolute top holder (excluding the buyer themselves)
+        const dominantHolder = coin.holders
+            .filter(h => h.userId !== user.userId)
+            .sort((a, b) => b.percentage - a.percentage)[0];
+
+        if (!dominantHolder) continue;
 
         const sorted = [...txs].sort(
             (a, b) => new Date(a.timestamp).getTime() - new Date(b.timestamp).getTime()
@@ -54,58 +58,49 @@ function findRugSequencesByCreator(
 
             if (!matchingSell) continue;
 
-            const creatorId = coin.creatorId;
-            const existing = creatorSequences.get(creatorId) || [];
+
+            const existing = holderSequences.get(dominantHolder.userId) || [];
             existing.push({
-                creatorUserId: creatorId,
+                holderUserId: dominantHolder.userId,
                 coinSymbol: symbol,
                 buyAmount: buy.totalBaseCurrencyAmount,
                 sellReturn: matchingSell.totalBaseCurrencyAmount,
                 buyTimestamp: buy.timestamp,
                 sellTimestamp: matchingSell.timestamp,
             });
-            creatorSequences.set(creatorId, existing);
+            holderSequences.set(dominantHolder.userId, existing);
         }
     }
 
-    return creatorSequences;
+    return holderSequences;
 }
 
-export function scoreSingleCreatorBuyer(
+export function scoreSingleHolderBuyer(
     user: UserRecord,
     coins: Map<string, CoinRecord>,
     candidateMainUserIds: Set<number>
 ): AltIndicator[] {
     const indicators: AltIndicator[] = [];
-    const creatorSequences = findRugSequencesByCreator(user, coins);
+    const holderSequences = findRugSequencesByTopHolder(user, coins);
 
-    for (const [creatorId, sequences] of creatorSequences) {
-        if (sequences.length < 1) continue;
+    for (const [holderId, sequences] of holderSequences) {
+        if (sequences.length < 2) continue; // Must feed the same mastermind multiple times
 
         const totalLost = sequences.reduce((s, seq) => s + seq.buyAmount - seq.sellReturn, 0);
         const totalBought = sequences.reduce((s, seq) => s + seq.buyAmount, 0);
         const uniqueCoins = new Set(sequences.map(s => s.coinSymbol));
 
-        let score = 0;
-
-        if (sequences.length === 1) {
-            
-            score += SINGLE_CREATOR_BUYER.scores.buyShareHigh; 
-        } else if (sequences.length >= 2) {
-            
-            score += SINGLE_CREATOR_BUYER.scores.buyShareVeryHigh; 
-            
-            score += Math.min((sequences.length - 2) * 5, 20); 
-        }
+        let score = SINGLE_CREATOR_BUYER.scores.buyShareVeryHigh;
+        score += Math.min((sequences.length - 2) * 5, 20);
 
         if (score === 0) continue;
 
-        candidateMainUserIds.add(creatorId);
+        candidateMainUserIds.add(holderId);
 
         indicators.push({
-            type: 'single_creator_buyer',
-            score: capScore(score),
-            candidateMainUserId: creatorId,
+            type: 'single_holder_buyer',
+            score: Math.min(score, 55),
+            candidateMainUserId: holderId,
             details: {
                 rugSequenceCount: sequences.length,
                 totalLost,

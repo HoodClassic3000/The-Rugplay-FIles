@@ -1,6 +1,10 @@
 import type { UserRecord, AltIndicator } from '../types';
 import { DRAINING_TRANSFERS, capScore } from '../config';
 
+function isCashTransfer(tx: { coinSymbol: string | null; pricePerCoin: number }): boolean {
+    return tx.coinSymbol === 'LKC' || tx.pricePerCoin === 1;
+}
+
 interface DrainingEvent {
     recipientUserId: number;
     recipientUsername: string | null;
@@ -22,8 +26,8 @@ function estimateRunningBalance(user: UserRecord): { timestamp: string; balance:
     for (const tx of reversed) {
         if (tx.type === 'BUY') balance += tx.totalBaseCurrencyAmount;
         if (tx.type === 'SELL') balance -= tx.totalBaseCurrencyAmount;
-        if (tx.type === 'TRANSFER_OUT') balance += tx.totalBaseCurrencyAmount;
-        if (tx.type === 'TRANSFER_IN') balance -= tx.totalBaseCurrencyAmount;
+        if (tx.type === 'TRANSFER_OUT' && isCashTransfer(tx)) balance += tx.totalBaseCurrencyAmount;
+        if (tx.type === 'TRANSFER_IN' && isCashTransfer(tx)) balance -= tx.totalBaseCurrencyAmount;
     }
 
     let runningBalance = Math.max(balance, 0);
@@ -32,8 +36,8 @@ function estimateRunningBalance(user: UserRecord): { timestamp: string; balance:
         snapshots.push({ timestamp: tx.timestamp, balance: runningBalance });
         if (tx.type === 'BUY') runningBalance -= tx.totalBaseCurrencyAmount;
         if (tx.type === 'SELL') runningBalance += tx.totalBaseCurrencyAmount;
-        if (tx.type === 'TRANSFER_OUT') runningBalance -= tx.totalBaseCurrencyAmount;
-        if (tx.type === 'TRANSFER_IN') runningBalance += tx.totalBaseCurrencyAmount;
+        if (tx.type === 'TRANSFER_OUT' && isCashTransfer(tx)) runningBalance -= tx.totalBaseCurrencyAmount;
+        if (tx.type === 'TRANSFER_IN' && isCashTransfer(tx)) runningBalance += tx.totalBaseCurrencyAmount;
         runningBalance = Math.max(runningBalance, 0);
     }
 
@@ -55,6 +59,7 @@ export function scoreDrainingTransfers(
 
     sortedTx.forEach((tx, i) => {
         if (tx.type !== 'TRANSFER_OUT' || tx.recipientUserId === null) return;
+        if (!isCashTransfer(tx)) return;
 
         const snapshot = balanceSnapshots[i];
         if (!snapshot || snapshot.balance === 0) return;

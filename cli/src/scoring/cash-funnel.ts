@@ -26,12 +26,17 @@ interface TransferGroup {
     eventTimestamps: string[];
 }
 
+function isCashTransfer(tx: { coinSymbol: string | null; pricePerCoin: number }): boolean {
+    return tx.coinSymbol === 'LKC' || tx.pricePerCoin === 1;
+}
+
 function groupTransfersByRecipient(user: UserRecord): TransferGroup[] {
     const map = new Map<number, TransferGroup>();
 
     for (const tx of user.recentTransactions) {
         if (tx.type !== 'TRANSFER_OUT') continue;
         if (tx.recipientUserId === null) continue;
+        if (!isCashTransfer(tx)) continue;
 
         const existing = map.get(tx.recipientUserId);
         if (existing) {
@@ -54,7 +59,7 @@ function groupTransfersByRecipient(user: UserRecord): TransferGroup[] {
 
 function totalOutflows(user: UserRecord): number {
     return user.recentTransactions
-        .filter(tx => tx.type === 'TRANSFER_OUT')
+        .filter(tx => tx.type === 'TRANSFER_OUT' && isCashTransfer(tx))
         .reduce((sum, tx) => sum + tx.totalBaseCurrencyAmount, 0);
 }
 
@@ -116,19 +121,11 @@ export function scoreCashFunnel(
             score += CASH_FUNNEL.scores.repeatedTransferEvents;
         }
 
-        
-        
-        if (balanceShare < 0.3) {
-            
-            score = Math.round(score * 0.25);
-        } else if (balanceShare < 0.5) {
-            
-            score = Math.round(score * 0.5);
-        } else if (balanceShare < 0.7) {
-            
-            score = Math.round(score * 0.75);
+        if (balanceShare >= 0.95) {
+            score += CASH_FUNNEL.scores.fullDrainBonus;
         }
-        
+
+        if (balanceShare < 0.90) continue;
 
         if (score === 0) continue;
 
