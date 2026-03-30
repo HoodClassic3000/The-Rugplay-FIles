@@ -1,0 +1,60 @@
+{
+  "userId": 12435,
+  "username": "qwlit",
+  "name": "qwlit",
+  "avatarUrl": "avatars/12435.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T00:30:12.314Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-06-30T14:21:26.816Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 116622172.69120537,
+    "totalSellVolume": 113819988.72467689,
+    "totalPortfolioValue": 36695868.75873438,
+    "holdingsValue": 36695868.75873438,
+    "holdingsCount": 11,
+    "coinsCreated": 10,
+    "totalTransactions": 2389,
+    "transactions24h": 16,
+    "buyVolume24h": 410790.22719296,
+    "sellVolume24h": 327188.23536327
+  },
+  "arcade": {
+    "arcadeWins": 71647184.47192787,
+    "arcadeLosses": 69246049.25156341,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "JCKP",
+    "AKITANERU",
+    "NMC",
+    "SCREENSHOT",
+    "FBBLKC",
+    "VAVC",
+    "FARDR2C",
+    "LMWC",
+    "CRFMC",
+    "FENTCOIN",
+    "TRETTMANN"
+  ],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 15915,
+      "toUsername": "crackhead",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 1.42345
+    }
+  ],
+  "suspectedOwners": []
+}

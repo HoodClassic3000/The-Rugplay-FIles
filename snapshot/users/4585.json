@@ -1,0 +1,58 @@
+{
+  "userId": 4585,
+  "username": "habit",
+  "name": "HABIT",
+  "avatarUrl": "avatars/104000685548018279348.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-30T03:08:47.787Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-06-16T01:08:41.520Z",
+  "stats": {
+    "baseCurrencyBalance": 0.21983092,
+    "totalBuyVolume": 2290731.57125421,
+    "totalSellVolume": 2385533.0933498,
+    "totalPortfolioValue": 2016.6822660197922,
+    "holdingsValue": 2016.4624350997922,
+    "holdingsCount": 1,
+    "coinsCreated": 9,
+    "totalTransactions": 319,
+    "transactions24h": 1,
+    "buyVolume24h": 2000,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 364374.3674,
+    "arcadeLosses": 384729.87,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "SIMILAR",
+    "FUCKOS",
+    "HABIT",
+    "WBROD",
+    "CENTBTC",
+    "NIKRUG",
+    "EMH",
+    "FAKED",
+    "CANONICAL"
+  ],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 16237,
+      "toUsername": "teal",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 6000
+    }
+  ],
+  "suspectedOwners": []
+}

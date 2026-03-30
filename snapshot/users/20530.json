@@ -1,0 +1,51 @@
+{
+  "userId": 20530,
+  "username": "ooo_woodenbuckle",
+  "name": "WoodenBuckle902 Company",
+  "avatarUrl": "avatars/20530.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-30T04:12:40.459Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-01-28T05:50:53.933Z",
+  "stats": {
+    "baseCurrencyBalance": 336251.74551543,
+    "totalBuyVolume": 7949375.89764855,
+    "totalSellVolume": 7646134.85946381,
+    "totalPortfolioValue": 220496240.32737693,
+    "holdingsValue": 220159988.5818615,
+    "holdingsCount": 8,
+    "coinsCreated": 10,
+    "totalTransactions": 1520,
+    "transactions24h": 2,
+    "buyVolume24h": 2000,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 4846479.4779,
+    "arcadeLosses": 5763718.84611479,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "TIMENIGREV",
+    "ACHIEVE",
+    "BF3",
+    "DAILY",
+    "BF6",
+    "DOORTRUE",
+    "WARS2",
+    "ORI3",
+    "WARS",
+    "STARSHIP3"
+  ],
+  "indicators": [],
+  "relationships": [],
+  "suspectedOwners": []
+}

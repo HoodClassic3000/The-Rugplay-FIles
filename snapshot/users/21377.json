@@ -1,0 +1,48 @@
+{
+  "userId": 21377,
+  "username": "clever_whale2274",
+  "name": "carma google",
+  "avatarUrl": "avatars/116224813923933966696.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T22:30:16.342Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-02-27T21:00:41.574Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 38210,
+    "totalSellVolume": 0,
+    "totalPortfolioValue": 1189381.5755613458,
+    "holdingsValue": 1189381.5755613458,
+    "holdingsCount": 1,
+    "coinsCreated": 0,
+    "totalTransactions": 6,
+    "transactions24h": 3,
+    "buyVolume24h": 22410,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 0,
+    "arcadeLosses": 0,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 21218,
+      "toUsername": "clever_seal2582",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 44820
+    }
+  ],
+  "suspectedOwners": []
+}

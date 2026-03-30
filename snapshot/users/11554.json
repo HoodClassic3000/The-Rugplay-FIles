@@ -1,0 +1,43 @@
+{
+  "userId": 11554,
+  "username": "onepiece",
+  "name": "ONEPIECE",
+  "avatarUrl": "avatars/11554.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T05:29:33.653Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-06-28T10:38:08.441Z",
+  "stats": {
+    "baseCurrencyBalance": 110300,
+    "totalBuyVolume": 2189624.27789325,
+    "totalSellVolume": 1760254.0911561,
+    "totalPortfolioValue": 200607907.90916348,
+    "holdingsValue": 200497607.90916348,
+    "holdingsCount": 70,
+    "coinsCreated": 2,
+    "totalTransactions": 1468,
+    "transactions24h": 1,
+    "buyVolume24h": 4375,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 2251114.917,
+    "arcadeLosses": 204707.5,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "SANJI",
+    "ZORO"
+  ],
+  "indicators": [],
+  "relationships": [],
+  "suspectedOwners": []
+}

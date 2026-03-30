@@ -1,0 +1,176 @@
+{
+  "userId": 22224,
+  "username": "hyperzteam",
+  "name": "Cull Lee",
+  "avatarUrl": "avatars/115927671378367777727.webp",
+  "overallScore": 65,
+  "overallLabel": "Likely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T18:41:07.475Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-03-29T18:39:12.721Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 256668.4890617,
+    "totalSellVolume": 208718.4890617,
+    "totalPortfolioValue": 2558512.083816411,
+    "holdingsValue": 2558512.083816411,
+    "holdingsCount": 1,
+    "coinsCreated": 1,
+    "totalTransactions": 38,
+    "transactions24h": 38,
+    "buyVolume24h": 256668.4890617,
+    "sellVolume24h": 208718.4890617
+  },
+  "arcade": {
+    "arcadeWins": 62,
+    "arcadeLosses": 62,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "HYZC"
+  ],
+  "indicators": [
+    {
+      "type": "rug_laundering",
+      "score": 45,
+      "candidateMainUserId": 22224,
+      "details": {
+        "sequenceCount": 2,
+        "totalLost": 47480.03852786,
+        "totalBought": 48577.94426752,
+        "totalRecovered": 1097.90573966,
+        "maxDominantHolderPercentage": 0.9796,
+        "accountAgeDays": 0.5,
+        "sequences": [
+          {
+            "coinSymbol": "HYZC",
+            "buyAmount": 24288.97213376,
+            "sellReturn": 548.95286983,
+            "buyTimestamp": "2026-03-29T18:46:45.029Z",
+            "sellTimestamp": "2026-03-29T18:58:22.826Z"
+          },
+          {
+            "coinSymbol": "HYZC",
+            "buyAmount": 24288.97213376,
+            "sellReturn": 548.95286983,
+            "buyTimestamp": "2026-03-29T18:47:27.033Z",
+            "sellTimestamp": "2026-03-29T18:58:22.826Z"
+          }
+        ]
+      },
+      "evidenceTransactionIds": [
+        1981273,
+        1981270,
+        1981269,
+        1981268,
+        1981267,
+        1981266,
+        1981265,
+        1981264,
+        1981263,
+        1981262,
+        1981301,
+        1981300,
+        1981299,
+        1981298,
+        1981297,
+        1981296,
+        1981295,
+        1981287,
+        1981286,
+        1981285,
+        1981307,
+        1981304,
+        1981303,
+        1981302
+      ],
+      "detectedAt": "2026-03-30T13:06:34.553Z",
+      "summary": "Bought into a coin dominated by a single holder and was rugged across 2 sequence(s), losing a total of 47480 in-game currency."
+    },
+    {
+      "type": "single_holder_buyer",
+      "score": 20,
+      "candidateMainUserId": 21506,
+      "details": {
+        "rugSequenceCount": 2,
+        "totalLost": 45495.5280614,
+        "totalBought": 48577.94426752,
+        "uniqueCoinsInvolved": [
+          "HYZC"
+        ],
+        "sequences": [
+          {
+            "coinSymbol": "HYZC",
+            "buyAmount": 24288.97213376,
+            "sellReturn": 1541.20810306,
+            "buyTimestamp": "2026-03-29T18:46:45.029Z",
+            "sellTimestamp": "2026-03-29T18:58:19.193Z"
+          },
+          {
+            "coinSymbol": "HYZC",
+            "buyAmount": 24288.97213376,
+            "sellReturn": 1541.20810306,
+            "buyTimestamp": "2026-03-29T18:47:27.033Z",
+            "sellTimestamp": "2026-03-29T18:58:19.193Z"
+          }
+        ]
+      },
+      "evidenceTransactionIds": [
+        1981273,
+        1981270,
+        1981269,
+        1981268,
+        1981267,
+        1981266,
+        1981265,
+        1981264,
+        1981263,
+        1981262,
+        1981301,
+        1981300,
+        1981299,
+        1981298,
+        1981297,
+        1981296,
+        1981295,
+        1981287,
+        1981286,
+        1981285,
+        1981307,
+        1981304,
+        1981303,
+        1981302
+      ],
+      "detectedAt": "2026-03-30T13:06:34.553Z",
+      "summary": "Rugged 2 time(s) continuously buying coins pumped by a top holder, losing a total of $45,495.528."
+    }
+  ],
+  "relationships": [
+    {
+      "toUserId": 533,
+      "toUsername": "533",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 73302.16422028
+    }
+  ],
+  "suspectedOwners": [
+    {
+      "userId": 22224,
+      "username": "hyperzteam",
+      "confidence": 45
+    },
+    {
+      "userId": 21506,
+      "username": "toshy128real",
+      "confidence": 20
+    }
+  ]
+}

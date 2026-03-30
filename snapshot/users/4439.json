@@ -1,0 +1,43 @@
+{
+  "userId": 4439,
+  "username": "lore",
+  "name": "lore",
+  "avatarUrl": "avatars/4439.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-30T00:30:10.703Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-06-12T03:41:17.316Z",
+  "stats": {
+    "baseCurrencyBalance": 0.18365775,
+    "totalBuyVolume": 175058.43142394,
+    "totalSellVolume": 177100.55302605,
+    "totalPortfolioValue": 0.18365775,
+    "holdingsValue": 0,
+    "holdingsCount": 0,
+    "coinsCreated": 2,
+    "totalTransactions": 60,
+    "transactions24h": 11,
+    "buyVolume24h": 0,
+    "sellVolume24h": 167864.20794694
+  },
+  "arcade": {
+    "arcadeWins": 266829,
+    "arcadeLosses": 486276,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "COVA",
+    "XUT"
+  ],
+  "indicators": [],
+  "relationships": [],
+  "suspectedOwners": []
+}

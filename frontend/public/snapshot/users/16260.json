@@ -1,0 +1,40 @@
+{
+  "userId": 16260,
+  "username": "16260",
+  "name": "griffin fortin",
+  "avatarUrl": "avatars/103586712478424240327.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-30T06:35:43.624Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-08-01T04:16:15.468Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 6400,
+    "totalSellVolume": 0,
+    "totalPortfolioValue": 9270401.692282092,
+    "holdingsValue": 9270401.692282092,
+    "holdingsCount": 1,
+    "coinsCreated": 0,
+    "totalTransactions": 5,
+    "transactions24h": 0,
+    "buyVolume24h": 0,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 0,
+    "arcadeLosses": 0,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [],
+  "indicators": [],
+  "relationships": [],
+  "suspectedOwners": []
+}

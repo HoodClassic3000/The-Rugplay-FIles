@@ -1,0 +1,43 @@
+{
+  "userId": 19876,
+  "username": "cool_fox4714",
+  "name": "Sigma",
+  "avatarUrl": "avatars/111016046139082813116.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T12:51:04.453Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-01-09T17:35:05.240Z",
+  "stats": {
+    "baseCurrencyBalance": 87586.34799084,
+    "totalBuyVolume": 63342.40131036,
+    "totalSellVolume": 56375.3558646,
+    "totalPortfolioValue": 98918.10124112101,
+    "holdingsValue": 11331.753250281008,
+    "holdingsCount": 22,
+    "coinsCreated": 2,
+    "totalTransactions": 86,
+    "transactions24h": 0,
+    "buyVolume24h": 0,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 1641.84335367,
+    "arcadeLosses": 1553.93,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "HAMMY",
+    "S0L"
+  ],
+  "indicators": [],
+  "relationships": [],
+  "suspectedOwners": []
+}

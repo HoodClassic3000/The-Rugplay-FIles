@@ -1,0 +1,50 @@
+{
+  "userId": 9531,
+  "username": "exceptionee",
+  "name": "exceptionee",
+  "avatarUrl": "avatars/107849053732439272860.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T15:09:38.305Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-06-25T17:30:09.636Z",
+  "stats": {
+    "baseCurrencyBalance": 122432.29242621,
+    "totalBuyVolume": 163185159.58126503,
+    "totalSellVolume": 160562645.40625975,
+    "totalPortfolioValue": 104026180133.12242,
+    "holdingsValue": 104026057700.83,
+    "holdingsCount": 8,
+    "coinsCreated": 9,
+    "totalTransactions": 8629,
+    "transactions24h": 1,
+    "buyVolume24h": 6663.935,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 2392280.45177739,
+    "arcadeLosses": 2344014.89885073,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "EXCEPTION3",
+    "EXCEPTION2",
+    "EXCEPTION1",
+    "STRIPE",
+    "VERCEL",
+    "ELYTRO",
+    "FFRP",
+    "RUB",
+    "FORBES"
+  ],
+  "indicators": [],
+  "relationships": [],
+  "suspectedOwners": []
+}

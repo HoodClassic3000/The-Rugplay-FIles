@@ -1,0 +1,66 @@
+{
+  "userId": 5565,
+  "username": "fuck_bezos",
+  "name": "I hate AWS",
+  "avatarUrl": "avatars/101021008195612347960.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T17:55:09.530Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-06-23T17:51:57.744Z",
+  "stats": {
+    "baseCurrencyBalance": 47312.12190165,
+    "totalBuyVolume": 23164.85937282,
+    "totalSellVolume": 10971.85827447,
+    "totalPortfolioValue": 88280.17105019744,
+    "holdingsValue": 40968.04914854745,
+    "holdingsCount": 16,
+    "coinsCreated": 3,
+    "totalTransactions": 66,
+    "transactions24h": 0,
+    "buyVolume24h": 0,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 642.263,
+    "arcadeLosses": 90,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "MOB",
+    "LSPD",
+    "GGL"
+  ],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 12873,
+      "toUsername": "stonks",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 5000
+    },
+    {
+      "toUserId": 5961,
+      "toUsername": "iswear",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 150
+    },
+    {
+      "toUserId": 5067,
+      "toUsername": "5067",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 500
+    }
+  ],
+  "suspectedOwners": []
+}

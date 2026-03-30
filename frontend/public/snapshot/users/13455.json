@@ -1,0 +1,44 @@
+{
+  "userId": 13455,
+  "username": "13455",
+  "name": "PUMPA",
+  "avatarUrl": "avatars/13455.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-30T06:35:43.624Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-07-05T01:15:22.630Z",
+  "stats": {
+    "baseCurrencyBalance": 1210,
+    "totalBuyVolume": 69551440.65254126,
+    "totalSellVolume": 68845381.68130685,
+    "totalPortfolioValue": 433994739648.03076,
+    "holdingsValue": 433994738438.03076,
+    "holdingsCount": 10,
+    "coinsCreated": 3,
+    "totalTransactions": 146,
+    "transactions24h": 0,
+    "buyVolume24h": 0,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 0,
+    "arcadeLosses": 0,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "FRKLFT",
+    "PMPA2",
+    "PUMPA"
+  ],
+  "indicators": [],
+  "relationships": [],
+  "suspectedOwners": []
+}

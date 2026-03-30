@@ -1,0 +1,52 @@
+{
+  "userId": 18232,
+  "username": "blob",
+  "name": "blob",
+  "avatarUrl": "avatars/18232.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T21:16:28.430Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-10-27T20:07:20.120Z",
+  "stats": {
+    "baseCurrencyBalance": 649860.94194901,
+    "totalBuyVolume": 60406556.22198416,
+    "totalSellVolume": 55941739.02203182,
+    "totalPortfolioValue": 21215465.17624467,
+    "holdingsValue": 20565604.23429566,
+    "holdingsCount": 3,
+    "coinsCreated": 3,
+    "totalTransactions": 551,
+    "transactions24h": 1,
+    "buyVolume24h": 50000,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 9956868.65875,
+    "arcadeLosses": 9899718.11,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "HIWAVE",
+    "PSI",
+    "THETA"
+  ],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 17716,
+      "toUsername": "xprism",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 100000
+    }
+  ],
+  "suspectedOwners": []
+}

@@ -1,0 +1,191 @@
+{
+  "userId": 18364,
+  "username": "b4b",
+  "name": "lucille",
+  "avatarUrl": "avatars/18364.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T22:34:21.889Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-10-28T22:32:46.030Z",
+  "stats": {
+    "baseCurrencyBalance": 0.81228891,
+    "totalBuyVolume": 43436.11033007,
+    "totalSellVolume": 41174.36461946,
+    "totalPortfolioValue": 17.587562529576626,
+    "holdingsValue": 16.775273619576627,
+    "holdingsCount": 25,
+    "coinsCreated": 2,
+    "totalTransactions": 191,
+    "transactions24h": 26,
+    "buyVolume24h": 9.7,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 1773190.53209775,
+    "arcadeLosses": 2008561.17319331,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "DURR",
+    "UD"
+  ],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 22028,
+      "toUsername": "22028",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 0.1
+    },
+    {
+      "toUserId": 1387,
+      "toUsername": "leethana",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 0.1
+    },
+    {
+      "toUserId": 21813,
+      "toUsername": "21813",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 0.1
+    },
+    {
+      "toUserId": 19337,
+      "toUsername": "19337",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 0.1
+    },
+    {
+      "toUserId": 17614,
+      "toUsername": "17614",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 2.2
+    },
+    {
+      "toUserId": 11600,
+      "toUsername": "11600",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 0.1
+    },
+    {
+      "toUserId": 20566,
+      "toUsername": "20566",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 0.1
+    },
+    {
+      "toUserId": 21031,
+      "toUsername": "21031",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 0.2
+    },
+    {
+      "toUserId": 5026,
+      "toUsername": "ios",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 0.1
+    },
+    {
+      "toUserId": 20135,
+      "toUsername": "konsenarbol",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 0.1
+    },
+    {
+      "toUserId": 21901,
+      "toUsername": "21901",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 0.1
+    },
+    {
+      "toUserId": 22145,
+      "toUsername": "22145",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 0.1
+    },
+    {
+      "toUserId": 21890,
+      "toUsername": "21890",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 0.1
+    },
+    {
+      "toUserId": 22135,
+      "toUsername": "22135",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 0.1
+    },
+    {
+      "toUserId": 15135,
+      "toUsername": "15135",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 0.1
+    },
+    {
+      "toUserId": 11922,
+      "toUsername": "11922",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 1
+    },
+    {
+      "toUserId": 21985,
+      "toUsername": "21985",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 1
+    },
+    {
+      "toUserId": 21853,
+      "toUsername": "21853",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 1
+    },
+    {
+      "toUserId": 21812,
+      "toUsername": "21812",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 1
+    },
+    {
+      "toUserId": 13774,
+      "toUsername": "13774",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 1
+    },
+    {
+      "toUserId": 18569,
+      "toUsername": "18569",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 1
+    }
+  ],
+  "suspectedOwners": []
+}

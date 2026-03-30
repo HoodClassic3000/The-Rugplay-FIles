@@ -1,0 +1,103 @@
+{
+  "userId": 20360,
+  "username": "natounet21",
+  "name": "nat",
+  "avatarUrl": "avatars/20360.webp",
+  "overallScore": 30,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T15:14:40.329Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-01-26T00:34:44.957Z",
+  "stats": {
+    "baseCurrencyBalance": 89429.6011257,
+    "totalBuyVolume": 177927.45323077,
+    "totalSellVolume": 177713.18838837,
+    "totalPortfolioValue": 89479.65501007359,
+    "holdingsValue": 50.05388437358158,
+    "holdingsCount": 3,
+    "coinsCreated": 2,
+    "totalTransactions": 59,
+    "transactions24h": 9,
+    "buyVolume24h": 79739.6011257,
+    "sellVolume24h": 79689.6011257
+  },
+  "arcade": {
+    "arcadeWins": 692,
+    "arcadeLosses": 846,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "CUB",
+    "TW"
+  ],
+  "indicators": [
+    {
+      "type": "rug_laundering",
+      "score": 30,
+      "candidateMainUserId": 17875,
+      "details": {
+        "sequenceCount": 1,
+        "totalLost": 79379.6011257,
+        "totalBought": 79479.6011257,
+        "totalRecovered": 100,
+        "maxDominantHolderPercentage": 0.9991,
+        "accountAgeDays": 63.3,
+        "sequences": [
+          {
+            "coinSymbol": "XICE",
+            "buyAmount": 79479.6011257,
+            "sellReturn": 100,
+            "buyTimestamp": "2026-03-29T15:24:01.928Z",
+            "sellTimestamp": "2026-03-29T15:24:54.901Z"
+          }
+        ]
+      },
+      "evidenceTransactionIds": [
+        1980012,
+        1980010,
+        1980005,
+        1980003,
+        1980002
+      ],
+      "detectedAt": "2026-03-30T13:06:34.527Z",
+      "summary": "Bought into a coin dominated by a single holder and was rugged across 1 sequence(s), losing a total of 79380 in-game currency."
+    }
+  ],
+  "relationships": [
+    {
+      "toUserId": 10655,
+      "toUsername": "eulmdev",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 100
+    },
+    {
+      "toUserId": 14882,
+      "toUsername": "14882",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 10
+    },
+    {
+      "toUserId": 17875,
+      "toUsername": "17875",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 159109.2022514
+    }
+  ],
+  "suspectedOwners": [
+    {
+      "userId": 17875,
+      "username": "17875",
+      "confidence": 30
+    }
+  ]
+}

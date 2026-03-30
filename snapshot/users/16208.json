@@ -1,0 +1,103 @@
+{
+  "userId": 16208,
+  "username": "lepuutin",
+  "name": "Lepuutin",
+  "avatarUrl": "avatars/112302154338296812597.webp",
+  "overallScore": 20,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T18:30:29.270Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-07-30T07:38:02.428Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 21729405.91938788,
+    "totalSellVolume": 21418976.34296798,
+    "totalPortfolioValue": 106084.82020243218,
+    "holdingsValue": 106084.82020243218,
+    "holdingsCount": 1,
+    "coinsCreated": 5,
+    "totalTransactions": 787,
+    "transactions24h": 1,
+    "buyVolume24h": 29750,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 5539272.8774,
+    "arcadeLosses": 4916904,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "BADALT",
+    "GOONINIGER",
+    "TENTET",
+    "DOGO",
+    "SHI"
+  ],
+  "indicators": [
+    {
+      "type": "single_holder_buyer",
+      "score": 20,
+      "candidateMainUserId": 16183,
+      "details": {
+        "rugSequenceCount": 2,
+        "totalLost": 29746,
+        "totalBought": 29750,
+        "uniqueCoinsInvolved": [
+          "GRADUATION"
+        ],
+        "sequences": [
+          {
+            "coinSymbol": "GRADUATION",
+            "buyAmount": 14875,
+            "sellReturn": 2,
+            "buyTimestamp": "2026-03-15T06:06:01.789Z",
+            "sellTimestamp": "2026-03-16T04:49:16.847Z"
+          },
+          {
+            "coinSymbol": "GRADUATION",
+            "buyAmount": 14875,
+            "sellReturn": 2,
+            "buyTimestamp": "2026-03-16T04:48:49.755Z",
+            "sellTimestamp": "2026-03-16T04:49:16.847Z"
+          }
+        ]
+      },
+      "evidenceTransactionIds": [
+        1966128,
+        1902893,
+        1902892,
+        1900734,
+        1899255,
+        1899254,
+        1899253,
+        1898118,
+        1985213
+      ],
+      "detectedAt": "2026-03-30T13:06:34.485Z",
+      "summary": "Rugged 2 time(s) continuously buying coins pumped by a top holder, losing a total of $29,746."
+    }
+  ],
+  "relationships": [
+    {
+      "toUserId": 16183,
+      "toUsername": "16183",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 148750.88382268
+    }
+  ],
+  "suspectedOwners": [
+    {
+      "userId": 16183,
+      "username": "16183",
+      "confidence": 20
+    }
+  ]
+}

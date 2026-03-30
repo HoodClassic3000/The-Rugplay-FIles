@@ -1,0 +1,48 @@
+{
+  "userId": 16351,
+  "username": "ahvl",
+  "name": "Aim high, Vote lowe",
+  "avatarUrl": "avatars/16351.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T20:40:39.616Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-08-03T13:38:28.859Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 201692.23055239,
+    "totalSellVolume": 141726.28055239,
+    "totalPortfolioValue": 124232.00652286533,
+    "holdingsValue": 124232.00652286533,
+    "holdingsCount": 1,
+    "coinsCreated": 0,
+    "totalTransactions": 64,
+    "transactions24h": 5,
+    "buyVolume24h": 6201.12304871,
+    "sellVolume24h": 1.12304871
+  },
+  "arcade": {
+    "arcadeWins": 170681.6,
+    "arcadeLosses": 269719,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 13487,
+      "toUsername": "delphine",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 12401.12304871
+    }
+  ],
+  "suspectedOwners": []
+}

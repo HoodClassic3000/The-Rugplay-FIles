@@ -1,0 +1,63 @@
+{
+  "userId": 27,
+  "username": "maschlax",
+  "name": "Maschlax",
+  "avatarUrl": "avatars/27.png",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T16:02:02.869Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-05-30T13:06:58.298Z",
+  "stats": {
+    "baseCurrencyBalance": 44754.72296774,
+    "totalBuyVolume": 2490102.17373439,
+    "totalSellVolume": 2804046.17086407,
+    "totalPortfolioValue": 44754.72296774,
+    "holdingsValue": 0,
+    "holdingsCount": 0,
+    "coinsCreated": 7,
+    "totalTransactions": 662,
+    "transactions24h": 109,
+    "buyVolume24h": 107,
+    "sellVolume24h": 106.98216516
+  },
+  "arcade": {
+    "arcadeWins": 1131910.677,
+    "arcadeLosses": 1478455.3455384,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "GAMBO",
+    "LXMB",
+    "ACHIEVMENT",
+    "GMBLLL",
+    "ADSHJASDJK",
+    "CPTL",
+    "GIGA"
+  ],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 533,
+      "toUsername": "533",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 107
+    },
+    {
+      "toUserId": 20520,
+      "toUsername": "bestgambler",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 1.480000000000001
+    }
+  ],
+  "suspectedOwners": []
+}

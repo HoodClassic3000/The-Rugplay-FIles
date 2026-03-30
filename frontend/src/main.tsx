@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import ReactDOM from 'react-dom/client';
-import { BrowserRouter, Routes, Route, Link, useNavigate, useLocation } from 'react-router-dom';
+import { HashRouter, Routes, Route, Link, useNavigate, useLocation } from 'react-router-dom';
 import { Home } from './routes/Home';
 import { Search } from './routes/Search';
 import { UserPage } from './routes/UserPage';
@@ -33,7 +33,7 @@ function Navigation() {
 
             <nav className="nav-container">
                 <Link to="/" className="nav-brand">
-                    <img src="/RFlogo.png" alt="RF Logo" style={{ width: '40px', height: '40px', objectFit: 'contain' }} />
+                    <img src="./RFlogo.png" alt="RF Logo" style={{ width: '40px', height: '40px', objectFit: 'contain' }} />
                     The Rugplay Files
                 </Link>
 
@@ -64,7 +64,7 @@ function Navigation() {
 function App() {
     console.log('App rendering');
     return (
-        <BrowserRouter>
+        <HashRouter>
             <Navigation />
             <main className="main-content" style={{ minHeight: '60vh' }}>
                 <Routes>
@@ -89,7 +89,7 @@ function App() {
                     
                 </div>
             </footer>
-        </BrowserRouter>
+        </HashRouter>
     );
 }
 

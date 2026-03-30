@@ -1,0 +1,48 @@
+{
+  "userId": 22204,
+  "username": "lucky_wolf5828",
+  "name": "Maria Margarido",
+  "avatarUrl": "avatars/110122650227350909366.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T13:24:21.096Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-03-28T13:24:14.424Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 40300,
+    "totalSellVolume": 14700,
+    "totalPortfolioValue": 1057.499781668992,
+    "holdingsValue": 1057.499781668992,
+    "holdingsCount": 1,
+    "coinsCreated": 0,
+    "totalTransactions": 5,
+    "transactions24h": 0,
+    "buyVolume24h": 0,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 0,
+    "arcadeLosses": 0,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 22201,
+      "toUsername": "clever_whale5688",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 80500
+    }
+  ],
+  "suspectedOwners": []
+}

@@ -1,0 +1,48 @@
+{
+  "userId": 20834,
+  "username": "adysgoat",
+  "name": "Adys",
+  "avatarUrl": "avatars/20834.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T01:06:03.288Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-02-07T22:10:52.033Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 884310.75264494,
+    "totalSellVolume": 21479.02463387,
+    "totalPortfolioValue": 6205236.146945813,
+    "holdingsValue": 6205236.146945813,
+    "holdingsCount": 1,
+    "coinsCreated": 0,
+    "totalTransactions": 113,
+    "transactions24h": 2,
+    "buyVolume24h": 17000,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 0,
+    "arcadeLosses": 0,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 20012,
+      "toUsername": "xdpsoul",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 51000
+    }
+  ],
+  "suspectedOwners": []
+}

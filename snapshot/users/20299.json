@@ -1,0 +1,43 @@
+{
+  "userId": 20299,
+  "username": "cool_tiger4022",
+  "name": "Cat Animal",
+  "avatarUrl": "avatars/109657474254861703401.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T06:45:18.811Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-01-25T10:01:06.754Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 928089.0932175,
+    "totalSellVolume": 414798.18902556,
+    "totalPortfolioValue": 556268189.7898368,
+    "holdingsValue": 556268189.7898368,
+    "holdingsCount": 5,
+    "coinsCreated": 2,
+    "totalTransactions": 637,
+    "transactions24h": 1,
+    "buyVolume24h": 12750,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 20598.22,
+    "arcadeLosses": 16053,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "SYLVEON",
+    "ENEAI"
+  ],
+  "indicators": [],
+  "relationships": [],
+  "suspectedOwners": []
+}

@@ -1,0 +1,86 @@
+{
+  "userId": 15915,
+  "username": "crackhead",
+  "name": "HowLongDoesThisGoForLikeHowLongCanMyDisplayNameBe?",
+  "avatarUrl": "avatars/115646669981489943984.webp",
+  "overallScore": 100,
+  "overallLabel": "Very Likely",
+  "clusterId": "cluster_15915",
+  "isBanned": false,
+  "firstSeen": "2026-03-29T20:37:09.781Z",
+  "isMastermind": true,
+  "mastermindScore": 100,
+  "createdAt": "2025-07-24T16:20:07.642Z",
+  "stats": {
+    "baseCurrencyBalance": 357062.45726204,
+    "totalBuyVolume": 153051030.06242108,
+    "totalSellVolume": 175539158.98852968,
+    "totalPortfolioValue": 349669641.0163961,
+    "holdingsValue": 349312578.55913407,
+    "holdingsCount": 147,
+    "coinsCreated": 10,
+    "totalTransactions": 8355,
+    "transactions24h": 14,
+    "buyVolume24h": 269990.85,
+    "sellVolume24h": 53126.1744878
+  },
+  "arcade": {
+    "arcadeWins": 4081989.09540548,
+    "arcadeLosses": 3728343.48999994,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "GAMPLOVID",
+    "10DOLLACOI",
+    "DOUBLEPUMP",
+    "IELYTRO",
+    "CATB0I",
+    "ELYNTRO",
+    "RUGLINK",
+    "LTINVVVV",
+    "QWLIT",
+    "BACKERKIT"
+  ],
+  "indicators": [
+    {
+      "type": "mastermind_activity",
+      "score": 100,
+      "candidateMainUserId": 15915,
+      "details": {
+        "totalAlts": 2,
+        "totalTransferred": 212917.7422,
+        "totalRugProfit": 0,
+        "totalArcadeLaundered": 0
+      },
+      "detectedAt": "2026-03-30T13:06:34.573Z",
+      "summary": "Beneficiary of syndicate network laundering. Cluster contains 2 suspected alts transferring $212,917.742 directly and profiting $0 from coordinated coin buys."
+    }
+  ],
+  "relationships": [
+    {
+      "toUserId": 533,
+      "toUsername": "533",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 1
+    },
+    {
+      "toUserId": 9270,
+      "toUsername": "rudsho",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 200
+    }
+  ],
+  "suspectedOwners": [
+    {
+      "userId": 15915,
+      "username": "crackhead",
+      "confidence": 100
+    }
+  ]
+}

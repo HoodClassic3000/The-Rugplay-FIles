@@ -1,0 +1,51 @@
+{
+  "userId": 17255,
+  "username": "jono",
+  "name": "JONO",
+  "avatarUrl": "avatars/17255.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T15:10:35.289Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-09-12T17:55:33.061Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 10601584.44668494,
+    "totalSellVolume": 10390702.46715948,
+    "totalPortfolioValue": 478076977.8096618,
+    "holdingsValue": 478076977.8096618,
+    "holdingsCount": 22,
+    "coinsCreated": 10,
+    "totalTransactions": 679,
+    "transactions24h": 1,
+    "buyVolume24h": 4500,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 3013530.09892656,
+    "arcadeLosses": 1148434.47110367,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "DELTAAIR",
+    "30Y",
+    "LORDCARROT",
+    "ROBTOP2015",
+    "CHRISTTREE",
+    "CHRISTMAS",
+    "BIGBOI",
+    "BLKDE",
+    "RUMP",
+    "NKW"
+  ],
+  "indicators": [],
+  "relationships": [],
+  "suspectedOwners": []
+}

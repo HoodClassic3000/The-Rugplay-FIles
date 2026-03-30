@@ -1,0 +1,76 @@
+{
+  "userId": 22217,
+  "username": "sunny_eagle9433",
+  "name": "Woody Rempart",
+  "avatarUrl": "avatars/100439836105411842913.webp",
+  "overallScore": 50,
+  "overallLabel": "Possible",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T03:20:18.745Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-03-29T03:20:04.216Z",
+  "stats": {
+    "baseCurrencyBalance": 2501,
+    "totalBuyVolume": 1,
+    "totalSellVolume": 1.00001505,
+    "totalPortfolioValue": 2501,
+    "holdingsValue": 0,
+    "holdingsCount": 0,
+    "coinsCreated": 0,
+    "totalTransactions": 3,
+    "transactions24h": 0,
+    "buyVolume24h": 0,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 3.7,
+    "arcadeLosses": 26,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [],
+  "indicators": [
+    {
+      "type": "cash_funnel",
+      "score": 50,
+      "candidateMainUserId": 22125,
+      "details": {
+        "recipientUsername": "hakari",
+        "totalTransferred": 24276.70001505,
+        "transferShare": 1,
+        "balanceShare": 0.9066,
+        "estimatedPreTransferBalance": 26778,
+        "eventCount": 1,
+        "accountAgeDays": 1.1,
+        "isNewAccount": true,
+        "isCreatedThisMonth": true
+      },
+      "evidenceTransactionIds": [
+        1973904
+      ],
+      "detectedAt": "2026-03-30T13:06:34.506Z",
+      "summary": "Transferred 91% of total wealth ($24,276.7) to one account across 1 transfer(s). Account age: 1.1 days."
+    }
+  ],
+  "relationships": [
+    {
+      "toUserId": 533,
+      "toUsername": "533",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 1
+    }
+  ],
+  "suspectedOwners": [
+    {
+      "userId": 22125,
+      "username": "22125",
+      "confidence": 50
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "userId": 22221,
+  "username": "larper",
+  "name": "larper",
+  "avatarUrl": "avatars/115894992560406632616.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T17:36:44.159Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-03-29T17:36:14.187Z",
+  "stats": {
+    "baseCurrencyBalance": 0.61929931,
+    "totalBuyVolume": 1300,
+    "totalSellVolume": 1300.00012091,
+    "totalPortfolioValue": 0.61929931,
+    "holdingsValue": 0,
+    "holdingsCount": 0,
+    "coinsCreated": 0,
+    "totalTransactions": 8,
+    "transactions24h": 8,
+    "buyVolume24h": 1300,
+    "sellVolume24h": 1300.00012091
+  },
+  "arcade": {
+    "arcadeWins": 333.98,
+    "arcadeLosses": 28864.66,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 533,
+      "toUsername": "533",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 2600
+    }
+  ],
+  "suspectedOwners": []
+}

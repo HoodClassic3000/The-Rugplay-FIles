@@ -1,0 +1,49 @@
+{
+  "userId": 13436,
+  "username": "primecoins",
+  "name": "Primecoins (Buy *11Coin)",
+  "avatarUrl": "avatars/109016091840579895844.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T21:56:14.336Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-07-04T21:12:38.499Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 4888572.87346517,
+    "totalSellVolume": 1551343.73667896,
+    "totalPortfolioValue": 11190042067.836958,
+    "holdingsValue": 11190042067.836958,
+    "holdingsCount": 1,
+    "coinsCreated": 8,
+    "totalTransactions": 1115,
+    "transactions24h": 1,
+    "buyVolume24h": 10625,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 2022,
+    "arcadeLosses": 0,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "PIDAY",
+    "11INDEX",
+    "XPLT",
+    "NEWSOM",
+    "11COINRS",
+    "AOC",
+    "XPM",
+    "11COIN"
+  ],
+  "indicators": [],
+  "relationships": [],
+  "suspectedOwners": []
+}

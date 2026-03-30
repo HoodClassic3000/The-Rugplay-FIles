@@ -1,0 +1,103 @@
+{
+  "userId": 17588,
+  "username": "water",
+  "name": "water",
+  "avatarUrl": "avatars/17588.webp",
+  "overallScore": 20,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T01:16:57.307Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-09-27T18:17:29.735Z",
+  "stats": {
+    "baseCurrencyBalance": 55.3,
+    "totalBuyVolume": 565515.96695778,
+    "totalSellVolume": 427843.08754958,
+    "totalPortfolioValue": 122489.90558479616,
+    "holdingsValue": 122434.60558479615,
+    "holdingsCount": 6,
+    "coinsCreated": 2,
+    "totalTransactions": 93,
+    "transactions24h": 3,
+    "buyVolume24h": 27000,
+    "sellVolume24h": 790
+  },
+  "arcade": {
+    "arcadeWins": 892508.2295,
+    "arcadeLosses": 1171394,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "WTR",
+    "BCOI"
+  ],
+  "indicators": [
+    {
+      "type": "single_holder_buyer",
+      "score": 20,
+      "candidateMainUserId": 16183,
+      "details": {
+        "rugSequenceCount": 2,
+        "totalLost": 68921.42966528,
+        "totalBought": 70501.42966528,
+        "uniqueCoinsInvolved": [
+          "GRADUATION"
+        ],
+        "sequences": [
+          {
+            "coinSymbol": "GRADUATION",
+            "buyAmount": 48501.42966528,
+            "sellReturn": 790,
+            "buyTimestamp": "2026-03-29T01:16:57.195Z",
+            "sellTimestamp": "2026-03-29T17:22:35.820Z"
+          },
+          {
+            "coinSymbol": "GRADUATION",
+            "buyAmount": 22000,
+            "sellReturn": 790,
+            "buyTimestamp": "2026-03-29T17:22:06.178Z",
+            "sellTimestamp": "2026-03-29T17:22:35.820Z"
+          }
+        ]
+      },
+      "evidenceTransactionIds": [
+        1972223,
+        1960414,
+        1973602,
+        1980944,
+        1980940
+      ],
+      "detectedAt": "2026-03-30T13:06:34.503Z",
+      "summary": "Rugged 2 time(s) continuously buying coins pumped by a top holder, losing a total of $68,921.43."
+    }
+  ],
+  "relationships": [
+    {
+      "toUserId": 16183,
+      "toUsername": "16183",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 141002.85933056
+    },
+    {
+      "toUserId": 11600,
+      "toUsername": "11600",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 10000
+    }
+  ],
+  "suspectedOwners": [
+    {
+      "userId": 16183,
+      "username": "16183",
+      "confidence": 20
+    }
+  ]
+}

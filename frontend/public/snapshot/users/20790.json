@@ -1,0 +1,55 @@
+{
+  "userId": 20790,
+  "username": "sunny_eagle2341",
+  "name": "Gideon Saul",
+  "avatarUrl": null,
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T23:58:32.207Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-02-05T07:23:31.057Z",
+  "stats": {
+    "baseCurrencyBalance": 100000.80890794,
+    "totalBuyVolume": 578075.14262441,
+    "totalSellVolume": 516505.58464484,
+    "totalPortfolioValue": 100000.80890794,
+    "holdingsValue": 0,
+    "holdingsCount": 0,
+    "coinsCreated": 0,
+    "totalTransactions": 70,
+    "transactions24h": 3,
+    "buyVolume24h": 75306.53807256,
+    "sellVolume24h": 79110.80890794
+  },
+  "arcade": {
+    "arcadeWins": 691428.25214452,
+    "arcadeLosses": 927752.96741852,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 15624,
+      "toUsername": "phily",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 134213.07614512
+    },
+    {
+      "toUserId": 5961,
+      "toUsername": "iswear",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 15600
+    }
+  ],
+  "suspectedOwners": []
+}

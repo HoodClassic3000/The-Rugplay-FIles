@@ -1,0 +1,59 @@
+{
+  "userId": 5026,
+  "username": "ios",
+  "name": "𝕚𝕆𝕊",
+  "avatarUrl": "avatars/5026.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T16:33:13.141Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-06-23T15:39:28.783Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 39091743.61095731,
+    "totalSellVolume": 37558034.48189662,
+    "totalPortfolioValue": 925270.4059915714,
+    "holdingsValue": 925270.4059915714,
+    "holdingsCount": 1,
+    "coinsCreated": 10,
+    "totalTransactions": 2185,
+    "transactions24h": 3,
+    "buyVolume24h": 25502.21015714,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 3173038.55662065,
+    "arcadeLosses": 3322904.16230605,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "CYPRUS",
+    "TIFTRLA",
+    "ACHVMNT",
+    "WILLBERUG",
+    "HTD5",
+    "RSTRPY",
+    "FINDER",
+    "24HRUG",
+    "XCODE",
+    "ACHVMNTS"
+  ],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 5961,
+      "toUsername": "iswear",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 51002.21015714
+    }
+  ],
+  "suspectedOwners": []
+}

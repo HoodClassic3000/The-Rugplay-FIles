@@ -1,0 +1,50 @@
+{
+  "userId": 21843,
+  "username": "bright_eagle5997",
+  "name": "David Domentii",
+  "avatarUrl": "avatars/117895259811467910531.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T11:14:54.910Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-03-15T09:46:47.305Z",
+  "stats": {
+    "baseCurrencyBalance": 9650.82660291,
+    "totalBuyVolume": 1090,
+    "totalSellVolume": 0,
+    "totalPortfolioValue": 10742.048794408784,
+    "holdingsValue": 1091.2221914987838,
+    "holdingsCount": 2,
+    "coinsCreated": 1,
+    "totalTransactions": 2,
+    "transactions24h": 1,
+    "buyVolume24h": 1000,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 0,
+    "arcadeLosses": 2040,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "FACEDEVVVV"
+  ],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 533,
+      "toUsername": "533",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 2000
+    }
+  ],
+  "suspectedOwners": []
+}

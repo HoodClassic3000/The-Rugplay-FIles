@@ -1,0 +1,43 @@
+{
+  "userId": 21909,
+  "username": "edthebest18main",
+  "name": "eddie lucker",
+  "avatarUrl": "avatars/100094699459186880363.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T22:01:03.282Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-03-17T13:40:14.761Z",
+  "stats": {
+    "baseCurrencyBalance": 1495995.23744711,
+    "totalBuyVolume": 66000,
+    "totalSellVolume": 30043.08744711,
+    "totalPortfolioValue": 4381692.962906459,
+    "holdingsValue": 2885697.7254593493,
+    "holdingsCount": 7,
+    "coinsCreated": 2,
+    "totalTransactions": 15,
+    "transactions24h": 1,
+    "buyVolume24h": 50000,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 139108,
+    "arcadeLosses": 139154,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "UNSTABLEEC",
+    "TBECTBDCA"
+  ],
+  "indicators": [],
+  "relationships": [],
+  "suspectedOwners": []
+}

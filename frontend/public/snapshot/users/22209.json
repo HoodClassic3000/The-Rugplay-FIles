@@ -1,0 +1,55 @@
+{
+  "userId": 22209,
+  "username": "wild_seal1722",
+  "name": "Jad Rhomri mounir",
+  "avatarUrl": "avatars/105185256257019122246.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T17:28:10.029Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-03-28T17:27:16.411Z",
+  "stats": {
+    "baseCurrencyBalance": 1271.4560302,
+    "totalBuyVolume": 200,
+    "totalSellVolume": 171.4560302,
+    "totalPortfolioValue": 1300.0523580074214,
+    "holdingsValue": 28.596327807421467,
+    "holdingsCount": 2,
+    "coinsCreated": 0,
+    "totalTransactions": 4,
+    "transactions24h": 0,
+    "buyVolume24h": 0,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 0,
+    "arcadeLosses": 0,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 12873,
+      "toUsername": "stonks",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 100
+    },
+    {
+      "toUserId": 533,
+      "toUsername": "533",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 100
+    }
+  ],
+  "suspectedOwners": []
+}

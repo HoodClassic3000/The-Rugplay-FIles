@@ -1,0 +1,51 @@
+{
+  "userId": 16744,
+  "username": "levleinonen",
+  "name": "levmaster",
+  "avatarUrl": "avatars/109815762066429087372.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T20:05:29.959Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-08-14T06:40:27.460Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 3189573.00914028,
+    "totalSellVolume": 1967844.35725916,
+    "totalPortfolioValue": 89045499.14063907,
+    "holdingsValue": 89045499.14063907,
+    "holdingsCount": 2,
+    "coinsCreated": 10,
+    "totalTransactions": 536,
+    "transactions24h": 0,
+    "buyVolume24h": 0,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 884605.362,
+    "arcadeLosses": 401820.28987617,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "ISRAELCOIN",
+    "HOLYNL",
+    "RUP",
+    "ITSTVTIME",
+    "TRUSTABLE",
+    "KITYY",
+    "STABLEC",
+    "WCOIN",
+    "67COIN",
+    "DGGD"
+  ],
+  "indicators": [],
+  "relationships": [],
+  "suspectedOwners": []
+}

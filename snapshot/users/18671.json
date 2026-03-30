@@ -1,0 +1,48 @@
+{
+  "userId": 18671,
+  "username": "ohrii",
+  "name": "‎ Ohrii",
+  "avatarUrl": "avatars/18671.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T19:49:43.324Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-11-08T19:13:01.769Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 4802353.6678675,
+    "totalSellVolume": 1783684.42680899,
+    "totalPortfolioValue": 894728852.8265872,
+    "holdingsValue": 894728852.8265872,
+    "holdingsCount": 1,
+    "coinsCreated": 7,
+    "totalTransactions": 1328,
+    "transactions24h": 13,
+    "buyVolume24h": 1257261.81242963,
+    "sellVolume24h": 912256.90295881
+  },
+  "arcade": {
+    "arcadeWins": 1057363.9413,
+    "arcadeLosses": 1101219.05,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "MLDNS",
+    "PLRR3",
+    "PLRR2",
+    "PLRR",
+    "MRTT",
+    "KMD",
+    "BZR"
+  ],
+  "indicators": [],
+  "relationships": [],
+  "suspectedOwners": []
+}

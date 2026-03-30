@@ -1,0 +1,60 @@
+{
+  "userId": 12366,
+  "username": "innovator",
+  "name": "no",
+  "avatarUrl": "avatars/12366.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T15:00:51.916Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-06-30T10:58:33.034Z",
+  "stats": {
+    "baseCurrencyBalance": 4279958.55891446,
+    "totalBuyVolume": 1998197,
+    "totalSellVolume": 824563.23960019,
+    "totalPortfolioValue": 141791554456.23047,
+    "holdingsValue": 141787274497.67154,
+    "holdingsCount": 10,
+    "coinsCreated": 4,
+    "totalTransactions": 122,
+    "transactions24h": 4,
+    "buyVolume24h": 180000,
+    "sellVolume24h": 3082.23421839
+  },
+  "arcade": {
+    "arcadeWins": 2720,
+    "arcadeLosses": 2500,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "THORIUM",
+    "CHAD55",
+    "SPAC",
+    "INNO"
+  ],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 12873,
+      "toUsername": "stonks",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 300000
+    },
+    {
+      "toUserId": 491,
+      "toUsername": "491",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 120000
+    }
+  ],
+  "suspectedOwners": []
+}

@@ -1,0 +1,61 @@
+{
+  "userId": 4859,
+  "username": "vaaq",
+  "name": "vaaq",
+  "avatarUrl": "avatars/118433405594984537347.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T04:06:01.953Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-06-23T03:10:54.074Z",
+  "stats": {
+    "baseCurrencyBalance": 4031718.10082005,
+    "totalBuyVolume": 24320851.04108909,
+    "totalSellVolume": 5558676.9227012,
+    "totalPortfolioValue": 9143256.572115256,
+    "holdingsValue": 5111538.471295206,
+    "holdingsCount": 35,
+    "coinsCreated": 5,
+    "totalTransactions": 4202,
+    "transactions24h": 3,
+    "buyVolume24h": 2,
+    "sellVolume24h": 1.00001505
+  },
+  "arcade": {
+    "arcadeWins": 8626213.1408,
+    "arcadeLosses": 8989606.12,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "JULY2026",
+    "RPP",
+    "ANYDD",
+    "DOLEE",
+    "VAAQ"
+  ],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 533,
+      "toUsername": "533",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 1
+    },
+    {
+      "toUserId": 9178,
+      "toUsername": "9178",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 1
+    }
+  ],
+  "suspectedOwners": []
+}

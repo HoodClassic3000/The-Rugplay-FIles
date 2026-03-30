@@ -1,0 +1,50 @@
+{
+  "userId": 11667,
+  "username": "calm_wolf6057",
+  "name": "Richard James",
+  "avatarUrl": "avatars/111677972478023648437.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T14:23:56.971Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-06-28T15:32:21.137Z",
+  "stats": {
+    "baseCurrencyBalance": 100,
+    "totalBuyVolume": 75622.69509258,
+    "totalSellVolume": 7353.81509258,
+    "totalPortfolioValue": 214228.3728773635,
+    "holdingsValue": 214128.3728773635,
+    "holdingsCount": 3,
+    "coinsCreated": 1,
+    "totalTransactions": 45,
+    "transactions24h": 2,
+    "buyVolume24h": 3756,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 15119,
+    "arcadeLosses": 43510,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "NBC2"
+  ],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 8105,
+      "toUsername": "michaeldell",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 13512
+    }
+  ],
+  "suspectedOwners": []
+}

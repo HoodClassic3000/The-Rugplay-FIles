@@ -1,0 +1,116 @@
+{
+  "userId": 21065,
+  "username": "ragbankcorporation",
+  "name": "RagBank Corp.",
+  "avatarUrl": "avatars/21065.webp",
+  "overallScore": 65,
+  "overallLabel": "Likely",
+  "clusterId": "cluster_22115",
+  "isBanned": false,
+  "firstSeen": "2026-03-28T18:05:01.499Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-02-15T10:41:34.676Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 3210562.18628015,
+    "totalSellVolume": 3232433.79630635,
+    "totalPortfolioValue": 0,
+    "holdingsValue": 0,
+    "holdingsCount": 0,
+    "coinsCreated": 6,
+    "totalTransactions": 291,
+    "transactions24h": 0,
+    "buyVolume24h": 0,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 9695.3675,
+    "arcadeLosses": 7455,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "AAPLNAS",
+    "SCRIBBLE",
+    "BLAVK",
+    "MONODOLLAR",
+    "ZYLFO",
+    "HHTAG"
+  ],
+  "indicators": [
+    {
+      "type": "cash_funnel",
+      "score": 55,
+      "candidateMainUserId": 22115,
+      "details": {
+        "recipientUsername": "cii",
+        "totalTransferred": 21974.99992463,
+        "transferShare": 1,
+        "balanceShare": 1,
+        "estimatedPreTransferBalance": 21975,
+        "eventCount": 2,
+        "accountAgeDays": 42.8,
+        "isNewAccount": false,
+        "isCreatedThisMonth": false
+      },
+      "evidenceTransactionIds": [
+        1963527,
+        1965802
+      ],
+      "detectedAt": "2026-03-30T13:06:34.484Z",
+      "summary": "Transferred 100% of total wealth ($21,975) to one account across 2 transfer(s). Account age: 42.8 days."
+    },
+    {
+      "type": "draining_transfers",
+      "score": 10,
+      "candidateMainUserId": 22115,
+      "details": {
+        "recipientUsername": "cii",
+        "drainingEventCount": 2,
+        "totalDrained": 21974.99992463,
+        "averageDrainRatio": 0.9573,
+        "windowDays": 30,
+        "events": [
+          {
+            "amount": 20099.9898465,
+            "estimatedBalanceBefore": 21974.9898465,
+            "drainRatio": 0.9147,
+            "timestamp": "2026-03-28T09:31:58.169Z"
+          },
+          {
+            "amount": 1875.01007813,
+            "estimatedBalanceBefore": 1875.01007813,
+            "drainRatio": 1,
+            "timestamp": "2026-03-28T18:07:58.055Z"
+          }
+        ]
+      },
+      "evidenceTransactionIds": [
+        1963527,
+        1965802
+      ],
+      "detectedAt": "2026-03-30T13:06:34.484Z",
+      "summary": "Sent 2 near-total balance transfers to the same recipient within 30 days."
+    }
+  ],
+  "relationships": [
+    {
+      "toUserId": 4360,
+      "toUsername": "4360",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 3750
+    }
+  ],
+  "suspectedOwners": [
+    {
+      "userId": 22115,
+      "username": "22115",
+      "confidence": 65
+    }
+  ]
+}

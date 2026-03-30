@@ -1,0 +1,54 @@
+{
+  "userId": 20012,
+  "username": "xdpsoul",
+  "name": "Soul",
+  "avatarUrl": "avatars/20012.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T20:27:29.420Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-01-17T19:56:53.086Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 3925271.91502322,
+    "totalSellVolume": 2530422.32646307,
+    "totalPortfolioValue": 6129470260.908626,
+    "holdingsValue": 6129470260.908626,
+    "holdingsCount": 31,
+    "coinsCreated": 5,
+    "totalTransactions": 876,
+    "transactions24h": 4,
+    "buyVolume24h": 17491.45352637,
+    "sellVolume24h": 491.45352637
+  },
+  "arcade": {
+    "arcadeWins": 180256.34743715,
+    "arcadeLosses": 674270.65,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "SERVER",
+    "BMWM5",
+    "DPED10",
+    "HOSTING",
+    "LUNAS"
+  ],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 12200,
+      "toUsername": "kraz",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 500
+    }
+  ],
+  "suspectedOwners": []
+}

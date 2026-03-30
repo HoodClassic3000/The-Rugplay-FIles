@@ -1,0 +1,45 @@
+{
+  "userId": 9083,
+  "username": "duckyonrugplay",
+  "name": "ducky",
+  "avatarUrl": "avatars/103249556976973600420.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T21:18:11.430Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-06-25T12:21:55.917Z",
+  "stats": {
+    "baseCurrencyBalance": 257855.52517297,
+    "totalBuyVolume": 486176.65557815,
+    "totalSellVolume": 564562.15843005,
+    "totalPortfolioValue": 279128.06784746976,
+    "holdingsValue": 21272.542674499793,
+    "holdingsCount": 5,
+    "coinsCreated": 4,
+    "totalTransactions": 335,
+    "transactions24h": 2,
+    "buyVolume24h": 0,
+    "sellVolume24h": 2087.35458218
+  },
+  "arcade": {
+    "arcadeWins": 24743.406,
+    "arcadeLosses": 90177.11755816,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "GOONPOL",
+    "BOYG",
+    "LIST",
+    "BOOT"
+  ],
+  "indicators": [],
+  "relationships": [],
+  "suspectedOwners": []
+}

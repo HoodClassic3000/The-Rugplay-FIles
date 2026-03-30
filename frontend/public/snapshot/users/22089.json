@@ -1,0 +1,42 @@
+{
+  "userId": 22089,
+  "username": "22089",
+  "name": "Jayceon Denard",
+  "avatarUrl": "avatars/112789856622500369720.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-30T06:35:43.624Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-03-23T13:29:46.235Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 127031.80974209,
+    "totalSellVolume": 113401.90974209,
+    "totalPortfolioValue": 466469.1732653004,
+    "holdingsValue": 466469.1732653004,
+    "holdingsCount": 1,
+    "coinsCreated": 1,
+    "totalTransactions": 20,
+    "transactions24h": 0,
+    "buyVolume24h": 0,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 0,
+    "arcadeLosses": 0,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "GBLE"
+  ],
+  "indicators": [],
+  "relationships": [],
+  "suspectedOwners": []
+}

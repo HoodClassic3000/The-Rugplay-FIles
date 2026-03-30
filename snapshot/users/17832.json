@@ -1,0 +1,235 @@
+{
+  "userId": 17832,
+  "username": "nowon",
+  "name": "Nowon",
+  "avatarUrl": "avatars/17832.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T04:45:11.622Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-10-16T02:22:22.718Z",
+  "stats": {
+    "baseCurrencyBalance": 65906.98157521,
+    "totalBuyVolume": 49282591.35597797,
+    "totalSellVolume": 47613991.36587669,
+    "totalPortfolioValue": 10691553128.947733,
+    "holdingsValue": 10691487221.966158,
+    "holdingsCount": 13541,
+    "coinsCreated": 10,
+    "totalTransactions": 17621,
+    "transactions24h": 5,
+    "buyVolume24h": 150100,
+    "sellVolume24h": 56510.25120427
+  },
+  "arcade": {
+    "arcadeWins": 7825488.28485532,
+    "arcadeLosses": 7048822.60778007,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "ABCDF",
+    "MARTINGALE",
+    "C0OLCOIN",
+    "TESTCOIN32",
+    "ARCR",
+    "GOODNIGHT",
+    "BTCSR",
+    "RPLUS",
+    "OREO",
+    "TRIANGLE",
+    "DUMPP"
+  ],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 22201,
+      "toUsername": "clever_whale5688",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 100
+    },
+    {
+      "toUserId": 22202,
+      "toUsername": "phone",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 200
+    },
+    {
+      "toUserId": 22205,
+      "toUsername": "clever_wolf7247",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 100
+    },
+    {
+      "toUserId": 11667,
+      "toUsername": "calm_wolf6057",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 100
+    },
+    {
+      "toUserId": 14829,
+      "toUsername": "daimy",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 200
+    },
+    {
+      "toUserId": 17716,
+      "toUsername": "xprism",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 200
+    },
+    {
+      "toUserId": 17614,
+      "toUsername": "17614",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 200
+    },
+    {
+      "toUserId": 1387,
+      "toUsername": "leethana",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 200
+    },
+    {
+      "toUserId": 22203,
+      "toUsername": "brave_seal9138",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 100
+    },
+    {
+      "toUserId": 22206,
+      "toUsername": "brave_seal4684",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 100
+    },
+    {
+      "toUserId": 5961,
+      "toUsername": "iswear",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 200
+    },
+    {
+      "toUserId": 22182,
+      "toUsername": "22182",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 100
+    },
+    {
+      "toUserId": 12200,
+      "toUsername": "kraz",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 100
+    },
+    {
+      "toUserId": 922,
+      "toUsername": "922",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 100
+    },
+    {
+      "toUserId": 4071,
+      "toUsername": "2late",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 100
+    },
+    {
+      "toUserId": 14455,
+      "toUsername": "america",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 100
+    },
+    {
+      "toUserId": 12435,
+      "toUsername": "qwlit",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 100
+    },
+    {
+      "toUserId": 5262,
+      "toUsername": "48yearoldsomalian",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 100
+    },
+    {
+      "toUserId": 22214,
+      "toUsername": "cool_fox9505",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 100
+    },
+    {
+      "toUserId": 22216,
+      "toUsername": "calm_wolf8411",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 100
+    },
+    {
+      "toUserId": 22199,
+      "toUsername": "brave_wolf5523",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 500
+    },
+    {
+      "toUserId": 22213,
+      "toUsername": "happy_deer7985",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 100
+    },
+    {
+      "toUserId": 5505,
+      "toUsername": "5505",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 100
+    },
+    {
+      "toUserId": 27,
+      "toUsername": "maschlax",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 100
+    },
+    {
+      "toUserId": 21218,
+      "toUsername": "clever_seal2582",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 100
+    },
+    {
+      "toUserId": 4859,
+      "toUsername": "vaaq",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 100000
+    }
+  ],
+  "suspectedOwners": []
+}

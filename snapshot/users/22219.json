@@ -1,0 +1,55 @@
+{
+  "userId": 22219,
+  "username": "cool_panda2825",
+  "name": "fgdhiklsfjoldix",
+  "avatarUrl": "avatars/104586192644597852323.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T15:04:17.553Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-03-29T15:03:43.488Z",
+  "stats": {
+    "baseCurrencyBalance": 0.3588,
+    "totalBuyVolume": 33100,
+    "totalSellVolume": 33100,
+    "totalPortfolioValue": 0.3588,
+    "holdingsValue": 0,
+    "holdingsCount": 0,
+    "coinsCreated": 0,
+    "totalTransactions": 8,
+    "transactions24h": 8,
+    "buyVolume24h": 33100,
+    "sellVolume24h": 33100
+  },
+  "arcade": {
+    "arcadeWins": 205606.2188,
+    "arcadeLosses": 315268.13,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 9270,
+      "toUsername": "rudsho",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 2600
+    },
+    {
+      "toUserId": 12200,
+      "toUsername": "kraz",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 63600
+    }
+  ],
+  "suspectedOwners": []
+}

@@ -1,0 +1,77 @@
+{
+  "userId": 4241,
+  "username": "lucky_wolf9270",
+  "name": "Travis",
+  "avatarUrl": "avatars/116343174724118936425.png",
+  "overallScore": 55,
+  "overallLabel": "Possible",
+  "clusterId": "cluster_4237",
+  "isBanned": false,
+  "firstSeen": "2026-03-28T15:31:15.871Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-06-10T03:03:53.911Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 0,
+    "totalSellVolume": 52.37989225,
+    "totalPortfolioValue": 149.66811302,
+    "holdingsValue": 149.66811302,
+    "holdingsCount": 3,
+    "coinsCreated": 0,
+    "totalTransactions": 20,
+    "transactions24h": 0,
+    "buyVolume24h": 0,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 0,
+    "arcadeLosses": 0,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [],
+  "indicators": [
+    {
+      "type": "cash_funnel",
+      "score": 55,
+      "candidateMainUserId": 4237,
+      "details": {
+        "recipientUsername": "lncvrt",
+        "totalTransferred": 20752.37989225,
+        "transferShare": 1,
+        "balanceShare": 1,
+        "estimatedPreTransferBalance": 20752,
+        "eventCount": 2,
+        "accountAgeDays": 293.1,
+        "isNewAccount": false,
+        "isCreatedThisMonth": false
+      },
+      "evidenceTransactionIds": [
+        1964604,
+        610405
+      ],
+      "detectedAt": "2026-03-30T13:06:34.470Z",
+      "summary": "Transferred 100% of total wealth ($20,752.38) to one account across 2 transfer(s). Account age: 293.1 days."
+    }
+  ],
+  "relationships": [
+    {
+      "toUserId": 4237,
+      "toUsername": "lncvrt",
+      "type": "transfer_funnel",
+      "weight": 0,
+      "totalValueMoved": 17200
+    }
+  ],
+  "suspectedOwners": [
+    {
+      "userId": 4237,
+      "username": "lncvrt",
+      "confidence": 55
+    }
+  ]
+}

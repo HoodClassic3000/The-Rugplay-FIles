@@ -1,0 +1,101 @@
+{
+  "userId": 17358,
+  "username": "strawberry",
+  "name": "strawberry",
+  "avatarUrl": "avatars/17358.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T20:50:11.997Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-09-19T17:15:41.025Z",
+  "stats": {
+    "baseCurrencyBalance": 62195.71335215,
+    "totalBuyVolume": 217582330.98937824,
+    "totalSellVolume": 215465589.64542562,
+    "totalPortfolioValue": 538404458449.8832,
+    "holdingsValue": 538404396254.1698,
+    "holdingsCount": 616,
+    "coinsCreated": 10,
+    "totalTransactions": 5070,
+    "transactions24h": 10,
+    "buyVolume24h": 21118,
+    "sellVolume24h": 17987.3140008
+  },
+  "arcade": {
+    "arcadeWins": 4442748.689513,
+    "arcadeLosses": 4908133.21,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "WKRAZBANK",
+    "KRAZBANK",
+    "1KPERDAY",
+    "BUYBN13",
+    "ACHEVEMENT",
+    "SMYS",
+    "REMEGAMBLE",
+    "FEB24COIN",
+    "FEB23COIN",
+    "NONONO"
+  ],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 17716,
+      "toUsername": "xprism",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 9
+    },
+    {
+      "toUserId": 13355,
+      "toUsername": "paulwalker",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 28607
+    },
+    {
+      "toUserId": 5961,
+      "toUsername": "iswear",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 9
+    },
+    {
+      "toUserId": 4071,
+      "toUsername": "2late",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 24234.31
+    },
+    {
+      "toUserId": 22199,
+      "toUsername": "brave_wolf5523",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 500
+    },
+    {
+      "toUserId": 21591,
+      "toUsername": "kentroix",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 8000
+    },
+    {
+      "toUserId": 4439,
+      "toUsername": "lore",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 9
+    }
+  ],
+  "suspectedOwners": []
+}

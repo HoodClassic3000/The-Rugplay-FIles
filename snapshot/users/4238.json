@@ -1,0 +1,50 @@
+{
+  "userId": 4238,
+  "username": "thepuppet57",
+  "name": "Kira",
+  "avatarUrl": "avatars/4238.jpg",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T23:45:53.153Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-06-10T01:32:36.219Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 1010993.38988865,
+    "totalSellVolume": 975902.09268718,
+    "totalPortfolioValue": 17112.31675462689,
+    "holdingsValue": 17112.31675462689,
+    "holdingsCount": 1,
+    "coinsCreated": 1,
+    "totalTransactions": 227,
+    "transactions24h": 2,
+    "buyVolume24h": 17000,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 1867196.5631436,
+    "arcadeLosses": 2392377.16835375,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "GOCO"
+  ],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 388,
+      "toUsername": "388",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 34000
+    }
+  ],
+  "suspectedOwners": []
+}

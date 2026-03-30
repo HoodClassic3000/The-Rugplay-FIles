@@ -1,0 +1,40 @@
+{
+  "userId": 21122,
+  "username": "sunny_fox3956",
+  "name": "Ahmed",
+  "avatarUrl": "avatars/104643412654976733097.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T18:32:41.599Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-02-18T08:11:32.113Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 1300,
+    "totalSellVolume": 1523.14064958,
+    "totalPortfolioValue": 0,
+    "holdingsValue": 0,
+    "holdingsCount": 0,
+    "coinsCreated": 0,
+    "totalTransactions": 3,
+    "transactions24h": 2,
+    "buyVolume24h": 0,
+    "sellVolume24h": 1523.14064958
+  },
+  "arcade": {
+    "arcadeWins": 0,
+    "arcadeLosses": 0,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [],
+  "indicators": [],
+  "relationships": [],
+  "suspectedOwners": []
+}

@@ -1,0 +1,79 @@
+{
+  "userId": 22021,
+  "username": "rak0oni",
+  "name": "Rakooni",
+  "avatarUrl": "avatars/22021.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T11:13:33.477Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-03-21T13:44:02.976Z",
+  "stats": {
+    "baseCurrencyBalance": 57785.56649199,
+    "totalBuyVolume": 488566.02422937,
+    "totalSellVolume": 74958.63342303,
+    "totalPortfolioValue": 37668657.04255917,
+    "holdingsValue": 37610871.47606718,
+    "holdingsCount": 55,
+    "coinsCreated": 2,
+    "totalTransactions": 159,
+    "transactions24h": 7,
+    "buyVolume24h": 7000,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 601841.8666389,
+    "arcadeLosses": 581079.17,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "GOM",
+    "OCLW"
+  ],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 4251,
+      "toUsername": "4251",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 4000
+    },
+    {
+      "toUserId": 17716,
+      "toUsername": "xprism",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 2000
+    },
+    {
+      "toUserId": 1387,
+      "toUsername": "leethana",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 2000
+    },
+    {
+      "toUserId": 17832,
+      "toUsername": "nowon",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 4000
+    },
+    {
+      "toUserId": 9270,
+      "toUsername": "rudsho",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 2000
+    }
+  ],
+  "suspectedOwners": []
+}

@@ -1,0 +1,152 @@
+{
+  "userId": 12873,
+  "username": "stonks",
+  "name": "Stonks",
+  "avatarUrl": "avatars/12873.webp",
+  "overallScore": 90,
+  "overallLabel": "Very Likely",
+  "clusterId": "cluster_15915",
+  "isBanned": false,
+  "firstSeen": "2026-03-28T12:37:23.400Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-07-01T18:33:47.030Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 51338348.80181919,
+    "totalSellVolume": 31649454.5287338,
+    "totalPortfolioValue": 2222881176211.348,
+    "holdingsValue": 2222881176211.348,
+    "holdingsCount": 40,
+    "coinsCreated": 10,
+    "totalTransactions": 6922,
+    "transactions24h": 2,
+    "buyVolume24h": 17020,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 1068626.9023358,
+    "arcadeLosses": 1006621.87400175,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "WOWTEST",
+    "TESTBANK",
+    "XPRISMBANK",
+    "0MEGA",
+    "TESTSET",
+    "OMEGA",
+    "EULER",
+    "PHI",
+    "FEDRESERVE",
+    "FEDRESRV"
+  ],
+  "indicators": [
+    {
+      "type": "cash_funnel",
+      "score": 55,
+      "candidateMainUserId": 15915,
+      "details": {
+        "recipientUsername": "crackhead",
+        "totalTransferred": 200000,
+        "transferShare": 1,
+        "balanceShare": 1,
+        "estimatedPreTransferBalance": 200000,
+        "eventCount": 1,
+        "accountAgeDays": 271.5,
+        "isNewAccount": false,
+        "isCreatedThisMonth": false
+      },
+      "evidenceTransactionIds": [
+        1959567
+      ],
+      "detectedAt": "2026-03-30T13:06:34.419Z",
+      "summary": "Transferred 100% of total wealth ($200,000) to one account across 1 transfer(s). Account age: 271.5 days."
+    },
+    {
+      "type": "single_holder_buyer",
+      "score": 35,
+      "candidateMainUserId": 167,
+      "details": {
+        "rugSequenceCount": 5,
+        "totalLost": 177199.69000007,
+        "totalBought": 177299.69000007,
+        "uniqueCoinsInvolved": [
+          "XPRISM250"
+        ],
+        "sequences": [
+          {
+            "coinSymbol": "XPRISM250",
+            "buyAmount": 100000,
+            "sellReturn": 20,
+            "buyTimestamp": "2026-03-28T01:37:44.375Z",
+            "sellTimestamp": "2026-03-28T16:52:48.912Z"
+          },
+          {
+            "coinSymbol": "XPRISM250",
+            "buyAmount": 50227.00000007,
+            "sellReturn": 20,
+            "buyTimestamp": "2026-03-28T03:40:13.456Z",
+            "sellTimestamp": "2026-03-28T16:52:48.912Z"
+          },
+          {
+            "coinSymbol": "XPRISM250",
+            "buyAmount": 10052.69,
+            "sellReturn": 20,
+            "buyTimestamp": "2026-03-28T03:49:43.993Z",
+            "sellTimestamp": "2026-03-28T16:52:48.912Z"
+          },
+          {
+            "coinSymbol": "XPRISM250",
+            "buyAmount": 8500,
+            "sellReturn": 20,
+            "buyTimestamp": "2026-03-28T04:48:15.035Z",
+            "sellTimestamp": "2026-03-28T16:52:48.912Z"
+          },
+          {
+            "coinSymbol": "XPRISM250",
+            "buyAmount": 8520,
+            "sellReturn": 20,
+            "buyTimestamp": "2026-03-28T16:52:41.958Z",
+            "sellTimestamp": "2026-03-28T16:52:48.912Z"
+          }
+        ]
+      },
+      "evidenceTransactionIds": [
+        1961443,
+        1960656,
+        1960528,
+        1959573,
+        1964747,
+        1964744
+      ],
+      "detectedAt": "2026-03-30T13:06:34.420Z",
+      "summary": "Rugged 5 time(s) continuously buying coins pumped by a top holder, losing a total of $177,199.69."
+    }
+  ],
+  "relationships": [
+    {
+      "toUserId": 17716,
+      "toUsername": "xprism",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 34080
+    }
+  ],
+  "suspectedOwners": [
+    {
+      "userId": 15915,
+      "username": "crackhead",
+      "confidence": 55
+    },
+    {
+      "userId": 167,
+      "username": "nullmega",
+      "confidence": 35
+    }
+  ]
+}

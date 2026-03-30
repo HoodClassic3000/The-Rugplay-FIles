@@ -1,0 +1,51 @@
+{
+  "userId": 9270,
+  "username": "rudsho",
+  "name": "Rudolph",
+  "avatarUrl": "avatars/9270.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T09:28:34.108Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-06-25T14:35:26.513Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 70787794.64064951,
+    "totalSellVolume": 87955498.4840361,
+    "totalPortfolioValue": 39676480198.10383,
+    "holdingsValue": 39676480198.10383,
+    "holdingsCount": 1,
+    "coinsCreated": 10,
+    "totalTransactions": 5487,
+    "transactions24h": 5,
+    "buyVolume24h": 51118.83292509,
+    "sellVolume24h": 17000
+  },
+  "arcade": {
+    "arcadeWins": 2747286.2573,
+    "arcadeLosses": 2685930.88,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "RDLPH",
+    "NAS",
+    "TRGD",
+    "TCOINTEST",
+    "TESTINCOIN",
+    "TESTINGCOI",
+    "TCCCCC4",
+    "TCCCC3",
+    "TCCCCC2",
+    "TCCCC"
+  ],
+  "indicators": [],
+  "relationships": [],
+  "suspectedOwners": []
+}

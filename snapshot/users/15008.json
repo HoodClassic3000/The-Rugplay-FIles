@@ -1,0 +1,212 @@
+{
+  "userId": 15008,
+  "username": "necroa",
+  "name": "necroa",
+  "avatarUrl": "avatars/104274662215264564731.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T15:34:34.458Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-07-17T06:02:59.844Z",
+  "stats": {
+    "baseCurrencyBalance": 21910.1038614,
+    "totalBuyVolume": 3621088.60346849,
+    "totalSellVolume": 3422681.23378154,
+    "totalPortfolioValue": 24792278.7537503,
+    "holdingsValue": 24770368.6498889,
+    "holdingsCount": 22,
+    "coinsCreated": 9,
+    "totalTransactions": 271,
+    "transactions24h": 27,
+    "buyVolume24h": 960,
+    "sellVolume24h": 20.1038614
+  },
+  "arcade": {
+    "arcadeWins": 144508,
+    "arcadeLosses": 182834,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "CORE",
+    "ASGORE",
+    "METTATON",
+    "METTATONEX",
+    "METTATONEO",
+    "UNDYNE",
+    "SANS",
+    "DESS",
+    "SPAGHETTI"
+  ],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 16183,
+      "toUsername": "16183",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 10
+    },
+    {
+      "toUserId": 12366,
+      "toUsername": "innovator",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 10
+    },
+    {
+      "toUserId": 18679,
+      "toUsername": "18679",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 10
+    },
+    {
+      "toUserId": 14394,
+      "toUsername": "14394",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 100
+    },
+    {
+      "toUserId": 17426,
+      "toUsername": "17426",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 100
+    },
+    {
+      "toUserId": 533,
+      "toUsername": "533",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 100
+    },
+    {
+      "toUserId": 20520,
+      "toUsername": "bestgambler",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 10
+    },
+    {
+      "toUserId": 11988,
+      "toUsername": "11988",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 10
+    },
+    {
+      "toUserId": 8764,
+      "toUsername": "8764",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 100
+    },
+    {
+      "toUserId": 19,
+      "toUsername": "maze",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 10
+    },
+    {
+      "toUserId": 13455,
+      "toUsername": "13455",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 100
+    },
+    {
+      "toUserId": 20566,
+      "toUsername": "20566",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 10
+    },
+    {
+      "toUserId": 388,
+      "toUsername": "388",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 10
+    },
+    {
+      "toUserId": 13436,
+      "toUsername": "primecoins",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 100
+    },
+    {
+      "toUserId": 5,
+      "toUsername": "endlessvoid_303",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 10
+    },
+    {
+      "toUserId": 9531,
+      "toUsername": "exceptionee",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 100
+    },
+    {
+      "toUserId": 12200,
+      "toUsername": "kraz",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 10
+    },
+    {
+      "toUserId": 17358,
+      "toUsername": "strawberry",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 10
+    },
+    {
+      "toUserId": 19726,
+      "toUsername": "xbank",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 10
+    },
+    {
+      "toUserId": 20163,
+      "toUsername": "20163",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 10
+    },
+    {
+      "toUserId": 17832,
+      "toUsername": "nowon",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 10
+    },
+    {
+      "toUserId": 37,
+      "toUsername": "37",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 10
+    },
+    {
+      "toUserId": 2945,
+      "toUsername": "2945",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 10
+    }
+  ],
+  "suspectedOwners": []
+}

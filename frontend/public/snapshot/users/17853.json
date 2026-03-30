@@ -1,0 +1,50 @@
+{
+  "userId": 17853,
+  "username": "happy_lion4593",
+  "name": "Clip Master",
+  "avatarUrl": "avatars/109277437396090105877.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T14:21:04.314Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-10-17T03:38:21.920Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 86201.80444907,
+    "totalSellVolume": 49719.80444907,
+    "totalPortfolioValue": 73007.92348512483,
+    "holdingsValue": 73007.92348512483,
+    "holdingsCount": 3,
+    "coinsCreated": 1,
+    "totalTransactions": 38,
+    "transactions24h": 0,
+    "buyVolume24h": 0,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 1500,
+    "arcadeLosses": 94418,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "MRMAN"
+  ],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 8105,
+      "toUsername": "michaeldell",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 3000.66749216
+    }
+  ],
+  "suspectedOwners": []
+}

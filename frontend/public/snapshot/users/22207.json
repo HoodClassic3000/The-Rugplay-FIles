@@ -1,0 +1,62 @@
+{
+  "userId": 22207,
+  "username": "happy_whale8830",
+  "name": "David Outters",
+  "avatarUrl": "avatars/100836287176268285938.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T17:00:21.212Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-03-28T16:57:28.711Z",
+  "stats": {
+    "baseCurrencyBalance": 0.69633767,
+    "totalBuyVolume": 453594.49613795,
+    "totalSellVolume": 453604.39247562,
+    "totalPortfolioValue": 0.69633767,
+    "holdingsValue": 0,
+    "holdingsCount": 0,
+    "coinsCreated": 0,
+    "totalTransactions": 15,
+    "transactions24h": 12,
+    "buyVolume24h": 452294.49613795,
+    "sellVolume24h": 452304.39247562
+  },
+  "arcade": {
+    "arcadeWins": 1069031.2,
+    "arcadeLosses": 1508840.4,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 533,
+      "toUsername": "533",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 492304.3922759
+    },
+    {
+      "toUserId": 17614,
+      "toUsername": "17614",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 2600
+    },
+    {
+      "toUserId": 12200,
+      "toUsername": "kraz",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 412284.6
+    }
+  ],
+  "suspectedOwners": []
+}

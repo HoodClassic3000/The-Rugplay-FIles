@@ -1,0 +1,85 @@
+{
+  "userId": 16694,
+  "username": "lucky_fox9635",
+  "name": "John Smith",
+  "avatarUrl": "avatars/113479373378825015960.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-30T03:27:56.700Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-08-12T04:00:54.488Z",
+  "stats": {
+    "baseCurrencyBalance": 42000,
+    "totalBuyVolume": 31441.46597282,
+    "totalSellVolume": 14960.35992857,
+    "totalPortfolioValue": 52450.46516139906,
+    "holdingsValue": 10450.465161399057,
+    "holdingsCount": 9,
+    "coinsCreated": 1,
+    "totalTransactions": 39,
+    "transactions24h": 17,
+    "buyVolume24h": 21231.47840185,
+    "sellVolume24h": 14277.65253573
+  },
+  "arcade": {
+    "arcadeWins": 20,
+    "arcadeLosses": 0,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "FREAKIE"
+  ],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 533,
+      "toUsername": "533",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 13967.65212864
+    },
+    {
+      "toUserId": 8764,
+      "toUsername": "8764",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 12707.65232908
+    },
+    {
+      "toUserId": 9270,
+      "toUsername": "rudsho",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 100
+    },
+    {
+      "toUserId": 4429,
+      "toUsername": "4429",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 11957.65234598
+    },
+    {
+      "toUserId": 4935,
+      "toUsername": "4935",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 410
+    },
+    {
+      "toUserId": 12361,
+      "toUsername": "12361",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 500
+    }
+  ],
+  "suspectedOwners": []
+}

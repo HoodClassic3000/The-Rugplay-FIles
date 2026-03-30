@@ -1,0 +1,51 @@
+{
+  "userId": 17120,
+  "username": "kingofgoldcitizens",
+  "name": "Gold",
+  "avatarUrl": "avatars/17120.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T14:30:39.947Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-09-04T17:23:55.296Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 50689172.79973243,
+    "totalSellVolume": 44844588.94892217,
+    "totalPortfolioValue": 48075236649.20298,
+    "holdingsValue": 48075236649.20298,
+    "holdingsCount": 4,
+    "coinsCreated": 10,
+    "totalTransactions": 1251,
+    "transactions24h": 1,
+    "buyVolume24h": 4875,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 20619392.09971196,
+    "arcadeLosses": 18452638.80926442,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "6POINT9",
+    "4MOREACHIV",
+    "GOLDONTOP",
+    "IGOT5MIL",
+    "KILFACEDEV",
+    "STRAWBERRY",
+    "BUYFOR30K",
+    "FORA8",
+    "FORA7",
+    "FORA6"
+  ],
+  "indicators": [],
+  "relationships": [],
+  "suspectedOwners": []
+}

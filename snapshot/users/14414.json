@@ -1,0 +1,79 @@
+{
+  "userId": 14414,
+  "username": "happy_lion5367",
+  "name": "Cyte",
+  "avatarUrl": null,
+  "overallScore": 10,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T17:42:13.126Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-07-12T15:25:21.805Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 5503.45575709,
+    "totalSellVolume": 4046.34319201,
+    "totalPortfolioValue": 0,
+    "holdingsValue": 0,
+    "holdingsCount": 0,
+    "coinsCreated": 0,
+    "totalTransactions": 8,
+    "transactions24h": 4,
+    "buyVolume24h": 0,
+    "sellVolume24h": 1042.88743492
+  },
+  "arcade": {
+    "arcadeWins": 0,
+    "arcadeLosses": 0,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [],
+  "indicators": [
+    {
+      "type": "draining_transfers",
+      "score": 10,
+      "candidateMainUserId": 22221,
+      "details": {
+        "recipientUsername": "larper",
+        "drainingEventCount": 2,
+        "totalDrained": 2242.88743492,
+        "averageDrainRatio": 1,
+        "windowDays": 30,
+        "events": [
+          {
+            "amount": 1200,
+            "estimatedBalanceBefore": 1200,
+            "drainRatio": 1,
+            "timestamp": "2026-03-29T17:41:55.688Z"
+          },
+          {
+            "amount": 1042.88743492,
+            "estimatedBalanceBefore": 1042.88743492,
+            "drainRatio": 1,
+            "timestamp": "2026-03-29T17:42:30.702Z"
+          }
+        ]
+      },
+      "evidenceTransactionIds": [
+        1981087,
+        1981080
+      ],
+      "detectedAt": "2026-03-30T13:06:34.549Z",
+      "summary": "Sent 2 near-total balance transfers to the same recipient within 30 days."
+    }
+  ],
+  "relationships": [],
+  "suspectedOwners": [
+    {
+      "userId": 22221,
+      "username": "larper",
+      "confidence": 10
+    }
+  ]
+}

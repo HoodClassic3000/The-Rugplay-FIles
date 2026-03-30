@@ -1,0 +1,401 @@
+{
+  "userId": 22201,
+  "username": "clever_whale5688",
+  "name": "luminosity",
+  "avatarUrl": "avatars/108894668809588592838.webp",
+  "overallScore": 100,
+  "overallLabel": "Very Likely",
+  "clusterId": "cluster_204",
+  "isBanned": false,
+  "firstSeen": "2026-03-28T13:02:12.517Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-03-28T11:45:47.395Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 891903.8948886,
+    "totalSellVolume": 898038.29294101,
+    "totalPortfolioValue": 56317.247708260205,
+    "holdingsValue": 56317.247708260205,
+    "holdingsCount": 1,
+    "coinsCreated": 1,
+    "totalTransactions": 105,
+    "transactions24h": 37,
+    "buyVolume24h": 540869.45354595,
+    "sellVolume24h": 501322.86391325
+  },
+  "arcade": {
+    "arcadeWins": 94188.107,
+    "arcadeLosses": 213927.71505241,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "GC67"
+  ],
+  "indicators": [
+    {
+      "type": "rug_laundering",
+      "score": 40,
+      "candidateMainUserId": 204,
+      "details": {
+        "sequenceCount": 2,
+        "totalLost": 16385.477917490003,
+        "totalBought": 16578.08984041,
+        "totalRecovered": 192.61192292,
+        "maxDominantHolderPercentage": 0.8134,
+        "accountAgeDays": 1.8,
+        "sequences": [
+          {
+            "coinSymbol": "GC67",
+            "buyAmount": 10777.618,
+            "sellReturn": 96.30596146,
+            "buyTimestamp": "2026-03-28T12:12:05.028Z",
+            "sellTimestamp": "2026-03-28T13:20:27.992Z"
+          },
+          {
+            "coinSymbol": "GC67",
+            "buyAmount": 5800.47184041,
+            "sellReturn": 96.30596146,
+            "buyTimestamp": "2026-03-28T12:17:55.516Z",
+            "sellTimestamp": "2026-03-28T13:20:27.992Z"
+          }
+        ]
+      },
+      "evidenceTransactionIds": [
+        1964016,
+        1964015,
+        1964014,
+        1963926,
+        1963923,
+        1963904,
+        1964109,
+        1964108,
+        1964107,
+        1964105,
+        1964100,
+        1964097,
+        1964089,
+        1964084,
+        1964112,
+        1964110,
+        1964128,
+        1964127,
+        1964126,
+        1964125,
+        1964124,
+        1964123,
+        1964138,
+        1964137,
+        1964136,
+        1964135,
+        1964132,
+        1964129,
+        1964141,
+        1964147,
+        1964146,
+        1964145,
+        1964144,
+        1964143,
+        1964142,
+        1964556,
+        1964555,
+        1964554,
+        1964552,
+        1964548
+      ],
+      "detectedAt": "2026-03-30T13:06:34.448Z",
+      "summary": "Bought into a coin dominated by a single holder and was rugged across 2 sequence(s), losing a total of 16385 in-game currency."
+    },
+    {
+      "type": "single_holder_buyer",
+      "score": 40,
+      "candidateMainUserId": 204,
+      "details": {
+        "rugSequenceCount": 12,
+        "totalLost": 264717.50789716,
+        "totalBought": 282349.8436064,
+        "uniqueCoinsInvolved": [
+          "GC67",
+          "WSW"
+        ],
+        "sequences": [
+          {
+            "coinSymbol": "GC67",
+            "buyAmount": 10777.618,
+            "sellReturn": 1058.57256176,
+            "buyTimestamp": "2026-03-28T12:12:05.028Z",
+            "sellTimestamp": "2026-03-28T13:02:40.961Z"
+          },
+          {
+            "coinSymbol": "GC67",
+            "buyAmount": 5800.47184041,
+            "sellReturn": 96.30596146,
+            "buyTimestamp": "2026-03-28T12:17:55.516Z",
+            "sellTimestamp": "2026-03-28T13:20:27.992Z"
+          },
+          {
+            "coinSymbol": "GC67",
+            "buyAmount": 11648.24,
+            "sellReturn": 464.45599865,
+            "buyTimestamp": "2026-03-28T13:22:28.745Z",
+            "sellTimestamp": "2026-03-28T13:27:08.317Z"
+          },
+          {
+            "coinSymbol": "GC67",
+            "buyAmount": 21734.52484205,
+            "sellReturn": 2060.87468589,
+            "buyTimestamp": "2026-03-28T13:23:37.106Z",
+            "sellTimestamp": "2026-03-28T13:27:05.758Z"
+          },
+          {
+            "coinSymbol": "GC67",
+            "buyAmount": 63848.25056271,
+            "sellReturn": 2888.84592559,
+            "buyTimestamp": "2026-03-28T13:28:57.966Z",
+            "sellTimestamp": "2026-03-28T13:30:10.177Z"
+          },
+          {
+            "coinSymbol": "GC67",
+            "buyAmount": 73688.62101398,
+            "sellReturn": 6694.4448917,
+            "buyTimestamp": "2026-03-28T13:31:19.169Z",
+            "sellTimestamp": "2026-03-28T13:32:00.400Z"
+          },
+          {
+            "coinSymbol": "GC67",
+            "buyAmount": 66628.62176119,
+            "sellReturn": 4358.83568419,
+            "buyTimestamp": "2026-03-28T15:18:27.183Z",
+            "sellTimestamp": "2026-03-28T15:19:20.944Z"
+          },
+          {
+            "coinSymbol": "WSW",
+            "buyAmount": 24227.49558606,
+            "sellReturn": 2,
+            "buyTimestamp": "2026-03-28T13:13:25.534Z",
+            "sellTimestamp": "2026-03-28T13:44:17.733Z"
+          },
+          {
+            "coinSymbol": "WSW",
+            "buyAmount": 999,
+            "sellReturn": 2,
+            "buyTimestamp": "2026-03-28T13:34:22.395Z",
+            "sellTimestamp": "2026-03-28T13:44:17.733Z"
+          },
+          {
+            "coinSymbol": "WSW",
+            "buyAmount": 999,
+            "sellReturn": 2,
+            "buyTimestamp": "2026-03-28T13:34:25.169Z",
+            "sellTimestamp": "2026-03-28T13:44:17.733Z"
+          },
+          {
+            "coinSymbol": "WSW",
+            "buyAmount": 999,
+            "sellReturn": 2,
+            "buyTimestamp": "2026-03-28T13:34:27.816Z",
+            "sellTimestamp": "2026-03-28T13:44:17.733Z"
+          },
+          {
+            "coinSymbol": "WSW",
+            "buyAmount": 999,
+            "sellReturn": 2,
+            "buyTimestamp": "2026-03-28T13:34:42.414Z",
+            "sellTimestamp": "2026-03-28T13:44:17.733Z"
+          }
+        ]
+      },
+      "evidenceTransactionIds": [
+        1964016,
+        1964015,
+        1964014,
+        1963926,
+        1963923,
+        1963904,
+        1964071,
+        1964109,
+        1964108,
+        1964107,
+        1964105,
+        1964100,
+        1964097,
+        1964089,
+        1964084,
+        1964112,
+        1964110,
+        1964128,
+        1964127,
+        1964126,
+        1964125,
+        1964124,
+        1964123,
+        1964138,
+        1964137,
+        1964136,
+        1964135,
+        1964132,
+        1964129,
+        1964141,
+        1964147,
+        1964146,
+        1964145,
+        1964144,
+        1964143,
+        1964142,
+        1964170,
+        1964155,
+        1964154,
+        1964153,
+        1964152,
+        1964186,
+        1964185,
+        1964556,
+        1964555,
+        1964554,
+        1964552,
+        1964548
+      ],
+      "detectedAt": "2026-03-30T13:06:34.449Z",
+      "summary": "Rugged 12 time(s) continuously buying coins pumped by a top holder, losing a total of $264,717.508."
+    },
+    {
+      "type": "single_holder_buyer",
+      "score": 25,
+      "candidateMainUserId": 10655,
+      "details": {
+        "rugSequenceCount": 3,
+        "totalLost": 53306.01046472999,
+        "totalBought": 53318.94110058,
+        "uniqueCoinsInvolved": [
+          "STEADY"
+        ],
+        "sequences": [
+          {
+            "coinSymbol": "STEADY",
+            "buyAmount": 24006.94110058,
+            "sellReturn": 4.31021195,
+            "buyTimestamp": "2026-03-28T13:07:18.569Z",
+            "sellTimestamp": "2026-03-29T13:23:43.656Z"
+          },
+          {
+            "coinSymbol": "STEADY",
+            "buyAmount": 20000,
+            "sellReturn": 4.31021195,
+            "buyTimestamp": "2026-03-29T12:50:36.025Z",
+            "sellTimestamp": "2026-03-29T13:23:43.656Z"
+          },
+          {
+            "coinSymbol": "STEADY",
+            "buyAmount": 9312,
+            "sellReturn": 4.31021195,
+            "buyTimestamp": "2026-03-29T13:21:53.112Z",
+            "sellTimestamp": "2026-03-29T13:23:43.656Z"
+          }
+        ]
+      },
+      "evidenceTransactionIds": [
+        1964024,
+        1964056,
+        1978838,
+        1979048,
+        1979080,
+        1979077,
+        1979657,
+        1979656,
+        1979650,
+        1979648,
+        1979640,
+        1979632,
+        1979630,
+        1979663,
+        1979662,
+        1979919,
+        1979916,
+        1979915
+      ],
+      "detectedAt": "2026-03-30T13:06:34.449Z",
+      "summary": "Rugged 3 time(s) continuously buying coins pumped by a top holder, losing a total of $53,306.01."
+    }
+  ],
+  "relationships": [
+    {
+      "toUserId": 15624,
+      "toUsername": "phily",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 1998
+    },
+    {
+      "toUserId": 12873,
+      "toUsername": "stonks",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 94788.49210528
+    },
+    {
+      "toUserId": 533,
+      "toUsername": "533",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 8000.46412343
+    },
+    {
+      "toUserId": 20520,
+      "toUsername": "bestgambler",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 8000
+    },
+    {
+      "toUserId": 10655,
+      "toUsername": "eulmdev",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 1030968.29718778
+    },
+    {
+      "toUserId": 22202,
+      "toUsername": "phone",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 48454.99117212
+    },
+    {
+      "toUserId": 21182,
+      "toUsername": "21182",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 72450.99117212
+    },
+    {
+      "toUserId": 14479,
+      "toUsername": "14479",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 2000
+    },
+    {
+      "toUserId": 15915,
+      "toUsername": "crackhead",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 1.22694
+    }
+  ],
+  "suspectedOwners": [
+    {
+      "userId": 204,
+      "username": "guidf",
+      "confidence": 80
+    },
+    {
+      "userId": 10655,
+      "username": "eulmdev",
+      "confidence": 25
+    }
+  ]
+}

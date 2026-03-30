@@ -1,0 +1,84 @@
+{
+  "userId": 18105,
+  "username": "now",
+  "name": "Clash royale NOW",
+  "avatarUrl": "avatars/18105.webp",
+  "overallScore": 55,
+  "overallLabel": "Possible",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-30T01:25:36.397Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-10-25T22:20:30.707Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 4317677.11194332,
+    "totalSellVolume": 3792562.87374435,
+    "totalPortfolioValue": 2305320.0021801186,
+    "holdingsValue": 2305320.0021801186,
+    "holdingsCount": 28,
+    "coinsCreated": 7,
+    "totalTransactions": 773,
+    "transactions24h": 19,
+    "buyVolume24h": 1024957.77017379,
+    "sellVolume24h": 2024413.77017379
+  },
+  "arcade": {
+    "arcadeWins": 1592039.84027579,
+    "arcadeLosses": 1196761.30913694,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "TPCL",
+    "TIOLALO",
+    "NOINVEST",
+    "NONOINVEST",
+    "NOIINVEST",
+    "ZN",
+    "MKRSH"
+  ],
+  "indicators": [
+    {
+      "type": "cash_funnel",
+      "score": 55,
+      "candidateMainUserId": 18164,
+      "details": {
+        "recipientUsername": "scout",
+        "totalTransferred": 1013956,
+        "transferShare": 0.9769,
+        "balanceShare": 0.9769,
+        "estimatedPreTransferBalance": 1037956,
+        "eventCount": 1,
+        "accountAgeDays": 155.3,
+        "isNewAccount": false,
+        "isCreatedThisMonth": false
+      },
+      "evidenceTransactionIds": [
+        1984782
+      ],
+      "detectedAt": "2026-03-30T13:06:34.568Z",
+      "summary": "Transferred 98% of total wealth ($1,013,956) to one account across 1 transfer(s). Account age: 155.3 days."
+    }
+  ],
+  "relationships": [
+    {
+      "toUserId": 18164,
+      "toUsername": "scout",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 2049915.5403475799
+    }
+  ],
+  "suspectedOwners": [
+    {
+      "userId": 18164,
+      "username": "scout",
+      "confidence": 55
+    }
+  ]
+}

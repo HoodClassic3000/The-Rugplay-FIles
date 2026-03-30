@@ -1,0 +1,42 @@
+{
+  "userId": 22125,
+  "username": "22125",
+  "name": "Xakari Coleman",
+  "avatarUrl": "avatars/116605649182426079854.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-30T06:35:43.624Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-03-24T20:06:11.556Z",
+  "stats": {
+    "baseCurrencyBalance": 41303.12942498,
+    "totalBuyVolume": 103183.61338384,
+    "totalSellVolume": 98347.84521439,
+    "totalPortfolioValue": 41311.20986307357,
+    "holdingsValue": 8.080438093576173,
+    "holdingsCount": 8,
+    "coinsCreated": 1,
+    "totalTransactions": 124,
+    "transactions24h": 0,
+    "buyVolume24h": 0,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 0,
+    "arcadeLosses": 0,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "RTA"
+  ],
+  "indicators": [],
+  "relationships": [],
+  "suspectedOwners": []
+}

@@ -1,0 +1,47 @@
+{
+  "userId": 7492,
+  "username": "top",
+  "name": "top",
+  "avatarUrl": "avatars/114722046540487940010.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T16:07:18.276Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-06-24T12:44:27.886Z",
+  "stats": {
+    "baseCurrencyBalance": 124999.999982,
+    "totalBuyVolume": 1532353.08514984,
+    "totalSellVolume": 24570.61910228,
+    "totalPortfolioValue": 2098016179.9142396,
+    "holdingsValue": 2097891179.9142575,
+    "holdingsCount": 10,
+    "coinsCreated": 6,
+    "totalTransactions": 136,
+    "transactions24h": 2,
+    "buyVolume24h": 5500,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 2460.6,
+    "arcadeLosses": 2330,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "RKK",
+    "NBTN",
+    "NOOO",
+    "NIBU",
+    "RIKKA",
+    "NOBU"
+  ],
+  "indicators": [],
+  "relationships": [],
+  "suspectedOwners": []
+}

@@ -1,0 +1,56 @@
+{
+  "userId": 19726,
+  "username": "xbank",
+  "name": "VerusDev",
+  "avatarUrl": "avatars/19726.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T01:32:34.453Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-12-31T03:04:15.941Z",
+  "stats": {
+    "baseCurrencyBalance": 14989.04682074,
+    "totalBuyVolume": 35775482.47368528,
+    "totalSellVolume": 32111644.48382299,
+    "totalPortfolioValue": 296281325.0414631,
+    "holdingsValue": 296266335.9946423,
+    "holdingsCount": 1,
+    "coinsCreated": 7,
+    "totalTransactions": 1730,
+    "transactions24h": 4,
+    "buyVolume24h": 0,
+    "sellVolume24h": 30388.12800313
+  },
+  "arcade": {
+    "arcadeWins": 4636497.7746,
+    "arcadeLosses": 5088798.05,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "XVR",
+    "RIAL0EUROS",
+    "GBT",
+    "WXBT",
+    "XBT",
+    "XBAC",
+    "DIDDYCOIN"
+  ],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 15082,
+      "toUsername": "15082",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 32944.00970182
+    }
+  ],
+  "suspectedOwners": []
+}

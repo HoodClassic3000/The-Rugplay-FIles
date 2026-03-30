@@ -1,0 +1,111 @@
+{
+  "userId": 4704,
+  "username": "okbrowhat39595",
+  "name": "okbrowhat39595",
+  "avatarUrl": "avatars/101784213861710253854.webp",
+  "overallScore": 70,
+  "overallLabel": "Likely",
+  "clusterId": "cluster_4237",
+  "isBanned": false,
+  "firstSeen": "2026-03-28T15:27:24.894Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-06-19T01:24:10.592Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 19.1,
+    "totalSellVolume": 72.01917822,
+    "totalPortfolioValue": 149.66811302,
+    "holdingsValue": 149.66811302,
+    "holdingsCount": 3,
+    "coinsCreated": 0,
+    "totalTransactions": 303,
+    "transactions24h": 1,
+    "buyVolume24h": 0,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 0,
+    "arcadeLosses": 0,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [],
+  "indicators": [
+    {
+      "type": "cash_funnel",
+      "score": 60,
+      "candidateMainUserId": 4237,
+      "details": {
+        "recipientUsername": "lncvrt",
+        "totalTransferred": 27252.9064542,
+        "transferShare": 1,
+        "balanceShare": 1,
+        "estimatedPreTransferBalance": 27253,
+        "eventCount": 3,
+        "accountAgeDays": 284.2,
+        "isNewAccount": false,
+        "isCreatedThisMonth": false
+      },
+      "evidenceTransactionIds": [
+        1964594,
+        610359,
+        1981815
+      ],
+      "detectedAt": "2026-03-30T13:06:34.468Z",
+      "summary": "Transferred 100% of total wealth ($27,252.906) to one account across 3 transfer(s). Account age: 284.2 days."
+    },
+    {
+      "type": "draining_transfers",
+      "score": 10,
+      "candidateMainUserId": 4237,
+      "details": {
+        "recipientUsername": "lncvrt",
+        "drainingEventCount": 2,
+        "totalDrained": 23700,
+        "averageDrainRatio": 0.9684,
+        "windowDays": 30,
+        "events": [
+          {
+            "amount": 22200,
+            "estimatedBalanceBefore": 23700,
+            "drainRatio": 0.9367,
+            "timestamp": "2026-03-28T15:27:24.894Z"
+          },
+          {
+            "amount": 1500,
+            "estimatedBalanceBefore": 1500,
+            "drainRatio": 1,
+            "timestamp": "2026-03-29T20:42:19.511Z"
+          }
+        ]
+      },
+      "evidenceTransactionIds": [
+        1964594,
+        610359,
+        1981815
+      ],
+      "detectedAt": "2026-03-30T13:06:34.468Z",
+      "summary": "Sent 2 near-total balance transfers to the same recipient within 30 days."
+    }
+  ],
+  "relationships": [
+    {
+      "toUserId": 4237,
+      "toUsername": "lncvrt",
+      "type": "transfer_funnel",
+      "weight": 0,
+      "totalValueMoved": 22200
+    }
+  ],
+  "suspectedOwners": [
+    {
+      "userId": 4237,
+      "username": "lncvrt",
+      "confidence": 70
+    }
+  ]
+}

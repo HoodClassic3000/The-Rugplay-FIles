@@ -1,0 +1,63 @@
+{
+  "userId": 4237,
+  "username": "lncvrt",
+  "name": "Lncvrt",
+  "avatarUrl": "avatars/4237.png",
+  "overallScore": 100,
+  "overallLabel": "Very Likely",
+  "clusterId": "cluster_4237",
+  "isBanned": false,
+  "firstSeen": "2026-03-28T15:26:42.476Z",
+  "isMastermind": true,
+  "mastermindScore": 100,
+  "createdAt": "2025-06-10T01:17:31.745Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 421183.1885578,
+    "totalSellVolume": 341423.85175247,
+    "totalPortfolioValue": 0,
+    "holdingsValue": 0,
+    "holdingsCount": 0,
+    "coinsCreated": 2,
+    "totalTransactions": 4062,
+    "transactions24h": 2,
+    "buyVolume24h": 0,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 12074.93,
+    "arcadeLosses": 219475,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "GDCOIN",
+    "CLAP"
+  ],
+  "indicators": [
+    {
+      "type": "mastermind_activity",
+      "score": 100,
+      "candidateMainUserId": 4237,
+      "details": {
+        "totalAlts": 7,
+        "totalTransferred": 151499.31839131998,
+        "totalRugProfit": 0,
+        "totalArcadeLaundered": 0
+      },
+      "detectedAt": "2026-03-30T13:06:34.573Z",
+      "summary": "Beneficiary of syndicate network laundering. Cluster contains 7 suspected alts transferring $151,499.318 directly and profiting $0 from coordinated coin buys."
+    }
+  ],
+  "relationships": [],
+  "suspectedOwners": [
+    {
+      "userId": 4237,
+      "username": "lncvrt",
+      "confidence": 100
+    }
+  ]
+}

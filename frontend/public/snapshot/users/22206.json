@@ -1,0 +1,85 @@
+{
+  "userId": 22206,
+  "username": "brave_seal4684",
+  "name": "jiju",
+  "avatarUrl": "avatars/115526948078162475789.webp",
+  "overallScore": 30,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T14:04:17.408Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-03-28T14:03:45.445Z",
+  "stats": {
+    "baseCurrencyBalance": 1121.34707608,
+    "totalBuyVolume": 16800,
+    "totalSellVolume": 221.34707608,
+    "totalPortfolioValue": 1121.34707608,
+    "holdingsValue": 0,
+    "holdingsCount": 0,
+    "coinsCreated": 1,
+    "totalTransactions": 4,
+    "transactions24h": 0,
+    "buyVolume24h": 0,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 0,
+    "arcadeLosses": 0,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "JFJFJFJ"
+  ],
+  "indicators": [
+    {
+      "type": "rug_laundering",
+      "score": 30,
+      "candidateMainUserId": 204,
+      "details": {
+        "sequenceCount": 1,
+        "totalLost": 16578.65292392,
+        "totalBought": 16700,
+        "totalRecovered": 121.34707608,
+        "maxDominantHolderPercentage": 0.8134,
+        "accountAgeDays": 1.7,
+        "sequences": [
+          {
+            "coinSymbol": "GC67",
+            "buyAmount": 16700,
+            "sellReturn": 121.34707608,
+            "buyTimestamp": "2026-03-28T15:18:42.104Z",
+            "sellTimestamp": "2026-03-28T15:19:36.251Z"
+          }
+        ]
+      },
+      "evidenceTransactionIds": [
+        1964559,
+        1964549
+      ],
+      "detectedAt": "2026-03-30T13:06:34.454Z",
+      "summary": "Bought into a coin dominated by a single holder and was rugged across 1 sequence(s), losing a total of 16579 in-game currency."
+    }
+  ],
+  "relationships": [
+    {
+      "toUserId": 21182,
+      "toUsername": "21182",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 100
+    }
+  ],
+  "suspectedOwners": [
+    {
+      "userId": 204,
+      "username": "guidf",
+      "confidence": 30
+    }
+  ]
+}

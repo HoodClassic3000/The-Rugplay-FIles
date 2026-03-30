@@ -1,0 +1,50 @@
+{
+  "userId": 22216,
+  "username": "calm_wolf8411",
+  "name": "yea 2as",
+  "avatarUrl": "avatars/107896273210972568448.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T21:05:35.233Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-03-28T21:05:20.186Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 16690,
+    "totalSellVolume": 0,
+    "totalPortfolioValue": 23897.632486330047,
+    "holdingsValue": 23897.632486330047,
+    "holdingsCount": 1,
+    "coinsCreated": 1,
+    "totalTransactions": 3,
+    "transactions24h": 0,
+    "buyVolume24h": 0,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 0,
+    "arcadeLosses": 10,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "AFSAF"
+  ],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 4071,
+      "toUsername": "2late",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 33280
+    }
+  ],
+  "suspectedOwners": []
+}

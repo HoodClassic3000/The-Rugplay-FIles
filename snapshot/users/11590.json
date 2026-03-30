@@ -1,0 +1,85 @@
+{
+  "userId": 11590,
+  "username": "richard_the_gambler",
+  "name": "RTG",
+  "avatarUrl": "avatars/102010548103379270172.webp",
+  "overallScore": 55,
+  "overallLabel": "Possible",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T14:09:34.097Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-06-28T12:27:21.008Z",
+  "stats": {
+    "baseCurrencyBalance": 2100,
+    "totalBuyVolume": 1706528.088275,
+    "totalSellVolume": 1209517.46415853,
+    "totalPortfolioValue": 1093450.2978172463,
+    "holdingsValue": 1091350.2978172463,
+    "holdingsCount": 3,
+    "coinsCreated": 1,
+    "totalTransactions": 172,
+    "transactions24h": 5,
+    "buyVolume24h": 201580.0454,
+    "sellVolume24h": 53088
+  },
+  "arcade": {
+    "arcadeWins": 1017610.5946,
+    "arcadeLosses": 831862,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "MRM"
+  ],
+  "indicators": [
+    {
+      "type": "cash_funnel",
+      "score": 55,
+      "candidateMainUserId": 11627,
+      "details": {
+        "recipientUsername": "vactec_gov",
+        "totalTransferred": 100008,
+        "transferShare": 1,
+        "balanceShare": 0.9794,
+        "estimatedPreTransferBalance": 102108,
+        "eventCount": 1,
+        "accountAgeDays": 274.8,
+        "isNewAccount": false,
+        "isCreatedThisMonth": false
+      },
+      "evidenceTransactionIds": [
+        1964211
+      ],
+      "detectedAt": "2026-03-30T13:06:34.454Z",
+      "summary": "Transferred 98% of total wealth ($100,008) to one account across 1 transfer(s). Account age: 274.8 days."
+    }
+  ],
+  "relationships": [
+    {
+      "toUserId": 11667,
+      "toUsername": "calm_wolf6057",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 601842.24
+    },
+    {
+      "toUserId": 8105,
+      "toUsername": "michaeldell",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 456279.03854083
+    }
+  ],
+  "suspectedOwners": [
+    {
+      "userId": 11627,
+      "username": "vactec_gov",
+      "confidence": 55
+    }
+  ]
+}

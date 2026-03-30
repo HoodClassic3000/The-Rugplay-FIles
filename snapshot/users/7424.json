@@ -1,0 +1,50 @@
+{
+  "userId": 7424,
+  "username": "hauber",
+  "name": "Hauber",
+  "avatarUrl": "avatars/110515588549390773697.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T16:00:58.582Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-06-24T12:14:14.483Z",
+  "stats": {
+    "baseCurrencyBalance": 1554.9030497,
+    "totalBuyVolume": 194154.81493131,
+    "totalSellVolume": 89328.51798101,
+    "totalPortfolioValue": 23215.74252211804,
+    "holdingsValue": 21660.83947241804,
+    "holdingsCount": 3,
+    "coinsCreated": 1,
+    "totalTransactions": 105,
+    "transactions24h": 1,
+    "buyVolume24h": 2000,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 248.2,
+    "arcadeLosses": 20,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "PANQUAKE"
+  ],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 533,
+      "toUsername": "533",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 4000
+    }
+  ],
+  "suspectedOwners": []
+}

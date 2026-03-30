@@ -1,0 +1,129 @@
+{
+  "userId": 22215,
+  "username": "eppstein",
+  "name": "eppstein",
+  "avatarUrl": "avatars/101541772090487803076.webp",
+  "overallScore": 55,
+  "overallLabel": "Possible",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T20:59:29.547Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-03-28T20:58:14.745Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 9875.01833326,
+    "totalSellVolume": 0.01833326,
+    "totalPortfolioValue": 16471.12305894562,
+    "holdingsValue": 16471.12305894562,
+    "holdingsCount": 2,
+    "coinsCreated": 0,
+    "totalTransactions": 5,
+    "transactions24h": 0,
+    "buyVolume24h": 0,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 0,
+    "arcadeLosses": 8425,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [],
+  "indicators": [
+    {
+      "type": "rug_laundering",
+      "score": 35,
+      "candidateMainUserId": 4071,
+      "details": {
+        "sequenceCount": 1,
+        "totalLost": 6749.98166674,
+        "totalBought": 6750,
+        "totalRecovered": 0.01833326,
+        "maxDominantHolderPercentage": 0.985,
+        "accountAgeDays": 1.4,
+        "sequences": [
+          {
+            "coinSymbol": "TUNGSTEN",
+            "buyAmount": 6750,
+            "sellReturn": 0.01833326,
+            "buyTimestamp": "2026-03-28T21:00:00.979Z",
+            "sellTimestamp": "2026-03-28T21:01:47.340Z"
+          }
+        ]
+      },
+      "evidenceTransactionIds": [
+        1968323,
+        1968363,
+        1968334,
+        1977165
+      ],
+      "detectedAt": "2026-03-30T13:06:34.496Z",
+      "summary": "Bought into a coin dominated by a single holder and was rugged across 1 sequence(s), losing a total of 6750 in-game currency."
+    },
+    {
+      "type": "single_holder_buyer",
+      "score": 20,
+      "candidateMainUserId": 4071,
+      "details": {
+        "rugSequenceCount": 2,
+        "totalLost": 9049.96333348,
+        "totalBought": 9050,
+        "uniqueCoinsInvolved": [
+          "TUNGSTEN"
+        ],
+        "sequences": [
+          {
+            "coinSymbol": "TUNGSTEN",
+            "buyAmount": 2300,
+            "sellReturn": 0.01833326,
+            "buyTimestamp": "2026-03-28T20:59:29.427Z",
+            "sellTimestamp": "2026-03-28T21:01:47.340Z"
+          },
+          {
+            "coinSymbol": "TUNGSTEN",
+            "buyAmount": 6750,
+            "sellReturn": 0.01833326,
+            "buyTimestamp": "2026-03-28T21:00:00.979Z",
+            "sellTimestamp": "2026-03-28T21:01:47.340Z"
+          }
+        ]
+      },
+      "evidenceTransactionIds": [
+        1968323,
+        1968363,
+        1968334,
+        1977165
+      ],
+      "detectedAt": "2026-03-30T13:06:34.496Z",
+      "summary": "Rugged 2 time(s) continuously buying coins pumped by a top holder, losing a total of $9,049.963."
+    }
+  ],
+  "relationships": [
+    {
+      "toUserId": 533,
+      "toUsername": "533",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 150
+    },
+    {
+      "toUserId": 4071,
+      "toUsername": "2late",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 18775.01833326
+    }
+  ],
+  "suspectedOwners": [
+    {
+      "userId": 4071,
+      "username": "2late",
+      "confidence": 55
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "userId": 21552,
+  "username": "lilly_crab",
+  "name": "lilly.crab",
+  "avatarUrl": "avatars/21552.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T23:31:46.989Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-03-06T12:11:25.557Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 278429.60117652,
+    "totalSellVolume": 162372.22258574,
+    "totalPortfolioValue": 269594.5668069281,
+    "holdingsValue": 269594.5668069281,
+    "holdingsCount": 3,
+    "coinsCreated": 0,
+    "totalTransactions": 86,
+    "transactions24h": 1,
+    "buyVolume24h": 7750,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 150450,
+    "arcadeLosses": 121887,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 15463,
+      "toUsername": "15463",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 80177.03424442
+    }
+  ],
+  "suspectedOwners": []
+}

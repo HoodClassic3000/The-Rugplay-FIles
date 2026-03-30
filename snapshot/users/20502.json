@@ -1,0 +1,50 @@
+{
+  "userId": 20502,
+  "username": "kind_fox4781",
+  "name": "Sup Lil bitch",
+  "avatarUrl": "avatars/117568174748509459133.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T15:42:21.700Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-01-27T19:36:51.920Z",
+  "stats": {
+    "baseCurrencyBalance": 0.5,
+    "totalBuyVolume": 40737.07791053,
+    "totalSellVolume": 32327.11791053,
+    "totalPortfolioValue": 50025.1953780538,
+    "holdingsValue": 50024.6953780538,
+    "holdingsCount": 3,
+    "coinsCreated": 1,
+    "totalTransactions": 16,
+    "transactions24h": 1,
+    "buyVolume24h": 3526.07791053,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 10,
+    "arcadeLosses": 64626,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "SEV"
+  ],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 8105,
+      "toUsername": "michaeldell",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 7052.15582106
+    }
+  ],
+  "suspectedOwners": []
+}

@@ -1,0 +1,51 @@
+{
+  "userId": 22077,
+  "username": "clever_wolf4157",
+  "name": "Marley Zimmermann",
+  "avatarUrl": "avatars/102418226451311131858.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-30T02:05:30.417Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-03-23T07:55:56.539Z",
+  "stats": {
+    "baseCurrencyBalance": 66805.87010121,
+    "totalBuyVolume": 629106.63597329,
+    "totalSellVolume": 628922.7930745,
+    "totalPortfolioValue": 66805.87011793829,
+    "holdingsValue": 0.0000167282848458,
+    "holdingsCount": 1,
+    "coinsCreated": 2,
+    "totalTransactions": 59,
+    "transactions24h": 8,
+    "buyVolume24h": 250417.6177367,
+    "sellVolume24h": 250417.61402133
+  },
+  "arcade": {
+    "arcadeWins": 18977.823,
+    "arcadeLosses": 34042,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "0YZNI99ERB",
+    "NAHIDWIN"
+  ],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 533,
+      "toUsername": "533",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 133611.74763316
+    }
+  ],
+  "suspectedOwners": []
+}

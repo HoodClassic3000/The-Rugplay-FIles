@@ -1,0 +1,66 @@
+{
+  "userId": 20357,
+  "username": "hoodclassics",
+  "name": "Hood Pappi",
+  "avatarUrl": "avatars/20357.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T12:52:09.450Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-01-26T00:08:22.301Z",
+  "stats": {
+    "baseCurrencyBalance": 14025142.64449951,
+    "totalBuyVolume": 16020499.02663416,
+    "totalSellVolume": 23733185.13823203,
+    "totalPortfolioValue": 45036223.73250395,
+    "holdingsValue": 31011081.088004444,
+    "holdingsCount": 83,
+    "coinsCreated": 10,
+    "totalTransactions": 4657,
+    "transactions24h": 5,
+    "buyVolume24h": 8099,
+    "sellVolume24h": 2000
+  },
+  "arcade": {
+    "arcadeWins": 2832463.9648,
+    "arcadeLosses": 4801041.66,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "DDS221",
+    "TESTKRAZ",
+    "4LOAN",
+    "FINISHED",
+    "4ACHI17",
+    "4ACHI16",
+    "4ACHI15",
+    "4ACHI14",
+    "4ACHI13",
+    "4ACHI12"
+  ],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 22201,
+      "toUsername": "clever_whale5688",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 2000
+    },
+    {
+      "toUserId": 22202,
+      "toUsername": "phone",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 1656
+    }
+  ],
+  "suspectedOwners": []
+}

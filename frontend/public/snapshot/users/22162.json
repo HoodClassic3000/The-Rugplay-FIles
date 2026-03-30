@@ -1,0 +1,78 @@
+{
+  "userId": 22162,
+  "username": "kind_fox1283",
+  "name": "rugplayer",
+  "avatarUrl": "avatars/22162.webp",
+  "overallScore": 80,
+  "overallLabel": "Very Likely",
+  "clusterId": "cluster_15915",
+  "isBanned": false,
+  "firstSeen": "2026-03-28T14:48:51.405Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-03-26T23:07:12.425Z",
+  "stats": {
+    "baseCurrencyBalance": 0.67,
+    "totalBuyVolume": 7301.99998,
+    "totalSellVolume": 7301.99998,
+    "totalPortfolioValue": 0.67,
+    "holdingsValue": 0,
+    "holdingsCount": 0,
+    "coinsCreated": 0,
+    "totalTransactions": 14,
+    "transactions24h": 0,
+    "buyVolume24h": 0,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 192065.7422,
+    "arcadeLosses": 257232,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [],
+  "indicators": [
+    {
+      "type": "cash_funnel",
+      "score": 80,
+      "candidateMainUserId": 15915,
+      "details": {
+        "recipientUsername": "crackhead",
+        "totalTransferred": 12917.7422,
+        "transferShare": 1,
+        "balanceShare": 0.9999,
+        "estimatedPreTransferBalance": 12918,
+        "eventCount": 3,
+        "accountAgeDays": 3.3,
+        "isNewAccount": true,
+        "isCreatedThisMonth": true
+      },
+      "evidenceTransactionIds": [
+        1964470,
+        1964459,
+        1964498
+      ],
+      "detectedAt": "2026-03-30T13:06:34.462Z",
+      "summary": "Transferred 100% of total wealth ($12,917.742) to one account across 3 transfer(s). Account age: 3.3 days."
+    }
+  ],
+  "relationships": [
+    {
+      "toUserId": 15915,
+      "toUsername": "crackhead",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 1.99998
+    }
+  ],
+  "suspectedOwners": [
+    {
+      "userId": 15915,
+      "username": "crackhead",
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "userId": 21877,
+  "username": "darkwebpro",
+  "name": "DarkWeb",
+  "avatarUrl": "avatars/21877.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T21:06:03.541Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-03-16T19:33:41.706Z",
+  "stats": {
+    "baseCurrencyBalance": 0.11000004,
+    "totalBuyVolume": 373887193.21066767,
+    "totalSellVolume": 372593759.72918403,
+    "totalPortfolioValue": 40028.78233124543,
+    "holdingsValue": 40028.67233120543,
+    "holdingsCount": 13,
+    "coinsCreated": 10,
+    "totalTransactions": 1172,
+    "transactions24h": 0,
+    "buyVolume24h": 0,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 835264151.305336,
+    "arcadeLosses": 828047628.9566338,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "TESSSSS",
+    "HCGTM",
+    "HOODCGTM",
+    "DADADA",
+    "DDDDA",
+    "ADADADAD",
+    "222",
+    "111111",
+    "PDNTCITC",
+    "TESSSST"
+  ],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 533,
+      "toUsername": "533",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 4500.23725808
+    }
+  ],
+  "suspectedOwners": []
+}

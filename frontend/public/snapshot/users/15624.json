@@ -1,0 +1,42 @@
+{
+  "userId": 15624,
+  "username": "phily",
+  "name": "Philip Elbert",
+  "avatarUrl": "avatars/108041875413705103185.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T14:00:15.628Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-07-21T22:53:14.617Z",
+  "stats": {
+    "baseCurrencyBalance": 189375,
+    "totalBuyVolume": 1749897.49267149,
+    "totalSellVolume": 1244450.21175591,
+    "totalPortfolioValue": 6688417778.981701,
+    "holdingsValue": 6688228403.981701,
+    "holdingsCount": 3,
+    "coinsCreated": 1,
+    "totalTransactions": 350,
+    "transactions24h": 2,
+    "buyVolume24h": 24000,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 115030,
+    "arcadeLosses": 20030,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "PMPA"
+  ],
+  "indicators": [],
+  "relationships": [],
+  "suspectedOwners": []
+}

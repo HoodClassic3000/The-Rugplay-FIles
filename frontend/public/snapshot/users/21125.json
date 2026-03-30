@@ -1,0 +1,40 @@
+{
+  "userId": 21125,
+  "username": "brave_tiger5555",
+  "name": "Textme",
+  "avatarUrl": "avatars/116085911077422869080.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T18:10:35.618Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-02-18T09:16:02.865Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 5000,
+    "totalSellVolume": 5585.2710939,
+    "totalPortfolioValue": 0,
+    "holdingsValue": 0,
+    "holdingsCount": 0,
+    "coinsCreated": 0,
+    "totalTransactions": 6,
+    "transactions24h": 2,
+    "buyVolume24h": 0,
+    "sellVolume24h": 3085.2710939
+  },
+  "arcade": {
+    "arcadeWins": 0,
+    "arcadeLosses": 0,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [],
+  "indicators": [],
+  "relationships": [],
+  "suspectedOwners": []
+}

@@ -1,0 +1,51 @@
+{
+  "userId": 9903,
+  "username": "inyourface3445",
+  "name": "Inyourface3445",
+  "avatarUrl": "avatars/102363924626390028620.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T23:59:49.749Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-06-25T22:15:34.901Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 184480019.81177634,
+    "totalSellVolume": 156153617.46534374,
+    "totalPortfolioValue": 126525272.4340872,
+    "holdingsValue": 126525272.4340872,
+    "holdingsCount": 326,
+    "coinsCreated": 10,
+    "totalTransactions": 12939,
+    "transactions24h": 1,
+    "buyVolume24h": 7200,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 5517798.92279652,
+    "arcadeLosses": 5501165.78220103,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "ZY",
+    "ZX",
+    "ZW",
+    "ZV",
+    "ZU",
+    "ZT",
+    "ZS",
+    "ZR",
+    "ZQ",
+    "ZO"
+  ],
+  "indicators": [],
+  "relationships": [],
+  "suspectedOwners": []
+}

@@ -1,0 +1,54 @@
+{
+  "userId": 11627,
+  "username": "vactec_gov",
+  "name": "Vac Tec",
+  "avatarUrl": "avatars/105181573929982876574.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T14:18:38.112Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-06-28T14:30:13.137Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 955243.64376443,
+    "totalSellVolume": 916941.22692665,
+    "totalPortfolioValue": 21733007.57663966,
+    "holdingsValue": 21733007.57663966,
+    "holdingsCount": 3,
+    "coinsCreated": 5,
+    "totalTransactions": 200,
+    "transactions24h": 2,
+    "buyVolume24h": 7367.6058347,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 299068.425,
+    "arcadeLosses": 749976,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "VT4",
+    "VT3",
+    "VT2",
+    "SM",
+    "VTO"
+  ],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 8105,
+      "toUsername": "michaeldell",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 5467.2716694
+    }
+  ],
+  "suspectedOwners": []
+}

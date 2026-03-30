@@ -1,0 +1,158 @@
+{
+  "userId": 18164,
+  "username": "scout",
+  "name": "Scout",
+  "avatarUrl": "avatars/18164.webp",
+  "overallScore": 45,
+  "overallLabel": "Possible",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-30T01:19:44.001Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-10-27T14:17:26.625Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 2796608.24765576,
+    "totalSellVolume": 1242110.49463784,
+    "totalPortfolioValue": 5082569413.262098,
+    "holdingsValue": 5082569413.262098,
+    "holdingsCount": 10,
+    "coinsCreated": 4,
+    "totalTransactions": 268,
+    "transactions24h": 17,
+    "buyVolume24h": 2256712,
+    "sellVolume24h": 1038956
+  },
+  "arcade": {
+    "arcadeWins": 120383.2281928,
+    "arcadeLosses": 150382.61912064,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "LALO",
+    "SCOUT",
+    "PYRO",
+    "MADURO"
+  ],
+  "indicators": [
+    {
+      "type": "single_holder_buyer",
+      "score": 25,
+      "candidateMainUserId": 21339,
+      "details": {
+        "rugSequenceCount": 3,
+        "totalLost": 17391.08330271,
+        "totalBought": 17400.22068111,
+        "uniqueCoinsInvolved": [
+          "ZN"
+        ],
+        "sequences": [
+          {
+            "coinSymbol": "ZN",
+            "buyAmount": 8400.22068111,
+            "sellReturn": 3.0457928,
+            "buyTimestamp": "2026-03-18T12:37:20.948Z",
+            "sellTimestamp": "2026-03-20T23:16:18.290Z"
+          },
+          {
+            "coinSymbol": "ZN",
+            "buyAmount": 4400,
+            "sellReturn": 3.0457928,
+            "buyTimestamp": "2026-03-19T09:48:44.948Z",
+            "sellTimestamp": "2026-03-20T23:16:18.290Z"
+          },
+          {
+            "coinSymbol": "ZN",
+            "buyAmount": 4600,
+            "sellReturn": 3.0457928,
+            "buyTimestamp": "2026-03-20T12:35:16.413Z",
+            "sellTimestamp": "2026-03-20T23:16:18.290Z"
+          }
+        ]
+      },
+      "evidenceTransactionIds": [
+        1984739,
+        1959100,
+        1941049,
+        1921156,
+        1912007,
+        1910538,
+        1906763,
+        1904557
+      ],
+      "detectedAt": "2026-03-30T13:06:34.568Z",
+      "summary": "Rugged 3 time(s) continuously buying coins pumped by a top holder, losing a total of $17,391.083."
+    },
+    {
+      "type": "single_holder_buyer",
+      "score": 20,
+      "candidateMainUserId": 5732,
+      "details": {
+        "rugSequenceCount": 2,
+        "totalLost": 971528.26291371,
+        "totalBought": 1038956,
+        "uniqueCoinsInvolved": [
+          "PYRO"
+        ],
+        "sequences": [
+          {
+            "coinSymbol": "PYRO",
+            "buyAmount": 25000,
+            "sellReturn": 2068.20901471,
+            "buyTimestamp": "2026-03-30T01:29:19.490Z",
+            "sellTimestamp": "2026-03-30T01:30:06.246Z"
+          },
+          {
+            "coinSymbol": "PYRO",
+            "buyAmount": 1013956,
+            "sellReturn": 65359.52807158,
+            "buyTimestamp": "2026-03-30T01:29:24.889Z",
+            "sellTimestamp": "2026-03-30T01:29:49.845Z"
+          }
+        ]
+      },
+      "evidenceTransactionIds": [
+        1984790,
+        1984789,
+        1984787,
+        1984785,
+        1984802,
+        1984801,
+        1984799,
+        1984798,
+        1984797,
+        1984794,
+        1984792,
+        1984791
+      ],
+      "detectedAt": "2026-03-30T13:06:34.568Z",
+      "summary": "Rugged 2 time(s) continuously buying coins pumped by a top holder, losing a total of $971,528.263."
+    }
+  ],
+  "relationships": [
+    {
+      "toUserId": 18105,
+      "toUsername": "now",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 4800
+    }
+  ],
+  "suspectedOwners": [
+    {
+      "userId": 21339,
+      "username": "21339",
+      "confidence": 25
+    },
+    {
+      "userId": 5732,
+      "username": "dingdong",
+      "confidence": 20
+    }
+  ]
+}

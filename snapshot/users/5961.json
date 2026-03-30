@@ -1,0 +1,94 @@
+{
+  "userId": 5961,
+  "username": "iswear",
+  "name": "Iswear",
+  "avatarUrl": "avatars/5961.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T17:40:48.929Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-06-23T20:47:01.580Z",
+  "stats": {
+    "baseCurrencyBalance": 52072.29824248,
+    "totalBuyVolume": 34768201.58640791,
+    "totalSellVolume": 34295849.84412483,
+    "totalPortfolioValue": 26712671350.282288,
+    "holdingsValue": 26712619277.984047,
+    "holdingsCount": 60,
+    "coinsCreated": 10,
+    "totalTransactions": 4714,
+    "transactions24h": 6,
+    "buyVolume24h": 7009,
+    "sellVolume24h": 10.00587468
+  },
+  "arcade": {
+    "arcadeWins": 1765296.7863,
+    "arcadeLosses": 2290389.81,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "SCRIPTTEST",
+    "EXER",
+    "BJMFUND",
+    "BJM",
+    "CORNBREAD",
+    "BPCASE",
+    "WDWBI",
+    "IRB",
+    "BSPC",
+    "RPCASE"
+  ],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 20610,
+      "toUsername": "dougdougtheman",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 4000
+    },
+    {
+      "toUserId": 533,
+      "toUsername": "533",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 10
+    },
+    {
+      "toUserId": 20135,
+      "toUsername": "konsenarbol",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 2000
+    },
+    {
+      "toUserId": 14229,
+      "toUsername": "le1tny",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 2000
+    },
+    {
+      "toUserId": 16744,
+      "toUsername": "levleinonen",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 10000
+    },
+    {
+      "toUserId": 17716,
+      "toUsername": "xprism",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 1998
+    }
+  ],
+  "suspectedOwners": []
+}

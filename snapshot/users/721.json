@@ -1,0 +1,58 @@
+{
+  "userId": 721,
+  "username": "czekoloczek",
+  "name": "Czekoloczek",
+  "avatarUrl": "avatars/113198538796731362740.png",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T20:13:24.408Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-05-31T13:42:58.556Z",
+  "stats": {
+    "baseCurrencyBalance": 42988.65036661,
+    "totalBuyVolume": 23251,
+    "totalSellVolume": 1100.00000486,
+    "totalPortfolioValue": 145213.31504525518,
+    "holdingsValue": 102224.66467864516,
+    "holdingsCount": 22,
+    "coinsCreated": 2,
+    "totalTransactions": 39,
+    "transactions24h": 0,
+    "buyVolume24h": 0,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 51482.9,
+    "arcadeLosses": 90118,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "BLU",
+    "STRESS"
+  ],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 12873,
+      "toUsername": "stonks",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 2000
+    },
+    {
+      "toUserId": 13455,
+      "toUsername": "13455",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 10
+    }
+  ],
+  "suspectedOwners": []
+}

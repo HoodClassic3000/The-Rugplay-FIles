@@ -1,0 +1,71 @@
+{
+  "userId": 17875,
+  "username": "17875",
+  "name": "Dustin Henderson",
+  "avatarUrl": "avatars/17875.webp",
+  "overallScore": 55,
+  "overallLabel": "Possible",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-30T06:35:43.624Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-10-18T21:36:32.426Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 2372997.92423502,
+    "totalSellVolume": 1596344.74524854,
+    "totalPortfolioValue": 1155985762.0710814,
+    "holdingsValue": 1155985762.0710814,
+    "holdingsCount": 9,
+    "coinsCreated": 2,
+    "totalTransactions": 153,
+    "transactions24h": 0,
+    "buyVolume24h": 0,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 0,
+    "arcadeLosses": 0,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "XICE",
+    "NCM"
+  ],
+  "indicators": [
+    {
+      "type": "cash_funnel",
+      "score": 55,
+      "candidateMainUserId": 12163,
+      "details": {
+        "recipientUsername": "strangerthings",
+        "totalTransferred": 134219.59652638,
+        "transferShare": 1,
+        "balanceShare": 1,
+        "estimatedPreTransferBalance": 134220,
+        "eventCount": 1,
+        "accountAgeDays": 162.4,
+        "isNewAccount": false,
+        "isCreatedThisMonth": false
+      },
+      "evidenceTransactionIds": [
+        1607897
+      ],
+      "detectedAt": "2026-03-30T13:06:34.548Z",
+      "summary": "Transferred 100% of total wealth ($134,219.597) to one account across 1 transfer(s). Account age: 162.4 days."
+    }
+  ],
+  "relationships": [],
+  "suspectedOwners": [
+    {
+      "userId": 12163,
+      "username": "12163",
+      "confidence": 55
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "userId": 8105,
+  "username": "michaeldell",
+  "name": "Michael Dell",
+  "avatarUrl": "avatars/8105.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T19:56:15.899Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-06-24T17:52:14.189Z",
+  "stats": {
+    "baseCurrencyBalance": 144001.87028074,
+    "totalBuyVolume": 14432260.6409576,
+    "totalSellVolume": 9745239.53471738,
+    "totalPortfolioValue": 39350691731.99554,
+    "holdingsValue": 39350547730.12526,
+    "holdingsCount": 22,
+    "coinsCreated": 2,
+    "totalTransactions": 4233,
+    "transactions24h": 3,
+    "buyVolume24h": 0,
+    "sellVolume24h": 21213.9364405
+  },
+  "arcade": {
+    "arcadeWins": 2919280.6345,
+    "arcadeLosses": 3504350,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "DELL",
+    "JMCA"
+  ],
+  "indicators": [],
+  "relationships": [],
+  "suspectedOwners": []
+}

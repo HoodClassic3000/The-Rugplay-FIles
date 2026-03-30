@@ -1,0 +1,52 @@
+{
+  "userId": 14829,
+  "username": "daimy",
+  "name": "Daimy",
+  "avatarUrl": "avatars/14829.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T19:32:00.534Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-07-15T18:01:09.888Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 2355382.88441552,
+    "totalSellVolume": 2087118.43146005,
+    "totalPortfolioValue": 73385775.74947253,
+    "holdingsValue": 73385775.74947253,
+    "holdingsCount": 71,
+    "coinsCreated": 10,
+    "totalTransactions": 1634,
+    "transactions24h": 0,
+    "buyVolume24h": 0,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 621443.1502,
+    "arcadeLosses": 942897.15,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "BLACKJACK",
+    "GTASIX",
+    "SPINNINCAT",
+    "ART3",
+    "ELYTRA",
+    "SQLITE",
+    "IPILL",
+    "ISCAM",
+    "LVSPHERE",
+    "DCNITRO",
+    "NOTEXTURE"
+  ],
+  "indicators": [],
+  "relationships": [],
+  "suspectedOwners": []
+}

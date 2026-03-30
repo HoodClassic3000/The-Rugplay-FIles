@@ -1,0 +1,155 @@
+{
+  "userId": 22202,
+  "username": "phone",
+  "name": "HAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA",
+  "avatarUrl": "avatars/22202.webp",
+  "overallScore": 20,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T12:22:36.598Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-03-28T12:19:16.094Z",
+  "stats": {
+    "baseCurrencyBalance": 0.76615273,
+    "totalBuyVolume": 38452.63410048,
+    "totalSellVolume": 45721.57688619,
+    "totalPortfolioValue": 0.76615273,
+    "holdingsValue": 0,
+    "holdingsCount": 0,
+    "coinsCreated": 2,
+    "totalTransactions": 42,
+    "transactions24h": 0,
+    "buyVolume24h": 0,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 463922.0586,
+    "arcadeLosses": 590932.23523298,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "DUCKCC",
+    "DINGCC"
+  ],
+  "indicators": [
+    {
+      "type": "single_holder_buyer",
+      "score": 20,
+      "candidateMainUserId": 5732,
+      "details": {
+        "rugSequenceCount": 2,
+        "totalLost": 6518.90566477,
+        "totalBought": 6800,
+        "uniqueCoinsInvolved": [
+          "BOBT",
+          "DUCKCC"
+        ],
+        "sequences": [
+          {
+            "coinSymbol": "BOBT",
+            "buyAmount": 1300,
+            "sellReturn": 111.17497274,
+            "buyTimestamp": "2026-03-28T12:20:37.798Z",
+            "sellTimestamp": "2026-03-28T13:15:52.694Z"
+          },
+          {
+            "coinSymbol": "DUCKCC",
+            "buyAmount": 5500,
+            "sellReturn": 169.91936249,
+            "buyTimestamp": "2026-03-28T12:49:24.271Z",
+            "sellTimestamp": "2026-03-28T12:52:50.179Z"
+          }
+        ]
+      },
+      "evidenceTransactionIds": [
+        1963934,
+        1963932,
+        1963929,
+        1963928,
+        1963927,
+        1963992,
+        1964001,
+        1964000,
+        1963999,
+        1963998,
+        1963997,
+        1964081,
+        1964609,
+        1964608
+      ],
+      "detectedAt": "2026-03-30T13:06:34.417Z",
+      "summary": "Rugged 2 time(s) continuously buying coins pumped by a top holder, losing a total of $6,518.906."
+    }
+  ],
+  "relationships": [
+    {
+      "toUserId": 12260,
+      "toUsername": "12260",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 300
+    },
+    {
+      "toUserId": 22201,
+      "toUsername": "clever_whale5688",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 4755.30010904
+    },
+    {
+      "toUserId": 10655,
+      "toUsername": "eulmdev",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 6000
+    },
+    {
+      "toUserId": 21182,
+      "toUsername": "21182",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 13534
+    },
+    {
+      "toUserId": 22205,
+      "toUsername": "clever_wolf7247",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 530
+    },
+    {
+      "toUserId": 14479,
+      "toUsername": "14479",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 28116.435698939997
+    },
+    {
+      "toUserId": 15915,
+      "toUsername": "crackhead",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 1.24358
+    },
+    {
+      "toUserId": 19,
+      "toUsername": "maze",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 6250
+    }
+  ],
+  "suspectedOwners": [
+    {
+      "userId": 5732,
+      "username": "dingdong",
+      "confidence": 20
+    }
+  ]
+}

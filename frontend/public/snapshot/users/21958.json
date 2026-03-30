@@ -1,0 +1,47 @@
+{
+  "userId": 21958,
+  "username": "bright_panda4946",
+  "name": "Мария Марченко",
+  "avatarUrl": "avatars/114409645213720393795.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-30T00:01:40.828Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-03-19T00:03:44.469Z",
+  "stats": {
+    "baseCurrencyBalance": 158640.69709654,
+    "totalBuyVolume": 1268946.74180834,
+    "totalSellVolume": 1335525.16890488,
+    "totalPortfolioValue": 158662.08490297763,
+    "holdingsValue": 21.38780643760712,
+    "holdingsCount": 1,
+    "coinsCreated": 6,
+    "totalTransactions": 93,
+    "transactions24h": 4,
+    "buyVolume24h": 0,
+    "sellVolume24h": 157440.69709654
+  },
+  "arcade": {
+    "arcadeWins": 0,
+    "arcadeLosses": 3000,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "SPNGGE",
+    "SPNGE",
+    "SPNGBB",
+    "SPNGG",
+    "DRVV",
+    "DRV"
+  ],
+  "indicators": [],
+  "relationships": [],
+  "suspectedOwners": []
+}

@@ -1,0 +1,45 @@
+{
+  "userId": 16183,
+  "username": "16183",
+  "name": "Ye",
+  "avatarUrl": "avatars/16183.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-30T06:35:43.624Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-07-29T08:23:20.032Z",
+  "stats": {
+    "baseCurrencyBalance": 30,
+    "totalBuyVolume": 40376154.09296421,
+    "totalSellVolume": 39018889.7734244,
+    "totalPortfolioValue": 87348202240.79573,
+    "holdingsValue": 87348202210.79573,
+    "holdingsCount": 20,
+    "coinsCreated": 4,
+    "totalTransactions": 156,
+    "transactions24h": 0,
+    "buyVolume24h": 0,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 0,
+    "arcadeLosses": 0,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "YZYMONEY",
+    "DROPOUT",
+    "BUCKETHAT",
+    "GRADUATION"
+  ],
+  "indicators": [],
+  "relationships": [],
+  "suspectedOwners": []
+}

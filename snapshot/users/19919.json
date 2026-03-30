@@ -1,0 +1,42 @@
+{
+  "userId": 19919,
+  "username": "lucentix",
+  "name": "Lucas E",
+  "avatarUrl": "avatars/19919.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T18:34:17.074Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-01-13T17:52:10.313Z",
+  "stats": {
+    "baseCurrencyBalance": 326.19,
+    "totalBuyVolume": 80305.0004456,
+    "totalSellVolume": 3331.50874071,
+    "totalPortfolioValue": 9355922.622042984,
+    "holdingsValue": 9355596.432042984,
+    "holdingsCount": 1,
+    "coinsCreated": 1,
+    "totalTransactions": 33,
+    "transactions24h": 1,
+    "buyVolume24h": 1200,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 22282.66198616,
+    "arcadeLosses": 29045.32028127,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "GSRP"
+  ],
+  "indicators": [],
+  "relationships": [],
+  "suspectedOwners": []
+}

@@ -1,0 +1,48 @@
+{
+  "userId": 13036,
+  "username": "lerak08",
+  "name": "Karel Broens",
+  "avatarUrl": "avatars/112490810342719865148.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T20:49:22.273Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-07-02T15:50:12.147Z",
+  "stats": {
+    "baseCurrencyBalance": 89097,
+    "totalBuyVolume": 4549508.80120392,
+    "totalSellVolume": 3286562.10120392,
+    "totalPortfolioValue": 1853925213.9625685,
+    "holdingsValue": 1853836116.9625685,
+    "holdingsCount": 1,
+    "coinsCreated": 0,
+    "totalTransactions": 401,
+    "transactions24h": 219,
+    "buyVolume24h": 1267216.17775857,
+    "sellVolume24h": 1265413.17775857
+  },
+  "arcade": {
+    "arcadeWins": 0,
+    "arcadeLosses": 0,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 12982,
+      "toUsername": "12982",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 2534216.35551714
+    }
+  ],
+  "suspectedOwners": []
+}

@@ -1,0 +1,57 @@
+{
+  "userId": 18122,
+  "username": "goat",
+  "name": "g.o.a.t",
+  "avatarUrl": "avatars/18122.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T21:28:08.300Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-10-26T15:48:20.247Z",
+  "stats": {
+    "baseCurrencyBalance": 49000,
+    "totalBuyVolume": 2278068.85124788,
+    "totalSellVolume": 1518505.53227412,
+    "totalPortfolioValue": 339756214.34988534,
+    "holdingsValue": 339707214.34988534,
+    "holdingsCount": 2,
+    "coinsCreated": 8,
+    "totalTransactions": 491,
+    "transactions24h": 3,
+    "buyVolume24h": 2800,
+    "sellVolume24h": 50000
+  },
+  "arcade": {
+    "arcadeWins": 582482.33510118,
+    "arcadeLosses": 169378.51766452,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "ISRAELCASH",
+    "LILO",
+    "PSK",
+    "KIRKC",
+    "GRCH",
+    "ATHR",
+    "FBIC",
+    "808S"
+  ],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 14123,
+      "toUsername": "14123",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 2000
+    }
+  ],
+  "suspectedOwners": []
+}

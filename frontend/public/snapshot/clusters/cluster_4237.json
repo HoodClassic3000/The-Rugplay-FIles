@@ -1,0 +1,122 @@
+{
+  "clusterId": "cluster_4237",
+  "ownerCandidates": [
+    {
+      "userId": 4237,
+      "username": "lncvrt",
+      "confidence": 100
+    }
+  ],
+  "memberUserIds": [
+    4248,
+    4704,
+    4242,
+    4249,
+    4247,
+    4241,
+    4246
+  ],
+  "metrics": {
+    "totalAlts": 7,
+    "totalTransferred": 151499.31839131998,
+    "totalRugProfit": 0,
+    "totalArcadeLaundered": 0,
+    "oldestFirstSeen": "2026-03-28T15:26:42.474Z",
+    "newestFirstSeen": "2026-03-28T15:32:01.086Z"
+  },
+  "createdAt": "2026-03-30T13:06:34.573Z",
+  "updatedAt": "2026-03-30T13:06:34.573Z",
+  "members": [
+    {
+      "userId": 4248,
+      "username": "ricecooker",
+      "name": "Ricecooker",
+      "avatarUrl": "avatars/4248.jpg",
+      "overallScore": 70,
+      "overallLabel": "Likely",
+      "clusterId": "cluster_4237",
+      "isBanned": false,
+      "firstSeen": "2026-03-28T15:26:42.474Z",
+      "isMastermind": false,
+      "mastermindScore": 0
+    },
+    {
+      "userId": 4704,
+      "username": "okbrowhat39595",
+      "name": "okbrowhat39595",
+      "avatarUrl": "avatars/101784213861710253854.webp",
+      "overallScore": 70,
+      "overallLabel": "Likely",
+      "clusterId": "cluster_4237",
+      "isBanned": false,
+      "firstSeen": "2026-03-28T15:27:24.894Z",
+      "isMastermind": false,
+      "mastermindScore": 0
+    },
+    {
+      "userId": 4242,
+      "username": "lucky_whale4792",
+      "name": "Xytriza",
+      "avatarUrl": "avatars/109095379986852513908.png",
+      "overallScore": 55,
+      "overallLabel": "Possible",
+      "clusterId": "cluster_4237",
+      "isBanned": false,
+      "firstSeen": "2026-03-28T15:28:01.086Z",
+      "isMastermind": false,
+      "mastermindScore": 0
+    },
+    {
+      "userId": 4249,
+      "username": "ricecooker_ii",
+      "name": "Ricecooker",
+      "avatarUrl": "avatars/4249.jpg",
+      "overallScore": 55,
+      "overallLabel": "Possible",
+      "clusterId": "cluster_4237",
+      "isBanned": false,
+      "firstSeen": "2026-03-28T15:29:55.273Z",
+      "isMastermind": false,
+      "mastermindScore": 0
+    },
+    {
+      "userId": 4247,
+      "username": "clever_deer9099",
+      "name": "Loqrp",
+      "avatarUrl": "avatars/104845016709912951865.png",
+      "overallScore": 55,
+      "overallLabel": "Possible",
+      "clusterId": "cluster_4237",
+      "isBanned": false,
+      "firstSeen": "2026-03-28T15:30:39.472Z",
+      "isMastermind": false,
+      "mastermindScore": 0
+    },
+    {
+      "userId": 4241,
+      "username": "lucky_wolf9270",
+      "name": "Travis",
+      "avatarUrl": "avatars/116343174724118936425.png",
+      "overallScore": 55,
+      "overallLabel": "Possible",
+      "clusterId": "cluster_4237",
+      "isBanned": false,
+      "firstSeen": "2026-03-28T15:31:15.871Z",
+      "isMastermind": false,
+      "mastermindScore": 0
+    },
+    {
+      "userId": 4246,
+      "username": "niceguy2823482",
+      "name": "niceguy2823482",
+      "avatarUrl": "avatars/4246.png",
+      "overallScore": 55,
+      "overallLabel": "Possible",
+      "clusterId": "cluster_4237",
+      "isBanned": false,
+      "firstSeen": "2026-03-28T15:32:01.086Z",
+      "isMastermind": false,
+      "mastermindScore": 0
+    }
+  ]
+}

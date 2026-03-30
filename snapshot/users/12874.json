@@ -1,0 +1,50 @@
+{
+  "userId": 12874,
+  "username": "rex_7007",
+  "name": "Rex_7007",
+  "avatarUrl": "avatars/112572926467117960970.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T15:51:54.472Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-07-01T18:44:50.007Z",
+  "stats": {
+    "baseCurrencyBalance": 13151.00896431,
+    "totalBuyVolume": 248742.03123477,
+    "totalSellVolume": 15028.33751284,
+    "totalPortfolioValue": 19888894.227953635,
+    "holdingsValue": 19875743.218989324,
+    "holdingsCount": 4,
+    "coinsCreated": 1,
+    "totalTransactions": 157,
+    "transactions24h": 4,
+    "buyVolume24h": 12010.18303658,
+    "sellVolume24h": 3151.00896431
+  },
+  "arcade": {
+    "arcadeWins": 29710.995,
+    "arcadeLosses": 36694.6,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "BLHT"
+  ],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 7472,
+      "toUsername": "7472",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 22018.36607316
+    }
+  ],
+  "suspectedOwners": []
+}

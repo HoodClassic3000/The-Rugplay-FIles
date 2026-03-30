@@ -1,0 +1,50 @@
+{
+  "userId": 20459,
+  "username": "kind_wolf3929",
+  "name": "VT Scripts",
+  "avatarUrl": "avatars/117441957011743959109.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T14:24:22.921Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-01-27T06:09:41.692Z",
+  "stats": {
+    "baseCurrencyBalance": 2100,
+    "totalBuyVolume": 55758.39312509,
+    "totalSellVolume": 28751.77632509,
+    "totalPortfolioValue": 78637.45913105963,
+    "holdingsValue": 76537.45913105963,
+    "holdingsCount": 3,
+    "coinsCreated": 1,
+    "totalTransactions": 19,
+    "transactions24h": 1,
+    "buyVolume24h": 900,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 10616.7868,
+    "arcadeLosses": 52789,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "YOGG"
+  ],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 8105,
+      "toUsername": "michaeldell",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 39915.91216598
+    }
+  ],
+  "suspectedOwners": []
+}

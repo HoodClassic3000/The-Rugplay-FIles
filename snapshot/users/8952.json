@@ -1,0 +1,68 @@
+{
+  "userId": 8952,
+  "username": "lucky_eagle8983",
+  "name": "Ishan Van de Bunte",
+  "avatarUrl": "avatars/105819268352964391697.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T14:27:24.562Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-06-25T10:43:01.766Z",
+  "stats": {
+    "baseCurrencyBalance": 29202.92601751,
+    "totalBuyVolume": 6699055.72030035,
+    "totalSellVolume": 7636844.17099551,
+    "totalPortfolioValue": 105139.09657672324,
+    "holdingsValue": 75936.17055921323,
+    "holdingsCount": 8,
+    "coinsCreated": 5,
+    "totalTransactions": 373,
+    "transactions24h": 3,
+    "buyVolume24h": 2000,
+    "sellVolume24h": 1969.50270551
+  },
+  "arcade": {
+    "arcadeWins": 65766.8255,
+    "arcadeLosses": 1408972.69,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "TESSS4",
+    "TESSS3",
+    "TESS",
+    "TDCID",
+    "WAZAAA"
+  ],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 16183,
+      "toUsername": "16183",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 4000
+    },
+    {
+      "toUserId": 8105,
+      "toUsername": "michaeldell",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 2000
+    },
+    {
+      "toUserId": 11988,
+      "toUsername": "11988",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 20000
+    }
+  ],
+  "suspectedOwners": []
+}

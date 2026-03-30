@@ -1,6 +1,6 @@
 import type { UsersIndex, PublicUserDetail, PublicClusterDetail } from '../types';
 
-const BASE_PATH = '/snapshot';
+const BASE_PATH = './snapshot';
 
 export async function fetchUsersIndex(): Promise<UsersIndex> {
     console.log('Fetching users index from:', BASE_PATH + '/users-index.json');

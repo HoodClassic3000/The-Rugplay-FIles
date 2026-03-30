@@ -1,0 +1,46 @@
+{
+  "userId": 22199,
+  "username": "brave_wolf5523",
+  "name": "lunarryyyt",
+  "avatarUrl": "avatars/115705423374011430060.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T11:51:33.576Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-03-28T09:17:10.204Z",
+  "stats": {
+    "baseCurrencyBalance": 10,
+    "totalBuyVolume": 97931.86294322,
+    "totalSellVolume": 2699.99994322,
+    "totalPortfolioValue": 9293076.074581338,
+    "holdingsValue": 9293066.074581338,
+    "holdingsCount": 26,
+    "coinsCreated": 5,
+    "totalTransactions": 52,
+    "transactions24h": 1,
+    "buyVolume24h": 21922.4,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 2491.863,
+    "arcadeLosses": 7550,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "BUNK",
+    "FYRE",
+    "LYNK",
+    "LNR",
+    "ZORIN"
+  ],
+  "indicators": [],
+  "relationships": [],
+  "suspectedOwners": []
+}

@@ -1,0 +1,66 @@
+{
+  "clusterId": "cluster_12200",
+  "ownerCandidates": [
+    {
+      "userId": 12200,
+      "username": "kraz",
+      "confidence": 100
+    }
+  ],
+  "memberUserIds": [
+    4566,
+    12678,
+    17103
+  ],
+  "metrics": {
+    "totalAlts": 3,
+    "totalTransferred": 130166.87797868,
+    "totalRugProfit": 0,
+    "totalArcadeLaundered": 0,
+    "oldestFirstSeen": "2026-03-29T00:25:20.825Z",
+    "newestFirstSeen": "2026-03-29T13:17:17.503Z"
+  },
+  "createdAt": "2026-03-30T13:06:34.573Z",
+  "updatedAt": "2026-03-30T13:06:34.573Z",
+  "members": [
+    {
+      "userId": 4566,
+      "username": "best",
+      "name": "Alert Bank Org",
+      "avatarUrl": "avatars/4566.webp",
+      "overallScore": 55,
+      "overallLabel": "Possible",
+      "clusterId": "cluster_12200",
+      "isBanned": false,
+      "firstSeen": "2026-03-29T00:25:20.825Z",
+      "isMastermind": false,
+      "mastermindScore": 0
+    },
+    {
+      "userId": 12678,
+      "username": "hurensohn_cash",
+      "name": "HS_CashHoldings",
+      "avatarUrl": "avatars/12678.webp",
+      "overallScore": 55,
+      "overallLabel": "Possible",
+      "clusterId": "cluster_12200",
+      "isBanned": false,
+      "firstSeen": "2026-03-29T10:40:58.572Z",
+      "isMastermind": false,
+      "mastermindScore": 0
+    },
+    {
+      "userId": 17103,
+      "username": "niklas",
+      "name": "Neverrugpulling",
+      "avatarUrl": "avatars/17103.webp",
+      "overallScore": 55,
+      "overallLabel": "Possible",
+      "clusterId": "cluster_12200",
+      "isBanned": false,
+      "firstSeen": "2026-03-29T13:17:17.503Z",
+      "isMastermind": false,
+      "mastermindScore": 0
+    }
+  ]
+}

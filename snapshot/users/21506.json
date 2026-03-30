@@ -1,0 +1,67 @@
+{
+  "userId": 21506,
+  "username": "toshy128real",
+  "name": "Toshy 128",
+  "avatarUrl": "avatars/103221974123768725314.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T19:03:40.386Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-03-04T23:02:14.203Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 545951.05867173,
+    "totalSellVolume": 394101.48990108,
+    "totalPortfolioValue": 1707213.0892047724,
+    "holdingsValue": 1707213.0892047724,
+    "holdingsCount": 4,
+    "coinsCreated": 4,
+    "totalTransactions": 224,
+    "transactions24h": 5,
+    "buyVolume24h": 102670.1972511,
+    "sellVolume24h": 100270.1972511
+  },
+  "arcade": {
+    "arcadeWins": 1930159.62003113,
+    "arcadeLosses": 2263763.88560452,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "IDKSTERLIN",
+    "WATWHT",
+    "BURGR",
+    "ZZQ"
+  ],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 533,
+      "toUsername": "533",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 101713.77582678
+    },
+    {
+      "toUserId": 22224,
+      "toUsername": "hyperzteam",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 101226.61867542
+    },
+    {
+      "toUserId": 21591,
+      "toUsername": "kentroix",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 2400
+    }
+  ],
+  "suspectedOwners": []
+}

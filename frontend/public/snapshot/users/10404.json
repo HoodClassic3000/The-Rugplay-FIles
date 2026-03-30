@@ -1,0 +1,79 @@
+{
+  "userId": 10404,
+  "username": "10404",
+  "name": "Rando",
+  "avatarUrl": "avatars/10404.webp",
+  "overallScore": 30,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-30T06:35:43.624Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-06-26T12:29:17.732Z",
+  "stats": {
+    "baseCurrencyBalance": 55651.48,
+    "totalBuyVolume": 19327086.47828348,
+    "totalSellVolume": 19219416.7343477,
+    "totalPortfolioValue": 15460678.013802888,
+    "holdingsValue": 15405026.533802887,
+    "holdingsCount": 138,
+    "coinsCreated": 10,
+    "totalTransactions": 564,
+    "transactions24h": 0,
+    "buyVolume24h": 0,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 0,
+    "arcadeLosses": 0,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "XCVFDGD",
+    "XCVBXCVBXC",
+    "BCVXBXB",
+    "VBMNBVMVBM",
+    "XCVBXCBXCB",
+    "ASFFGDBVC",
+    "XCVZZXC",
+    "WERWER",
+    "BNVBNV",
+    "GHJKGH"
+  ],
+  "indicators": [
+    {
+      "type": "cash_funnel",
+      "score": 30,
+      "candidateMainUserId": 5504,
+      "details": {
+        "recipientUsername": "artyial",
+        "totalTransferred": 1000000,
+        "transferShare": 1,
+        "balanceShare": 0.9473,
+        "estimatedPreTransferBalance": 1055651,
+        "eventCount": 1,
+        "accountAgeDays": 276.8,
+        "isNewAccount": false,
+        "isCreatedThisMonth": false
+      },
+      "evidenceTransactionIds": [
+        1932110
+      ],
+      "detectedAt": "2026-03-30T13:06:34.548Z",
+      "summary": "Transferred 95% of total wealth ($1,000,000) to one account across 1 transfer(s). Account age: 276.8 days."
+    }
+  ],
+  "relationships": [],
+  "suspectedOwners": [
+    {
+      "userId": 5504,
+      "username": "5504",
+      "confidence": 30
+    }
+  ]
+}

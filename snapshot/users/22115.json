@@ -1,0 +1,60 @@
+{
+  "userId": 22115,
+  "username": "22115",
+  "name": "CoreInvestilligence",
+  "avatarUrl": "avatars/22115.webp",
+  "overallScore": 100,
+  "overallLabel": "Very Likely",
+  "clusterId": "cluster_22115",
+  "isBanned": false,
+  "firstSeen": "2026-03-30T06:35:43.624Z",
+  "isMastermind": true,
+  "mastermindScore": 100,
+  "createdAt": "2026-03-24T11:11:20.192Z",
+  "stats": {
+    "baseCurrencyBalance": 167529.95518196,
+    "totalBuyVolume": 258011.64057696,
+    "totalSellVolume": 84330.06112595,
+    "totalPortfolioValue": 8483129.39051841,
+    "holdingsValue": 8315599.43533645,
+    "holdingsCount": 2,
+    "coinsCreated": 0,
+    "totalTransactions": 30,
+    "transactions24h": 0,
+    "buyVolume24h": 0,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 0,
+    "arcadeLosses": 0,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [],
+  "indicators": [
+    {
+      "type": "mastermind_activity",
+      "score": 100,
+      "candidateMainUserId": 22115,
+      "details": {
+        "totalAlts": 3,
+        "totalTransferred": 95523.74087707,
+        "totalRugProfit": 0,
+        "totalArcadeLaundered": 0
+      },
+      "detectedAt": "2026-03-30T13:06:34.573Z",
+      "summary": "Beneficiary of syndicate network laundering. Cluster contains 3 suspected alts transferring $95,523.741 directly and profiting $0 from coordinated coin buys."
+    }
+  ],
+  "relationships": [],
+  "suspectedOwners": [
+    {
+      "userId": 22115,
+      "username": "22115",
+      "confidence": 100
+    }
+  ]
+}

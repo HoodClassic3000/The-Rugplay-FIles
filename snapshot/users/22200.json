@@ -1,0 +1,40 @@
+{
+  "userId": 22200,
+  "username": "22200",
+  "name": "mark shane",
+  "avatarUrl": "avatars/22200.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-30T06:35:43.624Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-03-28T10:42:44.790Z",
+  "stats": {
+    "baseCurrencyBalance": 0.15,
+    "totalBuyVolume": 458237.3,
+    "totalSellVolume": 458237.3,
+    "totalPortfolioValue": 0.15,
+    "holdingsValue": 0,
+    "holdingsCount": 0,
+    "coinsCreated": 0,
+    "totalTransactions": 23,
+    "transactions24h": 0,
+    "buyVolume24h": 0,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 0,
+    "arcadeLosses": 0,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [],
+  "indicators": [],
+  "relationships": [],
+  "suspectedOwners": []
+}

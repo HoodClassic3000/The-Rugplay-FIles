@@ -1,0 +1,42 @@
+{
+  "userId": 17924,
+  "username": "smokymcbongface",
+  "name": "SmokyMcBongface",
+  "avatarUrl": "avatars/17924.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T22:19:39.683Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-10-21T17:02:33.160Z",
+  "stats": {
+    "baseCurrencyBalance": 481500,
+    "totalBuyVolume": 10290732.18917022,
+    "totalSellVolume": 8453799.9622134,
+    "totalPortfolioValue": 23517902843.77175,
+    "holdingsValue": 23517421343.77175,
+    "holdingsCount": 19,
+    "coinsCreated": 1,
+    "totalTransactions": 1282,
+    "transactions24h": 1,
+    "buyVolume24h": 4000,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 1170346.53,
+    "arcadeLosses": 1024072,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "SM0KE"
+  ],
+  "indicators": [],
+  "relationships": [],
+  "suspectedOwners": []
+}

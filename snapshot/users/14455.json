@@ -1,0 +1,51 @@
+{
+  "userId": 14455,
+  "username": "america",
+  "name": "Jack",
+  "avatarUrl": "avatars/14455.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T21:50:27.486Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-07-12T22:23:55.338Z",
+  "stats": {
+    "baseCurrencyBalance": 50089.01481875,
+    "totalBuyVolume": 13333451.53607315,
+    "totalSellVolume": 12980909.55504638,
+    "totalPortfolioValue": 1214008.7529554784,
+    "holdingsValue": 1163919.7381367283,
+    "holdingsCount": 3,
+    "coinsCreated": 2,
+    "totalTransactions": 996,
+    "transactions24h": 0,
+    "buyVolume24h": 0,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 4921644.184,
+    "arcadeLosses": 3369660,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "CLT",
+    "2026"
+  ],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 17716,
+      "toUsername": "xprism",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 200000
+    }
+  ],
+  "suspectedOwners": []
+}

@@ -92,9 +92,9 @@ export function UserPage() {
                 <div style={{ display: 'flex', alignItems: 'flex-start', gap: '2rem', marginTop: '1.5rem' }}>
                     <div style={{ border: '3px solid black', padding: '4px', background: '#ccc' }}>
                         <img
-                            src={user.avatarUrl || '/mugshot.jpg'}
+                            src={user.avatarUrl || './mugshot.jpg'}
                             alt={user.username}
-                            onError={(e) => { (e.target as HTMLImageElement).src = '/mugshot.jpg'; }}
+                            onError={(e) => { (e.target as HTMLImageElement).src = './mugshot.jpg'; }}
                             style={{ width: '120px', height: '120px', display: 'block', filter: 'grayscale(100%) contrast(1.2)', objectFit: 'cover' }}
                         />
                     </div>

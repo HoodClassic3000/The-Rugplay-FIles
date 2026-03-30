@@ -1,0 +1,48 @@
+{
+  "userId": 22228,
+  "username": "happy_bear4636",
+  "name": "skylar martin",
+  "avatarUrl": "avatars/105026019877021310738.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-30T04:08:18.642Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-03-30T04:07:58.365Z",
+  "stats": {
+    "baseCurrencyBalance": 0.52,
+    "totalBuyVolume": 1300,
+    "totalSellVolume": 1300,
+    "totalPortfolioValue": 0.52,
+    "holdingsValue": 0,
+    "holdingsCount": 0,
+    "coinsCreated": 0,
+    "totalTransactions": 3,
+    "transactions24h": 3,
+    "buyVolume24h": 1300,
+    "sellVolume24h": 1300
+  },
+  "arcade": {
+    "arcadeWins": 59387.6,
+    "arcadeLosses": 146730,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 18105,
+      "toUsername": "now",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 2600
+    }
+  ],
+  "suspectedOwners": []
+}

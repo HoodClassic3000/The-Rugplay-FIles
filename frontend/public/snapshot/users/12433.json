@@ -1,0 +1,103 @@
+{
+  "userId": 12433,
+  "username": "nim",
+  "name": "Nim",
+  "avatarUrl": "avatars/102947836104640351337.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T23:51:33.450Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-06-30T14:16:23.336Z",
+  "stats": {
+    "baseCurrencyBalance": 56.23008775,
+    "totalBuyVolume": 460291.16878505,
+    "totalSellVolume": 483646.6943506,
+    "totalPortfolioValue": 121712.1727334275,
+    "holdingsValue": 121655.94264567751,
+    "holdingsCount": 8,
+    "coinsCreated": 5,
+    "totalTransactions": 378,
+    "transactions24h": 24,
+    "buyVolume24h": 10682.3,
+    "sellVolume24h": 397.38328545
+  },
+  "arcade": {
+    "arcadeWins": 58451.3,
+    "arcadeLosses": 109444.15220519,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "CORKCORK",
+    "BORKBORK",
+    "PALANTIR",
+    "SHEET",
+    "BNNY"
+  ],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 17832,
+      "toUsername": "nowon",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 0.2
+    },
+    {
+      "toUserId": 13487,
+      "toUsername": "delphine",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 21
+    },
+    {
+      "toUserId": 17103,
+      "toUsername": "niklas",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 2
+    },
+    {
+      "toUserId": 14005,
+      "toUsername": "14005",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 0.2
+    },
+    {
+      "toUserId": 20135,
+      "toUsername": "konsenarbol",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 20.2
+    },
+    {
+      "toUserId": 10501,
+      "toUsername": "relay",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 20
+    },
+    {
+      "toUserId": 9903,
+      "toUsername": "inyourface3445",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 2
+    },
+    {
+      "toUserId": 4439,
+      "toUsername": "lore",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 20
+    }
+  ],
+  "suspectedOwners": []
+}

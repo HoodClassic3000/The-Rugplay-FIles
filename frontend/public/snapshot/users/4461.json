@@ -1,0 +1,55 @@
+{
+  "userId": 4461,
+  "username": "zigzagduck",
+  "name": "Ostadx",
+  "avatarUrl": "avatars/117976636758433969366.png",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T11:04:32.186Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-06-12T06:47:25.521Z",
+  "stats": {
+    "baseCurrencyBalance": 5804.41807737,
+    "totalBuyVolume": 1615561.65199665,
+    "totalSellVolume": 1013928.80415332,
+    "totalPortfolioValue": 98434932.93103792,
+    "holdingsValue": 98429128.51296055,
+    "holdingsCount": 5,
+    "coinsCreated": 0,
+    "totalTransactions": 366,
+    "transactions24h": 5,
+    "buyVolume24h": 2000,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 4466061.55656333,
+    "arcadeLosses": 5096430.96351326,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 4251,
+      "toUsername": "4251",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 3000
+    },
+    {
+      "toUserId": 17614,
+      "toUsername": "17614",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 3000
+    }
+  ],
+  "suspectedOwners": []
+}

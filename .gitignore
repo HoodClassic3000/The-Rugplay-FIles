@@ -9,5 +9,4 @@ store.json
 .enrichment-cache.json
 
 frontend/dist/
-snapshot/
 mock/

@@ -1,0 +1,42 @@
+{
+  "userId": 6334,
+  "username": "anonymous",
+  "name": "anonymous",
+  "avatarUrl": "avatars/116650756610614673250.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T14:40:53.236Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-06-23T23:29:54.015Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 667275.46895693,
+    "totalSellVolume": 37377.28810458,
+    "totalPortfolioValue": 876440.7753953387,
+    "holdingsValue": 876440.7753953387,
+    "holdingsCount": 1,
+    "coinsCreated": 1,
+    "totalTransactions": 10635,
+    "transactions24h": 1,
+    "buyVolume24h": 1500,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 0,
+    "arcadeLosses": 0,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "COMMON"
+  ],
+  "indicators": [],
+  "relationships": [],
+  "suspectedOwners": []
+}

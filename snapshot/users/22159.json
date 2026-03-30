@@ -1,0 +1,76 @@
+{
+  "userId": 22159,
+  "username": "jdickinson",
+  "name": "Justin Dickinson",
+  "avatarUrl": "avatars/104205335624827185600.webp",
+  "overallScore": 75,
+  "overallLabel": "Likely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-30T03:44:35.042Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-03-26T20:17:25.850Z",
+  "stats": {
+    "baseCurrencyBalance": 0.1274237,
+    "totalBuyVolume": 154968.40746424,
+    "totalSellVolume": 254036.22916021,
+    "totalPortfolioValue": 0.1274237,
+    "holdingsValue": 0,
+    "holdingsCount": 0,
+    "coinsCreated": 0,
+    "totalTransactions": 24,
+    "transactions24h": 12,
+    "buyVolume24h": 109068.4074237,
+    "sellVolume24h": 208136.2290994
+  },
+  "arcade": {
+    "arcadeWins": 4234125.7632,
+    "arcadeLosses": 5059960,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [],
+  "indicators": [
+    {
+      "type": "cash_funnel",
+      "score": 75,
+      "candidateMainUserId": 19740,
+      "details": {
+        "recipientUsername": "clever_seal2405",
+        "totalTransferred": 10000,
+        "transferShare": 1,
+        "balanceShare": 1,
+        "estimatedPreTransferBalance": 10000,
+        "eventCount": 1,
+        "accountAgeDays": 3.4,
+        "isNewAccount": true,
+        "isCreatedThisMonth": true
+      },
+      "evidenceTransactionIds": [
+        1953642
+      ],
+      "detectedAt": "2026-03-30T13:06:34.571Z",
+      "summary": "Transferred 100% of total wealth ($10,000) to one account across 1 transfer(s). Account age: 3.4 days."
+    }
+  ],
+  "relationships": [
+    {
+      "toUserId": 22165,
+      "toUsername": "lucky_boiii",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 218136.8148474
+    }
+  ],
+  "suspectedOwners": [
+    {
+      "userId": 19740,
+      "username": "19740",
+      "confidence": 75
+    }
+  ]
+}

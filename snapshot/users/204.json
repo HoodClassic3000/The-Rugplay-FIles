@@ -1,0 +1,195 @@
+{
+  "userId": 204,
+  "username": "guidf",
+  "name": "guidf",
+  "avatarUrl": "avatars/204.webp",
+  "overallScore": 60,
+  "overallLabel": "Likely",
+  "clusterId": "cluster_204",
+  "isBanned": false,
+  "firstSeen": "2026-03-28T13:00:10.728Z",
+  "isMastermind": true,
+  "mastermindScore": 100,
+  "createdAt": "2025-05-30T14:38:55.569Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 189204493.8519113,
+    "totalSellVolume": 187743278.9086671,
+    "totalPortfolioValue": 2320925694.032841,
+    "holdingsValue": 2320925694.032841,
+    "holdingsCount": 32,
+    "coinsCreated": 10,
+    "totalTransactions": 5614,
+    "transactions24h": 5,
+    "buyVolume24h": 97578.42208508,
+    "sellVolume24h": 63578.42208508
+  },
+  "arcade": {
+    "arcadeWins": 1923742.2371408,
+    "arcadeLosses": 1922505.610359,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "1DACHIEVEM",
+    "DISTRC",
+    "DISTC",
+    "GRANDTHEFT",
+    "RANDOMCOIN",
+    "ACHIEVEMEN",
+    "MYDAILIES",
+    "HOMELESS",
+    "THEOWOCOI2",
+    "GETTINGRUG"
+  ],
+  "indicators": [
+    {
+      "type": "rug_laundering",
+      "score": 30,
+      "candidateMainUserId": 204,
+      "details": {
+        "sequenceCount": 1,
+        "totalLost": 58000,
+        "totalBought": 59200,
+        "totalRecovered": 1200,
+        "maxDominantHolderPercentage": 0.9993,
+        "accountAgeDays": 303.7,
+        "sequences": [
+          {
+            "coinSymbol": "WSW",
+            "buyAmount": 59200,
+            "sellReturn": 1200,
+            "buyTimestamp": "2026-03-28T01:32:58.918Z",
+            "sellTimestamp": "2026-03-28T12:10:58.771Z"
+          }
+        ]
+      },
+      "evidenceTransactionIds": [
+        1963922,
+        1963920,
+        1959505,
+        1957599,
+        1955243,
+        1964062,
+        1964096,
+        1964150,
+        1964160,
+        1978914,
+        1986325,
+        1986315
+      ],
+      "detectedAt": "2026-03-30T13:06:34.429Z",
+      "summary": "Bought into a coin dominated by a single holder and was rugged across 1 sequence(s), losing a total of 58000 in-game currency."
+    },
+    {
+      "type": "single_holder_buyer",
+      "score": 30,
+      "candidateMainUserId": 22204,
+      "details": {
+        "rugSequenceCount": 4,
+        "totalLost": 14162.50584353,
+        "totalBought": 14162.50585225,
+        "uniqueCoinsInvolved": [
+          "GC67"
+        ],
+        "sequences": [
+          {
+            "coinSymbol": "GC67",
+            "buyAmount": 1200,
+            "sellReturn": 0.00000218,
+            "buyTimestamp": "2026-03-28T12:11:03.757Z",
+            "sellTimestamp": "2026-03-28T13:30:28.810Z"
+          },
+          {
+            "coinSymbol": "GC67",
+            "buyAmount": 1200,
+            "sellReturn": 0.00000218,
+            "buyTimestamp": "2026-03-28T12:12:44.438Z",
+            "sellTimestamp": "2026-03-28T13:30:28.810Z"
+          },
+          {
+            "coinSymbol": "GC67",
+            "buyAmount": 10562.50585225,
+            "sellReturn": 0.00000218,
+            "buyTimestamp": "2026-03-28T13:09:24.694Z",
+            "sellTimestamp": "2026-03-28T13:30:28.810Z"
+          },
+          {
+            "coinSymbol": "GC67",
+            "buyAmount": 1200,
+            "sellReturn": 0.00000218,
+            "buyTimestamp": "2026-03-28T13:21:48.966Z",
+            "sellTimestamp": "2026-03-28T13:30:28.810Z"
+          }
+        ]
+      },
+      "evidenceTransactionIds": [
+        1964006,
+        1963925,
+        1963921,
+        1964041,
+        1964053,
+        1964052,
+        1964051,
+        1964099,
+        1964140,
+        1964139,
+        1964134,
+        1964133
+      ],
+      "detectedAt": "2026-03-30T13:06:34.429Z",
+      "summary": "Rugged 4 time(s) continuously buying coins pumped by a top holder, losing a total of $14,162.506."
+    },
+    {
+      "type": "mastermind_activity",
+      "score": 100,
+      "candidateMainUserId": 204,
+      "details": {
+        "totalAlts": 2,
+        "totalTransferred": 0,
+        "totalRugProfit": 60806.546068350006,
+        "totalArcadeLaundered": 0
+      },
+      "detectedAt": "2026-03-30T13:06:34.573Z",
+      "summary": "Beneficiary of syndicate network laundering. Cluster contains 2 suspected alts transferring $0 directly and profiting $60,806.546 from coordinated coin buys."
+    }
+  ],
+  "relationships": [
+    {
+      "toUserId": 22201,
+      "toUsername": "clever_whale5688",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 33525.0117045
+    },
+    {
+      "toUserId": 10655,
+      "toUsername": "eulmdev",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 10000
+    },
+    {
+      "toUserId": 21182,
+      "toUsername": "21182",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 121654.33449296
+    }
+  ],
+  "suspectedOwners": [
+    {
+      "userId": 204,
+      "username": "guidf",
+      "confidence": 100
+    },
+    {
+      "userId": 22204,
+      "username": "lucky_wolf5828",
+      "confidence": 30
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "userId": 22212,
+  "username": "cool_seal6852",
+  "name": "ballz",
+  "avatarUrl": "avatars/111126794296014435436.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-28T20:42:59.339Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-03-28T20:42:19.899Z",
+  "stats": {
+    "baseCurrencyBalance": 0,
+    "totalBuyVolume": 31057.51970819,
+    "totalSellVolume": 15257.51970819,
+    "totalPortfolioValue": 88871.70972488247,
+    "holdingsValue": 88871.70972488247,
+    "holdingsCount": 4,
+    "coinsCreated": 0,
+    "totalTransactions": 7,
+    "transactions24h": 0,
+    "buyVolume24h": 0,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 0,
+    "arcadeLosses": 0,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [],
+  "indicators": [],
+  "relationships": [
+    {
+      "toUserId": 12366,
+      "toUsername": "innovator",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 268
+    },
+    {
+      "toUserId": 11152,
+      "toUsername": "puller_of_rugs",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 700
+    },
+    {
+      "toUserId": 4071,
+      "toUsername": "2late",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 90511.55912456999
+    },
+    {
+      "toUserId": 17358,
+      "toUsername": "strawberry",
+      "type": "single_holder_buyer",
+      "weight": 0,
+      "totalValueMoved": 806
+    }
+  ],
+  "suspectedOwners": []
+}

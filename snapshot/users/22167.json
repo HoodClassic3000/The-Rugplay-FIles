@@ -1,0 +1,47 @@
+{
+  "userId": 22167,
+  "username": "bright_whale8077",
+  "name": "Zane Kingsley",
+  "avatarUrl": "avatars/111407427830148113189.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T22:30:29.967Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-03-26T23:43:09.248Z",
+  "stats": {
+    "baseCurrencyBalance": 0.00338431,
+    "totalBuyVolume": 16665.20847944,
+    "totalSellVolume": 16118.00186375,
+    "totalPortfolioValue": 0.00338431,
+    "holdingsValue": 0,
+    "holdingsCount": 0,
+    "coinsCreated": 6,
+    "totalTransactions": 34,
+    "transactions24h": 8,
+    "buyVolume24h": 4540.70338431,
+    "sellVolume24h": 5873.00676862
+  },
+  "arcade": {
+    "arcadeWins": 2754.2,
+    "arcadeLosses": 30606.99,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "BPCCN",
+    "PPCCN",
+    "RPCCN",
+    "MPCCN",
+    "HAWKYCOIN",
+    "SHCC"
+  ],
+  "indicators": [],
+  "relationships": [],
+  "suspectedOwners": []
+}

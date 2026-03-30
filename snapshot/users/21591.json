@@ -1,0 +1,44 @@
+{
+  "userId": 21591,
+  "username": "kentroix",
+  "name": "Kentroix",
+  "avatarUrl": "avatars/116036584503066423239.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T13:25:08.904Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-03-07T23:14:52.824Z",
+  "stats": {
+    "baseCurrencyBalance": 203507.54428426,
+    "totalBuyVolume": 1010379.5541466,
+    "totalSellVolume": 441941.10014326,
+    "totalPortfolioValue": 2283210.355658731,
+    "holdingsValue": 2079702.8113744708,
+    "holdingsCount": 33,
+    "coinsCreated": 3,
+    "totalTransactions": 159,
+    "transactions24h": 1,
+    "buyVolume24h": 0,
+    "sellVolume24h": 95799.54428426
+  },
+  "arcade": {
+    "arcadeWins": 1614823.4920987,
+    "arcadeLosses": 1514930.83007741,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "BOBERCOIN",
+    "SOGGYCOIN",
+    "ICOIN"
+  ],
+  "indicators": [],
+  "relationships": [],
+  "suspectedOwners": []
+}

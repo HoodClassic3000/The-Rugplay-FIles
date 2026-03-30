@@ -1,0 +1,28 @@
+{
+  "userId": 21339,
+  "username": "21339",
+  "name": null,
+  "avatarUrl": null,
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-30T13:06:34.572Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": null,
+  "stats": null,
+  "arcade": {
+    "arcadeWins": 0,
+    "arcadeLosses": 0,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [],
+  "indicators": [],
+  "relationships": [],
+  "suspectedOwners": []
+}

@@ -1,0 +1,44 @@
+{
+  "userId": 5262,
+  "username": "48yearoldsomalian",
+  "name": "48 Year Old Somalian",
+  "avatarUrl": "avatars/5262.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T02:57:05.223Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2025-06-23T16:32:23.120Z",
+  "stats": {
+    "baseCurrencyBalance": 10511.37511845,
+    "totalBuyVolume": 1080608.51142903,
+    "totalSellVolume": 697001.33325191,
+    "totalPortfolioValue": 64448.548173774,
+    "holdingsValue": 53937.173055324,
+    "holdingsCount": 25,
+    "coinsCreated": 3,
+    "totalTransactions": 263,
+    "transactions24h": 24,
+    "buyVolume24h": 26300,
+    "sellVolume24h": 14621.37511845
+  },
+  "arcade": {
+    "arcadeWins": 1021561.736,
+    "arcadeLosses": 1081067.66,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "1BACH",
+    "BCDFE",
+    "FAAA"
+  ],
+  "indicators": [],
+  "relationships": [],
+  "suspectedOwners": []
+}

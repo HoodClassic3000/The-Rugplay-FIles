@@ -1,0 +1,51 @@
+{
+  "userId": 20520,
+  "username": "bestgambler",
+  "name": "Investor/Gambler",
+  "avatarUrl": "avatars/20520.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-29T14:11:10.935Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-01-28T02:45:46.417Z",
+  "stats": {
+    "baseCurrencyBalance": 11191009.94194409,
+    "totalBuyVolume": 39963040.79992915,
+    "totalSellVolume": 17534964.03749132,
+    "totalPortfolioValue": 533242952575.0621,
+    "holdingsValue": 533231761565.1201,
+    "holdingsCount": 26,
+    "coinsCreated": 10,
+    "totalTransactions": 297,
+    "transactions24h": 2,
+    "buyVolume24h": 2000,
+    "sellVolume24h": 0
+  },
+  "arcade": {
+    "arcadeWins": 116574579.32167876,
+    "arcadeLosses": 90253991.4499996,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "GAMBLINGGG",
+    "RUGPLAYYY",
+    "MONEYYY",
+    "MSST",
+    "ACHV",
+    "STSK",
+    "SSSSAA",
+    "ASFRS",
+    "ENEFSBB",
+    "HTEAFGD"
+  ],
+  "indicators": [],
+  "relationships": [],
+  "suspectedOwners": []
+}

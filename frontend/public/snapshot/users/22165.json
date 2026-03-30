@@ -1,0 +1,52 @@
+{
+  "userId": 22165,
+  "username": "lucky_boiii",
+  "name": "yiannis",
+  "avatarUrl": "avatars/101973507349756574961.webp",
+  "overallScore": 0,
+  "overallLabel": "Unlikely",
+  "clusterId": null,
+  "isBanned": false,
+  "firstSeen": "2026-03-30T01:58:26.612Z",
+  "isMastermind": false,
+  "mastermindScore": 0,
+  "createdAt": "2026-03-26T23:29:43.496Z",
+  "stats": {
+    "baseCurrencyBalance": 430000.37000034,
+    "totalBuyVolume": 893712.7625912,
+    "totalSellVolume": 892915.07259154,
+    "totalPortfolioValue": 436086.9823665782,
+    "holdingsValue": 6086.612366238221,
+    "holdingsCount": 6,
+    "coinsCreated": 10,
+    "totalTransactions": 111,
+    "transactions24h": 28,
+    "buyVolume24h": 476141.91710811,
+    "sellVolume24h": 473418.91710848
+  },
+  "arcade": {
+    "arcadeWins": 333012.69,
+    "arcadeLosses": 9129,
+    "sessionWagered": 0,
+    "sessionWon": 0,
+    "sessionGamesPlayed": 0,
+    "sessionWins": 0,
+    "sessionLosses": 0
+  },
+  "createdCoins": [
+    "DAECN",
+    "ROYLICN",
+    "MRCRISPY",
+    "DALLCN",
+    "ZANOBTC",
+    "HAVIERCN",
+    "CURTCOIN",
+    "BRADCN",
+    "YIANNIS",
+    "BRAITHEN",
+    "JUNCN"
+  ],
+  "indicators": [],
+  "relationships": [],
+  "suspectedOwners": []
+}
